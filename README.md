@@ -1,16 +1,34 @@
 <a id="readme-top"></a>
-# Nano Banana(nanobanana)/GPT-5/GPT-4o/豆包 Image Prompts
 
-🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！
+# Nano Banana 2 / GPT-5 / GPT-4o / 豆包 Image Prompts
 
-🎉 提示词持续更新中。。。
+> 🎨 精选AI图像生成提示词集合 - 包含 415+ 实用案例
 
-🎉 在线演示地址：https://www.gempix2.site/
+## 🌟 项目简介
 
-## 🆕 项目改造说明
-- 新增 `scripts/generate-dataset.js`，可将仓库内的 Markdown 案例自动解析为结构化的 `data/prompts.json` 数据集，包含来源、图片、提示词、示例、备注及自动生成的分类标签。
-- 提供全新的前端页面（`index.html` + `assets/`），支持画廊浏览、标签筛选、关键字搜索、案例详情查看以及提示词一键复制。
-- 如需更新数据，先维护 Markdown 文件，再运行 `node scripts/generate-dataset.js` 重新生成 JSON，最后通过任意静态服务器打开 `index.html` 即可体验（例如 `python3 -m http.server 8000`）。
+欢迎来到 **Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选库**！
+
+本项目收集并整理了 **415+ 个高质量 AI 图像生成提示词案例**，涵盖人物肖像、角色设计、3D渲染、艺术风格等多个领域。每个案例都经过精心挑选和测试，可直接用于实际创作。
+
+### 🎯 在线体验
+
+- **🌐 Gempix2 平台**：[www.gempix2.site](https://www.gempix2.site) - 提供 Nano Banana 2 技术访问的专业平台
+- **📚 提示词浏览**：[gempix2.site/prompts](https://www.gempix2.site/prompts) - 在线浏览所有提示词案例
+- **🖼️ 作品展示**：[gempix2.site/showcase](https://www.gempix2.site/showcase) - 查看社区创作的精彩作品
+
+### 🎬 相关项目
+
+- **[Sora 2 Tools](https://www.sora-2.tools/)** - AI 视频生成平台，支持将图像转换为视频
+
+### ✨ 特性
+
+- ✅ **415+ 提示词案例** - 持续更新中
+- ✅ **分类标签** - 按场景、风格、用途自动分类
+- ✅ **在线浏览** - 支持画廊模式、标签筛选、关键词搜索
+- ✅ **一键复制** - 快速复制提示词到剪贴板
+- ✅ **结构化数据** - 自动生成 JSON 数据集
+
+
 - 画廊页面会自动聚合所有标签，可快速组合筛选；点击卡片进入详情，可查看全部示例图、提示词及备注。
 
 ## 获取最新提示词？你可以通过这3个渠道。
