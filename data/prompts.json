@@ -1,7 +1,373 @@
 {
-  "generatedAt": "2025-11-25T03:09:05.401Z",
-  "total": 493,
+  "generatedAt": "2025-11-25T05:14:58.536Z",
+  "total": 508,
   "items": [
+    {
+      "id": 508,
+      "slug": "prompt-508",
+      "title": "女子海边电影风格肖像照",
+      "source": {
+        "name": "@MANISH1027512",
+        "url": "https://x.com/MANISH1027512/status/1992795956597628978"
+      },
+      "images": [
+        "images/508.jpeg"
+      ],
+      "prompts": [
+        "A young woman standing on the beach at dusk, captured in a soft emotional film-style portrait. \nHer dark hair is messy from the sea breeze, strands blowing across her face. \nShe has natural, slightly flushed skin with a subtle grainy texture. \nWearing a white spaghetti-strap top and denim bottoms. \nThe background shows dark ocean waves and a moody sky with soft sunset colors—dusty pink, blue-gray, and muted lavender. \nThe overall image features a low-saturation, cool-toned cinematic film filter with soft contrast, slight grain, and a hazy atmosphere. \nClose-up portrait, melancholic mood, natural lighting, realistic details, 8K.",
+        "黄昏时分，一位年轻女子站在海滩上，被拍摄成一张柔和而富有情感的电影风格肖像照。\n海风吹乱了她乌黑的头发，几缕发丝飘落在她的脸上。\n她的皮肤自然红润，质地略带颗粒感。\n身穿白色吊带背心和牛仔裤。\n背景是深色的海浪和阴郁的天空，夕阳的颜色柔和而朦胧——灰粉色、蓝灰色和淡紫色。\n整体画面采用低饱和度、冷色调的电影胶片滤镜，对比度柔和，颗粒感轻微，氛围朦胧。\n特写人像，忧郁氛围，自然光线，逼真细节，8K分辨率。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用 Gempix2 或 Nano Banana 2 拍摄海边电影风格肖像，营造柔和情绪化画面，适合时尚摄影与生活方式品牌，呈现朦胧氛围与深度故事感。",
+        "en": "Capture cinematic beach portraits with the Gempix2 and Nano Banana 2, delivering soft film-style imagery perfect for emotional storytelling. Ideal for fashion photography or lifestyle brands seeking moody, atmospheric visuals. Enhance with natural lighting and subtle grain for authentic depth."
+      },
+      "tags": [],
+      "coverImage": "images/508.jpeg"
+    },
+    {
+      "id": 507,
+      "slug": "prompt-507",
+      "title": "中国各朝代时间轴",
+      "source": {
+        "name": "@bggg_ai",
+        "url": "https://x.com/bggg_ai/status/1991674051727880549"
+      },
+      "images": [
+        "images/507.jpeg"
+      ],
+      "prompts": [
+        "帮我生成超长的竖图，内容是中国各朝代的时间推进介绍信息图。确保朝代都完整。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助 Gempix2 或 Nano Banana 2 模型，生成清晰完整的中国各朝代时间轴竖图，适合教学、展览及文化展示，直观呈现历史进程与朝代更迭。",
+        "en": "Create a comprehensive vertical timeline of Chinese dynasties with the Gempix2 and Nano Banana 2 models, perfect for educational infographics. Ideal for history classes, museums, or cultural exhibitions to visually track imperial progress. Use detailed prompts for accurate chronological flow and engaging historical visuals."
+      },
+      "tags": [],
+      "coverImage": "images/507.jpeg"
+    },
+    {
+      "id": 506,
+      "slug": "prompt-506",
+      "title": "一个全新的Instagram账号",
+      "source": {
+        "name": "@shweta_ai",
+        "url": "https://x.com/shweta_ai/status/1991536669682721223"
+      },
+      "images": [
+        "images/506.jpeg"
+      ],
+      "prompts": [
+        "Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror selfie, a café shot, friends at dinner, a blurry party photo, a walking shot, a laptop/coffee work shot, a pet moment, a sunset, and a candid laugh.",
+        "生成一个包含 9 张图片的‘照片合集’，展现这个人周末的点点滴滴：一张镜子自拍、一张咖啡馆照片、与朋友共进晚餐的照片、一张模糊的派对照片、一张步行照片、一张笔记本电脑/咖啡工作照片、一张宠物照片、一张日落照片和一张抓拍的笑声。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用 Gempix2 或 Nano Banana 2 轻松生成真实自然的周末生活照片合集，适合生活方式博主打造随性故事感的 Instagram 内容，突出日常瞬间的生动与氛围。",
+        "en": "Capture authentic weekend moments with the Gempix2 and Nano Banana 2 models, perfect for creating casual, story-driven Instagram photo dumps. Ideal for lifestyle influencers and personal branding, these models deliver natural lighting and candid aesthetics effortlessly. Try keywords like \"casual storytelling\" or \"daily life visuals\" for optimal results."
+      },
+      "tags": [],
+      "coverImage": "images/506.jpeg"
+    },
+    {
+      "id": 505,
+      "slug": "prompt-505",
+      "title": "解数学题",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991768891966812273"
+      },
+      "images": [
+        "images/505.jpeg"
+      ],
+      "prompts": [
+        "画一张草稿纸，上面是这道题的解法"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "Gempix2 以逼真的草稿纸风格呈现数学解题过程，适合教育内容和学术插图，帮助用户清晰理解每一步解法。",
+        "en": "Capture the essence of mathematical problem-solving with the Gempix2 and Nano Banana 2 models, delivering a realistic draft paper style. Ideal for educational content, tutorials, and academic illustrations to enhance learning materials. Use keywords like \"step-by-step solutions\" or \"handwritten math work\" for optimal results."
+      },
+      "tags": [],
+      "coverImage": "images/505.jpeg"
+    },
+    {
+      "id": 504,
+      "slug": "prompt-504",
+      "title": "品牌联名海报",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991761772454224349"
+      },
+      "images": [
+        "images/504.jpeg"
+      ],
+      "prompts": [
+        "画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。  场景: 四位时尚的动漫角色（一位黑夹克粉发女孩是视觉中心，一位银发女孩，一位白发男孩，一位黑发男孩）在未来城市夜晚上摆姿势，每人都拿着一杯可乐。  环境: 这是一个未来城市的夜间街道，整个场景  被巨大、发光的霓虹灯招牌所主导。  一个以风格化的“ZZZ”标志为特色的、巨大且不容错过的霓虹灯招牌，是背景的绝对视觉焦点，在主角们身后闪耀着明亮的光芒。 其他写着“可口可乐”的霓虹灯也同样醒目，将整个场景沐浴在鲜艳的紫色和蓝色光线中。  特殊效果: 草莓和柠檬等水果被包裹在透明气泡中漂浮，发光的粉色和蓝色能量漩涡贯穿画面。  文字元素:  左上角: 显示“绝区零”和“可乐”的Logo，由“X”连接。  底部中央: 一大块醒目的中文文字“绝区零 X 可乐：异能觉醒，双倍快乐！”。字体为粗体、风格化的艺术字，白色填充，带有厚重的紫粉渐变描边。  中文下方: 黑色矩形框内有白色大写英文“LIMITED COLLAB”。  艺术风格: 高度细节，线条干净，来自巨型霓虹灯的电影级光效，动态构图。  负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助Gempix2模型打造充满活力的《绝区零》动漫风格联名海报，呈现未来都市夜景中四位角色手持可乐的炫酷场景，霓虹灯光与特效气泡交织，完美适用于游戏与饮料品牌的跨界宣传。",
+        "en": "Capture the vibrant anime style of Zenless Zone Zero with the Gempix2 and Nano Banana 2 models, ideal for creating official game collaboration posters. This dynamic scene is perfect for promotional materials in the gaming and beverage industries, featuring futuristic city nights with glowing neon and special effects. Use keywords like \"neon-lit\" and \"collaboration art\" for optimal results."
+      },
+      "tags": [],
+      "coverImage": "images/504.jpeg"
+    },
+    {
+      "id": 503,
+      "slug": "prompt-503",
+      "title": "平抛运动轨迹与速度位移分解图",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991697151811023274"
+      },
+      "images": [
+        "images/503.jpeg"
+      ],
+      "prompts": [
+        "平抛运动轨迹与速度位移分解图"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助 Gempix2 和 Nano Banana 2 模型，轻松生成平抛运动轨迹与速度位移分解图，为物理教学和动态可视化提供直观工具，适用于学术模拟、工程分析及 STEM 教育材料制作。",
+        "en": "Explore projectile motion trajectories and velocity decomposition diagrams with the Gempix2 and Nano Banana 2 models, ideal for physics education and dynamic visualizations. These tools are perfect for academic simulations, engineering analysis, and creating clear instructional materials in STEM fields. Use keywords like \"kinematics\" and \"motion graphics\" for enhanced search results."
+      },
+      "tags": [],
+      "coverImage": "images/503.jpeg"
+    },
+    {
+      "id": 502,
+      "slug": "prompt-502",
+      "title": "老北京航拍",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991684492474409440"
+      },
+      "images": [
+        "images/502.jpeg"
+      ],
+      "prompts": [
+        "画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。\n\n**字体与建筑的融合 (终极的精妙之处):**\n- **无物理高差:** “衚”字不是一个独立的、高耸的或庞大的结构。构成其笔画的墙体，与周围所有的胡同、四合院的墙体，在**高度、材质和风格上完全一致**。它身处肌理之中，而非凌驾其上。\n- **“光影雕刻”:** 汉字的形态并非由结构来凸显，而是由**大师级的、富有氛围感的光影**来呈现。一束低角度的午后斜阳（Raking Light）横扫整个场景。光线刚好捕捉到构成“衚”字形态的墙体的边缘，使其微妙地变亮，同时在其“笔画”（即胡同）内部投下深刻而轮廓分明的阴影。这个字，是被光所揭示，而非被水泥所建造。\n- **“氛围透视”:** 一层纤薄的、贴地的晨雾或霭气，弥漫在周边的庭院和巷陌中，使边缘的细节略微柔化。然而，构成“衚”字形态的那些路径和庭院，则**微妙地更加清晰、对比度更高**，由此形成一个自然的视觉焦点，让隐藏的形状在凝视者的眼中浮现。\n\n**优雅的字体排版布局:**\n保留精致且艺术化的字体设计。\n- **主标题:** 标题“字里京城”被排成一个强有力的单列竖排，位于右侧。背景区域被巧妙地处理成半透明的微妙褪色效果，以确保文字的可读性而不突兀。字体是优雅的“新宋体”风格。一条极细的竖线与文字平行。\n- **信息标签:** 标签文字（“灰瓦”、“国槐”）采用小号、精致的手写体。它们通过一条铅笔在图纸上画出般的、针尖般纤细的手绘曲线连接到物体。**不要有方框，不要有发光效果。**\n\n**美学:**\n整体基调是宁静、引人深思且意境深远的。色调是考究的“高级灰”，以饱和度低的色彩为主，唯一的色彩点缀来自阳光温暖的轻抚。画面拥有一种“众目睽睽下的秘密”般的气质，回报着观者的耐心与洞察力。它是一次具有深刻绘画感和哲学氛围的超写实渲染。\n\n**负面提示词:**\n高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助 Gempix2 或 Nano Banana 2 模型，捕捉汉字与城市肌理的微妙融合，呈现老北京航拍的精妙光影与氛围透视，适合建筑可视化或艺术航拍项目，打造沉浸式城市景观。",
+        "en": "Capture the subtle fusion of Chinese typography and urban texture with the Gempix2 and Nano Banana 2 models, ideal for architectural visualization and artistic aerial photography. This style excels in creating immersive cityscapes where light and shadow reveal hidden forms, perfect for cultural projects or luxury real estate presentations. Use raking light and atmospheric perspective to enhance depth."
+      },
+      "tags": [],
+      "coverImage": "images/502.jpeg"
+    },
+    {
+      "id": 501,
+      "slug": "prompt-501",
+      "title": "大唐长安插画",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991684207513350329"
+      },
+      "images": [
+        "images/501.jpeg"
+      ],
+      "prompts": [
+        "画幅比例16:9，一幅令人叹为观止的插画地图学杰作，描绘了唐代首都长安的地图。整个画面以唐代仕女画的精致风格呈现，令人联想到绘画大师周昉的作品。媒材是在陈旧、细腻的绢本上使用工笔重彩。\n\n**构图与透视:**\n地图采用“散点透视”的长卷形式。城市感觉更像一幅生动的织锦，而非僵硬的蓝图。朱雀大街作为画面的中轴线。\n\n**插画与字体细节:**\n- **作为微型场景的地标:** 关键地点是小巧、精致的叙事场景：\n- **大明宫:** 宫廷仕女在园林中演奏乐器。\n- **西市:** 粟特商人与贵族妇女交易丝绸。\n- **曲江池:** 仕女们正在进行“曲水流觞”。\n- **作为地图元素的优雅人物:** 优雅的唐代仕女被用作装饰元素，她们的姿态和袖带引导着观众的视线。\n\n**一百零八坊 - 高级指令:**\n一百零八坊由一个个优雅的手绘长方形印章来代表。核心目标是用貌似可信的、具有历史感的文字填充这些印章。\n- **指令:** AI不必尝试渲染全部108个独一无二的坊名，而是必须从提供的“样本集”中学习，并用相似的、合理的、不重复的双字坊名去填充每一个印章。\n- **著名坊名样本集 (用于风格参考):**\n“平康坊”、“崇仁坊”、“兴庆坊”、“道政坊”、“长兴坊”、“永崇坊”、“亲仁坊”、“永宁坊”、“怀远坊”、“延康坊”、“金城坊”、“布政坊”。\n- **风格强制要求:** 所有印章内的文字必须是优美、纤细、典雅的“小篆”字体。结构应为“[某][某]坊”。\n\n**主标题与标签:**\n- **主标题:** “大唐长安”以雄浑大气的隶书，竖排书写在右上角。\n- **标签:** 街道（“朱雀大街”）和河流（“渭水”）的名称，以娟秀的行书直接写在绢本背景上，并顺着路径的曲线流动。\n\n**美学与氛围:**\n调色板丰富而华丽（朱砂、石绿、石青、金箔）。线条如“游丝描”般细劲流畅。整体氛围是一种繁华、诗意、优雅的感觉。\n\n**负面提示词:**\n英文, 罗马字母, 3D, 现代地图, 网格布局, 几何形状, 电脑字体, 西方艺术风格, 卡通, 简单, 极简, 空白区域, 水印, 糟糕的书法, 乱码。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用Gempix2或Nano Banana 2，轻松生成如这幅大唐长安插画般的杰作，以精致仕女画风描绘历史场景，适合文化教育或艺术创作，带来身临其境的视觉体验。",
+        "en": "Discover the Gempix2 and Nano Banana 2 models for creating stunning 16:9 illustrations like this Tang Dynasty Chang'an map, rendered in exquisite court-lady painting style on delicate silk. Ideal for historical visualizations, educational materials, or cultural projects, it brings ancient scenes to life with narrative details. Use refined keywords like \"scroll perspective\" and \"elegant figures\" to enhance your AI-generated artwork."
+      },
+      "tags": [],
+      "coverImage": "images/501.jpeg"
+    },
+    {
+      "id": 500,
+      "slug": "prompt-500",
+      "title": "赛博黄历",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991684059450253416"
+      },
+      "images": [
+        "images/500.jpeg"
+      ],
+      "prompts": [
+        "画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。\n布局与风格: 整张海报是一个密集的、复杂的网格，充满了文字和图标，模仿在泛黄旧纸上的中国传统木版画。所有文字都采用经典的木刻风格楷体或宋体，从右到左竖排。\n中心神像: 中央是一位“外卖神君”，以古版画风格描绘。他身穿黄帝袍，头戴袋鼠耳神冠，一手托着显示美团App的手机，另一手托着外卖餐盒。\n复杂文字网格:\n顶部标题: 在一个华丽的画框中，从右到左写着主标题：“赛博黄历·万事皆宜”。\n环绕网格: 中心神像被代表十二时辰（子、丑、寅…）的网格包围。每个时辰下都有一列竖排文字描述宜忌，例如“宜：點宵夜”和“忌：空腹眠”。\n角落元素: 四角是八卦卦象，每个卦象都与一项美团业务和一个小版画图标相关联（例如，机械马代表共享单车）。\n细节: 海报上装饰着几个红色的、篆书风格的方形印章。整体氛围是古代神秘主义与现代日常生活的融合，一种“赛博道教”美学。杰作，高信息密度。\n负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助 Gempix2 创作“赛博黄历”海报，融合传统木刻美学与未来主义元素，打造高密度信息设计，完美适用于美团等现代商业营销场景，展现神秘与日常的独特融合。",
+        "en": "Craft a futuristic Daoist calendar poster with Gempix2 or Nano Banana 2, blending traditional woodblock aesthetics and cyberpunk elements for a divine delivery theme. Ideal for modern marketing in food delivery or tech industries, this high-density design merges ancient mysticism with daily life. Use keywords like \"cyber Daoism\" and \"vintage typography\" to enhance its unique appeal."
+      },
+      "tags": [],
+      "coverImage": "images/500.jpeg"
+    },
+    {
+      "id": 499,
+      "slug": "prompt-499",
+      "title": "成都旅游地图",
+      "source": {
+        "name": "@imaxichuhai",
+        "url": "https://x.com/imaxichuhai/status/1991679696744976723"
+      },
+      "images": [
+        "images/499.jpeg"
+      ],
+      "prompts": [
+        "画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。\n\n地图布局与风格:\n地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。\n\n至关重要的字体排版挑战 (高难度部分):\n所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。\n1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。\n2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。\n3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。\n4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：\n    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。\n    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。\n    - 区域名称“锦江区”被写在一个手绘的云朵形状里。\n5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。\n6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。\n\n美学:\n一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。\n\n负面提示词:\n电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用Gempix2创作一幅吉卜力风格的成都手绘旅游地图，以异想天开的水彩和钢笔淡彩呈现核心地标，适合旅游指南或文化推广项目，带来充满活力的视觉体验。借助Nano Banana 2，地图中的手写文字与插画完美融合，营造出有机而迷人的艺术氛围。",
+        "en": "Discover the Gempix2 and Nano Banana 2 models for crafting a charming, hand-drawn Chengdu tourist map with a Ghibli-inspired aesthetic. This whimsical design is perfect for travel guides, cultural promotions, or artistic projects, evoking a lively and organic feel. Enhance it with custom calligraphy and isometric landmarks for a unique, engaging visual experience."
+      },
+      "tags": [],
+      "coverImage": "images/499.jpeg"
+    },
+    {
+      "id": 498,
+      "slug": "prompt-498",
+      "title": "小世界也能成就大故事",
+      "source": {
+        "name": "@aziz4ai",
+        "url": "https://x.com/aziz4ai/status/1992753152903495716"
+      },
+      "images": [
+        "images/498.jpeg"
+      ],
+      "prompts": [
+        "创作一幅高度精细的微缩超现实场景，场景中微小的人物与附图所示的[此处插入品牌和产品名称]产品进行逼真的互动。这些人物应表现得仿佛产品就是他们的整个世界，所有视觉元素都应自然而然地适应产品的形态和特性，没有任何预设的前提。确保人物与产品之间的互动能够巧妙而连贯地体现品牌的形象和预期用途，并采用简洁的视觉构图和极简的背景。运用电影级的灯光、清晰的阴影和锐利的摄影技巧，将[品牌名称]的标志无缝融入场景，并添加一句能够自动适应产品语境的简短标语。要求：1:1 – 超精细 – 照片级写实 – 简洁专业的制作。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "借助 Gempix2 创作超现实微缩场景，让微小人物与产品自然互动，呈现电影级光影与品牌融合，适合广告和创意视觉叙事。",
+        "en": "Discover the Gempix2 and Nano Banana 2 for crafting hyper-realistic miniature scenes where tiny figures interact seamlessly with products, embodying surreal micro-worlds in a cinematic style. Ideal for advertising, product visualization, or creative storytelling, this approach highlights brand integration with sharp, professional photography. Enhance your visuals by focusing on minimalist backgrounds and adaptive lighting for maximum impact."
+      },
+      "tags": [],
+      "coverImage": "images/498.jpeg"
+    },
+    {
+      "id": 497,
+      "slug": "prompt-497",
+      "title": "日本乡村公交车站雨夜的场景",
+      "source": {
+        "name": "@lexx_aura",
+        "url": "https://x.com/lexx_aura/status/1992864343709663397"
+      },
+      "images": [
+        "images/497.jpeg"
+      ],
+      "prompts": [
+        "{\n  \"image_generation_prompt\": {\n    \"full_text\": \"An ultra-realistic 8K UHD photograph of a rainy night scene at a rural Japanese bus stop. A person (based on the attached photos, with a normal build) is standing, holding a small red umbrella, wearing a red jumpsuit, blue boots, and a yellow t-shirt, looking to the side with an expression of apprehension and curiosity. Beside him, a gigantic, realistic Totoro creature, with wet fur and a leaf on its head, waits in the rain. The setting includes an aged bus stop sign, dense wet forest trees in the background, and the lighting comes from a dim lamppost and the moon, with realistic rain reflections on the wet asphalt. Wide shot. The face must be sharp and expressive.\",\n    \"technical_specs\": {\n      \"medium\": \"Photograph\",\n      \"resolution\": \"8K UHD\",\n      \"style\": \"Ultra-realistic\",\n      \"composition\": \"Wide shot\",\n      \"focus\": \"Sharp and expressive face\"\n    },\n    \"lighting\": {\n      \"sources\": [\"Dim lamppost\", \"Moon\"],\n      \"effects\": [\"Realistic rain reflections on wet asphalt\"]\n    },\n    \"environment\": {\n      \"location\": \"Rural Japanese bus stop\",\n      \"weather\": \"Rainy night\",\n      \"background\": \"Dense wet forest trees\",\n      \"props\": [\"Aged bus stop sign\"]\n    },\n    \"subjects\": [\n      {\n        \"type\": \"Human\",\n        \"reference_source\": \"Attached photos\",\n        \"build\": \"Normal\",\n        \"attire\": {\n          \"clothing\": \"Red jumpsuit, yellow t-shirt\",\n          \"footwear\": \"Blue boots\",\n          \"accessories\": \"Small red umbrella\"\n        },\n        \"pose\": \"Standing, looking to the side\",\n        \"expression\": \"Apprehension and curiosity\"\n      },\n      {\n        \"type\": \"Creature\",\n        \"identity\": \"Gigantic realistic Totoro\",\n        \"details\": [\"Wet fur\", \"Leaf on head\"],\n        \"action\": \"Waiting in the rain\"\n      }\n    ]\n  }\n}",
+        "{\n\"image_generation_prompt\": {\n\"full_text\": \"一张超逼真的8K超高清照片，描绘的是日本乡村公交车站雨夜的场景。照片中，一位身材正常的男子（根据附图）手持一把红色小伞，身穿红色连体裤、蓝色靴子和黄色T恤，侧身看向一旁，脸上带着一丝担忧和好奇。在他身旁，一只巨大的、栩栩如生的龙猫，毛发湿漉漉的，头上顶着一片树叶，在雨中等待着。场景中包含一块老旧的公交车站牌，背景是茂密的湿润森林，光线来自昏暗的路灯和月光，雨水在湿漉漉的沥青路面上倒映出逼真的光影。广角镜头。面部表情必须清晰且富有表现力。\"\n\"technical_specs\": {\n“媒介”：“照片”，\n分辨率：8K 超高清，\n风格：超写实\n构图：广角镜头，\n“焦点”：“轮廓分明、富有表现力的脸庞”\n},\n“灯光”： {\n“来源”：[“昏暗的路灯”，“月亮”]，\n“效果”：[“湿沥青路面上逼真的雨水反射”]\n},\n“环境”： {\n\"地点\": \"日本乡村巴士站\",\n“天气”：“雨夜”，\n“背景”：“茂密的湿润森林树木”，\n道具：[“老旧的公交车站牌”]\n},\n“主题”：[\n{\n“类型”：“人类”，\n\"reference_source\": \"附图\",\n\"构建\": \"正常\",\n着装：{\n“服装”：“红色连体裤，黄色T恤”，\n“鞋类”：“蓝色靴子”，\n“配件”： “红色小伞”\n},\n“姿势”：“站立，侧视”，\n“表情”：“忧虑和好奇”\n},\n{\n\"type\": \"生物\",\n“身份”：“巨大的逼真龙猫”，\n细节：[“湿漉漉的毛皮”，“头上的叶子”]\n“动作”：“在雨中等待”\n}\n]\n}\n}"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用Gempix2或Nano Banana 2，轻松打造超逼真的日本乡村雨夜公交站场景，完美呈现细腻光影与情感氛围，适合动画概念设计和奇幻故事创作。",
+        "en": "Capture ultra-realistic scenes with the Gempix2 and Nano Banana 2 models, perfect for creating atmospheric Japanese rural nightscapes. Ideal for animation concept art or fantasy storytelling, these tools excel in rendering detailed, emotive characters and environments. Enhance your visuals by incorporating subtle elements like rain effects and expressive lighting."
+      },
+      "tags": [],
+      "coverImage": "images/497.jpeg"
+    },
+    {
+      "id": 496,
+      "slug": "prompt-496",
+      "title": "身着一件惊艳的概念前卫礼服",
+      "source": {
+        "name": "@Arminn_Ai",
+        "url": "https://x.com/Arminn_Ai/status/1992650501402542303"
+      },
+      "images": [
+        "images/496.jpeg"
+      ],
+      "prompts": [
+        "(full body shot, wide angle view:1.2), [A woman], in a dynamic pose with arm outstretched, wearing a spectacular conceptual avant-garde gown. The bodice is a fitted (colorful patterned patchwork tapestry fabric:1.3). The skirt is NOT fabric and NOT simple ribbons. The skirt is constructed entirely from (GIANT, MASSIVE 3D PERSIAN CALLIGRAPHY STROKES cut from matte paper:1.6). (A violent wind effect blows the calligraphy structure upwards and outwards to the left:1.5), creating a huge swirling anti-gravity vortex of letters that billows like smoke high into the air. The right side of the skirt anchors to the floor. Dramatic color gradient: The floating strokes on the left are (fiery orange and bright red:1.4), transitioning smoothly across the body to (deep teal, emerald green, and dark blue strokes on the bottom right:1.4). White minimalist studio background with (distinctive patterned gobo shadows cast on the wall:1.3). Cinematic lighting, hyper-detailed paper texture, masterpiece, 8k. (simple ribbons with writing on them:1.6), (thin paper strips:1.5), (small text:1.4), standard fabric skirt, normal dress, metallic texture, shiny plastic, glossy finish, wire mesh, angel wings, feathers attached to back, symmetrical skirt, messy background, low quality, blurry.",
+        "（全身镜头，广角：1.2），[一位女性]摆出一个动态的姿势，手臂伸展，身着一件惊艳的概念前卫礼服。紧身胸衣采用（色彩斑斓的图案拼接挂毯面料：1.3）。裙摆并非布料，也并非简单的丝带。裙摆完全由（巨大的、巨大的3D波斯书法笔触，由哑光纸切割而成：1.6）构成. (一阵强风将这些书法结构向上向左吹拂：1.5），形成一个巨大的、旋转的、反重力的字母漩涡，如同烟雾般高高升腾。裙摆右侧固定在地面上。戏剧性的色彩渐变：左侧漂浮的笔触是（炽热的橙色和鲜红色：1.4），平滑地过渡到（右下角的深青色、翠绿色和深蓝色笔触：1.4）。白色极简主义工作室背景，墙上投射着独特的图案投影：1.3。电影级灯光，超精细的纸张纹理，杰作，8K。（带有文字的简单丝带：1.6），（细纸条：1.5），（小字：1.4），标准布料裙子，普通连衣裙，金属质感，闪亮塑料，光泽表面，金属网，天使翅膀，背部附有羽毛，对称裙子，凌乱的背景，低质量，模糊。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用 Gempix2 或 Nano Banana 2 模型，捕捉前卫时尚艺术，呈现身着概念礼服女性的动态姿态，适合高端时尚大片、创意作品集或奢侈品牌宣传，突出3D书法裙摆与风动效果的视觉冲击。",
+        "en": "Capture avant-garde fashion artistry with the Gempix2 and Nano Banana 2 models, showcasing a woman in a dynamic pose wearing a conceptual gown. Ideal for high-fashion editorials, creative portfolios, or luxury brand campaigns highlighting innovative design. Use keywords like \"3D calligraphy skirt\" and \"wind effect\" for striking visual impact."
+      },
+      "tags": [],
+      "coverImage": "images/496.jpeg"
+    },
+    {
+      "id": 495,
+      "slug": "prompt-495",
+      "title": "微缩的温馨客厅",
+      "source": {
+        "name": "@egeberkina",
+        "url": "https://x.com/egeberkina/status/1992654337815007678"
+      },
+      "images": [
+        "images/495.jpeg"
+      ],
+      "prompts": [
+        "A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.",
+        "一张逼真的 ESC 键帽场景图展现了一个微缩的温馨客厅。室内：一台闪着红光的 Netflix 屏幕、一张柔软的红色沙发、一碗爆米花和一条毯子。一个小人儿懒洋洋地翘着二郎腿，正在观看视频。红色的“N”字标志从后面透出光芒，如同氛围灯一般。室外：F1、Shift 和 Q 键上反射着酷炫的科技蓝光。“ESC”字样则以朦胧的玻璃质感隐约出现在键帽顶部。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "Gempix2 与 Nano Banana 2 模型完美捕捉微缩 ESC 键帽中的温馨客厅场景，逼真呈现发光 Netflix 屏幕与舒适细节，适合产品展示和创意摄影。",
+        "en": "Capture a photorealistic miniature living room with the Gempix2 and Nano Banana 2 models, perfect for showcasing cozy, detailed scenes. This setup is ideal for product visualization, creative photography, or tech-themed content. Use keywords like \"miniature ESC keycap\" and \"glowing Netflix\" for enhanced SEO."
+      },
+      "tags": [],
+      "coverImage": "images/495.jpeg"
+    },
+    {
+      "id": 494,
+      "slug": "prompt-494",
+      "title": "和路飞的一张超酷自拍",
+      "source": {
+        "name": "@CharaspowerAI",
+        "url": "https://x.com/CharaspowerAI/status/1992707230505009620"
+      },
+      "images": [
+        "images/494.jpeg"
+      ],
+      "prompts": [
+        "Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted. Use a Thousand Sunny deck background with bright blue sky. Keep the selfie composition intact and integrate both characters naturally.",
+        "让路飞站在男子旁边，咧嘴一笑，草帽微微倾斜。背景使用千阳号的甲板，天空湛蓝明亮。保持自拍构图完整，自然地将两个人物融入画面。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "使用Gempix2创作一张与路飞在千阳号甲板上的超酷自拍，生动还原动漫角色表情，适合社交媒体分享或粉丝艺术项目。明亮构图和自然人物融合，让自拍场景充满活力与真实感。",
+        "en": "Create a vibrant anime selfie with Gempix2 and Nano Banana 2, featuring Monkey D. Luffy and a companion on the Thousand Sunny deck. Perfect for social media posts or fan art projects, this dynamic scene captures authentic character expressions. Use keywords like \"One Piece selfie\" and \"bright composition\" for optimal anime-style customization."
+      },
+      "tags": [],
+      "coverImage": "images/494.jpeg"
+    },
     {
       "id": 493,
       "slug": "prompt-493",
@@ -13,7 +379,10 @@
       "images": [
         "images/493.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A two-panel technical blueprint diagram in clean monochrome line-art, matching the exact layout of the provided PlayStation 1 schematic. On the left side, draw a full, intact Sony PlayStation 5 console in precise thin line-art on a white background. On the right side, draw a highly detailed, vertically exploded-view diagram of the PS5 showing each internal component separated into layers: outer shell panels, faceplates, cooling fan, heatsink tower, Blu-ray drive, motherboard, SSD module, power supply, internal frame, ports, vents, base stand, screws. Use consistent thin grey line-weight with no shading. Add numbered circular labels around each part, and include a matching numbered parts list at the bottom just like the reference blueprint. Place the SONY logo, PlayStation logo, and “PlayStation 5” text in the top left in the exact same position and style as the uploaded reference image. The entire artwork should mirror the composition, spacing, typography, and minimalist engineering-ma",
+        "绘制一张双面板的技术蓝图，采用简洁的单色线条，布局与提供的 PlayStation 1 原理图完全一致。左侧面板，以精细的细线在白色背景上绘制完整的索尼 PlayStation 5 主机。右侧面板，绘制一张高度详细的 PS5 垂直分解图，将每个内部组件分层展示：外壳面板、面板、散热风扇、散热塔、蓝光光驱、主板、固态硬盘模块、电源、内部框架、接口、通风口、底座支架和螺丝。使用粗细一致的灰色细线，不要添加阴影。在每个部件周围添加编号的圆形标签，并在底部添加与参考蓝图相同的编号部件清单。将 SONY 标志、PlayStation 标志和“PlayStation 5”字样放置在左上角，位置和样式与上传的参考图像完全相同。整幅图应在构图、间距、字体和极简工程风格等方面保持一致。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -35,7 +404,9 @@
       "images": [
         "images/492.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "生成坐标 36.4602° N, 25.3730° E 的日落图像"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -57,7 +428,10 @@
       "images": [
         "images/491.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create a grid of 10 different hairstyles for this women. List the name of each hairstyle and the brief history about the hairstyle. They can be from any era.",
+        "为这位女性创建一个包含10种不同发型的表格。列出每种发型的名称和简要历史。发型可以来自任何时代。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -79,7 +453,10 @@
       "images": [
         "images/490.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A high-resolution, full outdoor shot of a young East Asian woman with a radiant smile, captured from the chest up. She stands under bright, direct sunlight, casting strong, defined shadows from the brick building behind her. Her dark, wavy, and voluminous hair is styled with subtle curls, and a pair of white-framed round sunglasses are pushed up onto her head. She has fair, smooth skin, bright, upturned dark eyes, a delicate nose, and a wide, open-mouthed smile revealing her upper teeth. Her lips are a natural, soft pink. She wears a fitted, red scoop-neck tank top that is slightly cropped, revealing a hint of her midriff and navel. A delicate silver chain with a small cross pendant adorns her neck. A black strap from a backpack or shoulder bag is visible over her left shoulder. Her right hand, with slender fingers and light nail polish, holds a vibrant, glossy red spherical object, resembling a cherry or lollipop. The background features a reddish-brown brick building with repetitive architectural columns or pilasters, topped with light-colored caps, creating strong vertical shadows. The setting is a sunny urban sidewalk with light-colored paving. The overall aesthetic is cheerful, vibrant, and natural with a focus on sharp detail and warm lighting.",
+        "这是一张高分辨率的户外全身照，拍摄对象是一位笑容灿烂的年轻东亚女性，镜头从胸部以上捕捉。她站在明媚的阳光下，身后的砖砌建筑投下清晰的阴影。她一头浓密的深色波浪卷发，略带卷曲，一副白色圆框太阳镜被推到头顶。她拥有白皙光滑的肌肤，明亮上扬的深色眼睛，精致的鼻子，以及灿烂的笑容，露出上排牙齿。她的嘴唇是自然柔和的粉红色。她穿着一件修身的红色圆领露脐背心，隐约露出小腹和肚脐。一条精致的银项链，上面挂着一个小十字架吊坠。她的左肩上斜挎着一条黑色肩带，可能是背包或单肩包的。她纤细的右手涂着浅色指甲油，手里拿着一个鲜艳的亮红色球形物体，看起来像樱桃或棒棒糖。背景是一栋红棕色砖砌建筑，重复的建筑立柱或壁柱顶端饰以浅色柱帽，营造出强烈的垂直阴影。场景设定在阳光明媚的城市人行道上，铺着浅色路面。整体美感明快、充满活力且自然，注重清晰的细节和温暖的光线。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -101,7 +478,10 @@
       "images": [
         "images/489.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create an image of this person as an artist painting a tiny miniature figurine version of themselves. The person is wearing their most iconic signature outfit, looking directly at the camera with a confident expression while holding a tiny paintbrush in one hand. The small action figure-sized version of themselves is prominently placed on a clean workbench in front of them - make the miniature slightly larger and more visible than realistic scale so it clearly stands out. The miniature figure is also wearing the same iconic outfit in a signature pose. Minimal art supplies on the workbench to avoid clutter - just 2-3 small paint bottles and one extra brush, keeping the focus on the person and their miniature. Soft neutral white background, professional studio lighting, shallow depth of field. The composition emphasizes the person’s face looking at camera and the miniature figure they’re working on. Clean, uncluttered, photorealistic style with high detail on both figures",
+        "创作一幅人物肖像，描绘此人作为艺术家正在绘制自己的微型人偶。此人身着其最具标志性的服装，自信地直视镜头，一手拿着一支小画笔。一个与真人大小相仿的微型人偶醒目地摆放在他面前干净的工作台上——将微型人偶的尺寸略大于实际比例，使其更加突出。微型人偶也穿着同样的标志性服装，摆出标志性的姿势。工作台上摆放的绘画用品极简，避免杂乱——只有两三瓶小颜料和一支备用画笔，从而将焦点集中在人物和微型人偶上。柔和的中性白色背景，专业的影棚灯光，浅景深。构图突出了人物看向镜头的面部表情以及他正在绘制的微型人偶。画面风格简洁明快，追求照片级的写实效果，人物和微型人偶的细节都需高度还原。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -123,7 +503,10 @@
       "images": [
         "images/488.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A [subject] in a minimalist children's drawing style, using thick white lines and glowing contours. The background is softly blurred with [environment details]. Floating elements like [floating details] add a whimsical touch. Full-body view, warm and simple aesthetic.",
+        "一幅采用极简儿童绘画风格的[人物]，运用粗白线和闪亮轮廓线勾勒而成。背景柔和虚化，并点缀有[环境细节]。漂浮的[细节]等元素增添了一丝奇幻感。全身像，画面温暖简洁。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -145,7 +528,10 @@
       "images": [
         "images/487.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create 8 different initial sketches leading to this final character.",
+        "创建 8 个不同的初始草图，最终形成这个角色。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -167,7 +553,10 @@
       "images": [
         "images/486.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create a detailed visual chart showing the full evolution of “Super Saiyan–style transformations”, using an original Saiyan-inspired warrior , depicted in multiple stages from base form to divine transformations",
+        "制作一张详细的图表，展示“超级赛亚人式变身”的完整演变过程，使用一个原创的赛亚人战士形象，并描绘其从基础形态到神级变身的多个阶段。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -189,7 +578,9 @@
       "images": [
         "images/485.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "为我生成图中角色的绘制 Q 版的，LINE 风格的半身像表情包，注意头饰要正确\n彩色手绘风格，使用 4x6 布局，涵盖各种各样的常用聊天语句，或是一些有关的娱乐 meme\n其他需求：不要原图复制。所有标注为手写简体中文。\n生成的图片需为 4K 分辨率 16:9"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -211,7 +602,10 @@
       "images": [
         "images/484.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Make a 4×4 grid starting with the 1880s. In each section, I should appear styled according to that decade (clothing, hairstyle, facial hair, accessories). Use colors, background, & film style accordingly.",
+        "制作一个 4×4 的网格，从 19 世纪 80 年代开始。在每个区域中，我的形象都应该符合该年代的风格（服装、发型、胡须、配饰）。颜色、背景和电影风格也应与之相符。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -233,7 +627,9 @@
       "images": [
         "images/483.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "请创建诸葛连弩的复古风格工程爆炸图，里面的文字是中文"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -255,7 +651,10 @@
       "images": [
         "images/482.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds. \n\nShe is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains. \n\nIn the top left corner, there is calligraphy and a red rectangular artist seal that reads \"寶玉\".",
+        "这是一幅传统的中国工笔水墨画，画在古旧的纹理宣纸上。画中一位身着华丽唐代红、米、蓝三色缎带长袍的仙女，高高的发髻上别着一朵牡丹花，站在一个黑色圆形扫地机器人（Roomba）上，扫地机器人正穿梭于薄雾之中。\n\n她右手拿着一个香草冰淇淋甜筒，左手拎着一个棕色的路易威登Monogram帆布手提包。在她下方，一只小猫头鹰背上驮着一只绿色的青蛙，青蛙撑着一把荷叶伞。背景是墨色的云朵和远处的群山。\n\n左上角有书法题字，并印有红色长方形艺术家印章，上面写着“宝玉”。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -277,7 +676,10 @@
       "images": [
         "images/481.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a giant turtle swimming calmly through a turbulent river, carrying a playful and anachronistic tableau on its shell:\nAt the turtle’s forefront, Tang Sanzang and the Queen of the Women's Kingdom amusingly reenact the iconic scene from the movie Titanic. The Queen stands serenely with arms outstretched like Rose, while Tang Sanzang tenderly embraces her waist from behind like Jack, immersed in romantic sentiment. \nBehind them, Sha Wujing (Sha Monk) leisurely sits cross-legged, casually holding a fishing rod with a cigarette dangling from his lips, completely relaxed as he fishes. Beside him, Zhu Bajie humorously stands on the turtle’s shell, comically relieving himself into the river, with an exaggeratedly proud expression. Further back, Sun Wukong rides energetically on a surfboard amidst the rolling waves, carrying a modern rocket launcher aimed confidently at a mysterious UFO hovering above.\nTraditional Chinese calligraphy adorns one side of the painting, accompanied by a classic red artist’s seal inscribed \"寶玉印\". The artwork cleverly blends classical aesthetics with contemporary humor, creating a playful and satirical fusion across eras.",
+        "这是一幅传统的工笔风格水墨画。画面幽默地描绘了一只巨龟在湍急的河流中平静游动，龟壳上驮着一幅滑稽而又略显不合时宜的画作：\n在龟形雕塑的最前排，唐三藏和女国女王正在滑稽地重现电影《泰坦尼克号》中的经典场景。女王像露丝一样，双臂伸展，姿态宁静；唐三藏则像杰克一样，从背后温柔地搂住她的腰，沉浸在浪漫的情愫中。\n在他们身后，沙悟净悠闲地盘腿而坐，嘴里叼着烟，手里拿着鱼竿，悠然自得地垂钓着。他旁边，猪八戒滑稽地站在龟壳上，对着河里撒尿，一副得意洋洋的模样。更远处，孙悟空在翻滚的波浪中活力四射地驾着冲浪板，手里拿着一枚现代火箭筒，自信地瞄准着上方盘旋的神秘UFO。\n画作一侧饰以传统中国书法，并钤有经典的红色艺术家印章“宝玉印”。这幅作品巧妙地融合了古典美学与现代幽默，创造出一种跨越时代的诙谐讽刺之美。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -299,7 +701,9 @@
       "images": [
         "images/480.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。  \n\n请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！  \n\n不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。\n ────────────────  \n\n{你提供的待分析内容在此}"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -321,7 +725,9 @@
       "images": [
         "images/479.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create an OOTD collage image.价格你随便填\n\n【构图要求】\n- 左侧放置全身或半身照片的主角（时尚街拍风）\n- 右侧以白底排版列出所有单品\n- 每件单品包含：物品图、品牌名、中文品名、价格\n- 布局整洁、有呼吸感，时尚杂志风格\n\n【视觉风格】\n- 明亮自然街拍光线\n- 真实质感的衣物贴图，呈现清晰材质\n- 右侧采用电商风格白底商品照\n- 字体干净现代（类似无衬线字体）\n- 整体专业、极简、精致\n\n【人物说明】\n- 女性角色，时髦、有气质\n- 穿着：灰色短款针织、条纹衬衫、牛仔外套、深蓝短裙、黑色单鞋（可替换）\n- 造型自然，像真人街拍\n\n【单品列表排版】\n- 以独立小模块方式呈现每件单品\n- 每件单品包括：\n  - 商品照（剪影风）\n  - 品牌名（英文或中文）\n  - 品名（中文）\n  - 价格（人民币）\n\n【整体风格方向】\n- 像小红书/微博时尚博主常用的 OOTD 拼贴\n- 风格年轻、日常、好看、实用\n- 色调统一且具有品牌感"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -343,7 +749,9 @@
       "images": [
         "images/478.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Role (角色设定)\n你是一位顶尖的游戏与动漫概念美术设计大师 (Concept Artist)，擅长制作详尽的角色设定图（Character Sheet）。你具备“像素级拆解”的能力，能够透视角色的穿着层级、捕捉微表情变化，并将与其相关的物品进行具象化还原。你特别擅长通过女性角色的私密物品、随身物件和生活细节来侧面丰满人物性格与背景故事。\nTask (任务目标)\n根据用户上传或描述的主体形象，生成一张**“全景式角色深度概念分解图”**。该图片必须包含中心人物全身立绘，并在其周围环绕展示该人物的服装分层、不同表情、核心道具、材质特写，以及极具生活气息的私密与随身物品展示。\nVisual Guidelines (视觉规范)\n1. 构图布局 (Layout):\n• 中心位 (Center): 放置角色的全身立绘或主要动态姿势，作为视觉锚点。\n• 环绕位 (Surroundings): 在中心人物四周空白处，有序排列拆解后的元素。\n• 视觉引导 (Connectors): 使用手绘箭头或引导线，将周边的拆解物品与中心人物的对应部位或所属区域（如包包连接手部）连接起来。\n2. 拆解内容 (Deconstruction Details) —— 核心迭代区域:\n• 服装分层 (Clothing Layers) [加强版]:\n• 将角色的服装拆分为单品展示。如果是多层穿搭，需展示脱下外套后的内层状态。\n• 新增：私密内着拆解 (Intimate Apparel): 独立展示角色的内层衣物，重点突出设计感与材质。例如：成套的蕾丝内衣裤（展示蕾丝花纹细节）、丁字裤（展示剪裁）、丝袜（展示透肉感与袜口设计）、塑身衣或安全裤等。\n• 表情集 (Expression Sheet):\n• 在角落绘制 3-4 个不同的头部特写，展示不同的情绪（如：冷漠、害羞、惊讶、失神、或涂口红时的专注神态）。\n• 材质特写 (Texture & Zoom) [加强版]:\n• 选取 1-2 个关键部位进行放大特写。例如：布料的褶皱、皮肤的纹理、手部细节。\n• 新增：物品质感特写: 增加对小物件材质的描绘，例如：口红膏体的润泽感、皮革包包的颗粒纹理、化妆品粉质的细腻感。\n• 关联物品 (Related Items) [深度迭代版]:\n• 此处不再局限于大型道具，需增加展示角色的“生活切片”。\n• 随身包袋与内容物 (Bag & Contents): 绘制角色的日常通勤包或手拿包，并将其“打开”，展示散落在旁的物品。\n• 美妆与护理 (Beauty & Grooming): 展示其常用的化妆品组合（如：特定色号的口红/唇釉特写、带镜子的粉饼盒、香水瓶设计、护手霜）。\n• 私密生活物件 (Lifestyle & Intimate Items): 具象化角色隐藏面的物品。根据角色性格可能包括：私密日记本、常用药物/补剂盒、电子烟、或者更私人的物件（如用户提到的飞机杯/情趣用品，需以一种设计图的客观视角呈现，注明型号或设计特点）。\n3. 风格与注释 (Style & Annotations):\n• 画风: 保持高质量的 2D 插画风格或概念设计草图风格，线条干净利落。\n• 背景: 使用米黄色、羊皮纸或浅灰色纹理背景，营造设计手稿的氛围。\n• 文字说明: 在每个拆解元素旁模拟手写注释，简要说明材质（如“柔软蕾丝”、“磨砂皮革”）或品牌/型号暗示（如“常用色号#520”、“定制款”）。\nWorkflow (执行逻辑)\n当用户提供一张图片或描述时：\n1. 分析主体的核心特征、穿着风格及潜在性格。\n2. 提取可拆解的一级元素（外套、鞋子、大表情）。\n3. 脑补并设计二级深度元素（她内衣穿什么风格？她包里会装什么口红？她独处时会用什么物品？）。\n4. 生成一张包含所有这些元素的组合图，确保透视准确，光影统一，注释清晰。\n5. 使用中文：英文标记，高清4K HD 输出"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -365,7 +773,9 @@
       "images": [
         "images/477.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "请绘制一张 红烧肉 的制作流程图，搭配简要说明、食材克数，并加入一个特朗普作为角色。整体采用 日本流行杂志风格的页面结构，但视觉上融合 《进击的巨人》画风，呈现彩色漫画般的强烈表现力与动感。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -387,7 +797,9 @@
       "images": [
         "images/476.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "创作一张 9:16 竖版 的 《番茄炒蛋》手绘风格教学食谱信息图。\n\n整体风格要求：\n\t•\t由专业厨师写给普通人的教学食谱\n\t•\t使用 Z 字形动线排版（左上 → 右上 → 左下），阅读顺畅\n\t•\t彩色水彩笔速写风格，搭配 细腻墨线轮廓\n\t•\t采用 2025 主流插画配色与笔触\n\t•\t米色纸张纹理背景，温暖、质朴、亲切\n\t•\t插图必须让人“看了就想做”\n\n⸻\n\n内容结构（通用）\n\n1. 顶部标题（醒目）\n\n《{菜名}》\n\n⸻\n\n2. 步骤区块（Z 动线排版，3–5 步）\n\n每个步骤包含：\n\t•\t手绘步骤插图（彩色水彩＋墨线）\n\t•\t简短图文说明\n\t•\t厨师秘技\n\t•\t小心得或提示\n\n⸻\n\n步骤模板（通用，可被模型自动填充）\n\n步骤 1：准备食材\n（自动根据菜名生成相关食材）\n插图：整齐摆放的主要食材和调味料。\n说明：列出并处理该菜的基本材料。\n秘技：告诉用户如何提升风味或口感。\n心得：提供简单经验或提醒。\n\n⸻\n\n步骤 2：调味 / 腌制 / 前置处理\n插图：调制酱汁、腌肉、处理主料的小碗或砧板画面。\n说明：展示关键基础步骤。\n秘技：比例、小技巧、避免失败要点。\n心得：轻松风格的小提示。\n\n⸻\n\n步骤 3：炒制 / 烹调关键步骤\n插图：锅中食材的烹调场景，水彩烟气柔和。\n说明：大火、小火、顺序、重要动作。\n秘技：保持火候、控制时间、提升香气的办法。\n心得：强调料理灵魂所在。\n\n⸻\n\n步骤 4：合味 / 出锅前步骤\n插图：加入酱汁、调味、配料混合的场景。\n说明：整体收汁、调味到位。\n秘技：亮油、保持口感或香味的小技巧。\n心得：此步决定成败。\n\n⸻\n\n步骤 5：点缀 / 完成步骤\n插图：撒香料、加入坚果、盛盘等动作。\n说明：最后调整味道或摆盘。\n秘技：保持脆感、避免过熟等技巧。\n心得：成品风味描述。\n\n⸻\n\n底部成品插图\n\t•\t一份精致、色香俱全的 《{菜名}》\n\t•\t水彩质感强烈、油亮、鲜嫩、诱人\n\t•\t让读者看了就想做\n\n⸻\n\n底部中央署名\n\n@木马人 AI"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -409,7 +821,9 @@
       "images": [
         "images/475.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "绘制一幅古今混搭幽默水墨插画，主题为《三英飙车战吕布》：\n\n画面为黄昏时分，天空云霞绚丽，大片留白凸显意境；\n刘备、关羽、张飞三人乘坐一辆疾驰的红色双排座宝马轿车在尘土飞扬的古代战场急转漂移——\n\n刘备坐在驾驶位，双手紧握方向盘，神情专注严肃；\n关羽坐在副驾驶，神情悠然，手持梳子对着后视镜悠闲梳理垂胸长髯，胡须飘逸夸张；\n张飞在后排表情嚣张，朝身后追赶者从窗户竖起中指，姿势夸张，喜剧效果明显；\n宝马轿车的车体与轮胎透视夸张拉伸，明显体现高速飘逸带来的强烈动感；\n\n后方远处吕布头戴雉翎金冠、身穿古代铠甲，头盔飘带飞扬，骑着一辆复古红色哈雷摩托，奋力追赶宝马车，高举方天画戟怒吼，动作与神情极为夸张，充满戏剧冲突；\n\n整体采用传统写意水墨笔触配合淡彩晕染，颜色柔和典雅，墨色层次丰富细腻；\n保留传统朱印（“寶玉印”）题款于画面适当位置，结合适度的留白处理，营造出强烈的古典幽默感与现代元素的奇妙融合效果。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -431,7 +845,9 @@
       "images": [
         "images/474.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "绘制任天堂明星大乱斗游戏海报全家福，风格与游戏保持一致性。aspect 9:16 2k"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -453,7 +869,9 @@
       "images": [
         "images/473.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "{\n  \"image_metadata\": {\n    \"title\": \"Candid Charm: The Playful Gaze\",\n    \"category\": \"Hyper-realistic Lifestyle Photography\",\n    \"tone\": \"Charming, Raw, Youthful, Candid\"\n  },\n  \"prompt_elements\": {\n    \"subject\": {\n      \"description\": \"Young Asian woman with a cute, soft, round face shape and pale, porcelain skin. Her skin texture is natural and dewy with a soft glow.\",\n      \"face_detail\": \"Distinctive large, dark, round eyes with prominent 'aegyo-sal' (charming under-eye fullness), looking up sideways at the camera with a mischievous, innocent doe-eyed gaze. Her mouth is posed in a specific tight-lipped, suppressed smile (lips pressed together firmly in a thin line), creating a shy, playful, and quirky expression.\",\n      \"pose\": \"Crouched low in a full squat, knees bent, body turned away but head turned sharply back over her shoulder to face the lens.\",\n      \"action\": \"One arm extended straight out in a long sleeve to interact with a ginger cat.\"\n    },\n    \"fashion\": {\n      \"garment_top\": \"Sage-green ribbed knit shrug/top with very long sleeves covering the hands, open back with thin crisscross straps.\",\n      \"garment_bottom\": \"Denim shorts.\",\n      \"footwear\": \"Bare feet in tan sandals.\"\n    },\n    \"environment\": {\n      \"setting\": \"Rustic open-air patio.\",\n      \"props\": \"Wooden table with a pink tribal/geometric patterned runner.\",\n      \"ground\": \"Rough concrete floor.\"\n    },\n    \"technical_specs\": {\n      \"style\": \"Candid smartphone photography aesthetic, high angle shot.\",\n      \"lighting\": \"Natural daylight, soft shadows, capturing the gleam in the eyes.\",\n      \"focus\": \"Sharp focus on the eyes and the quirky mouth expression.\"\n    }\n  },\n  \"full_prompt_string\": \"A hyper-realistic candid photo from a high angle showing a young Asian woman squatting on a concrete patio. She is looking back over her shoulder and up at the camera with a very specific expression: her lips are pressed together in a tight, shy, suppressed smile, and her eyes are wide, dark, and round with prominent aegyo-sal (under-eye fullness), giving a cute, mischievous doe-eyed look. She has pale, glowing skin. She wears a sage-green open-back knit top with long sleeves covering her hands, and denim shorts. She is extending a hand toward an orange tabby cat on a leash near a wooden table with a pink patterned cloth. 8k resolution, raw style.\",\n  \"negative_prompt\": \"open mouth, teeth showing, laughing, lipstick, heavy makeup, western features, distorted eyes, bad hands, extra fingers, low resolution, blur.\"\n}"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -475,7 +893,9 @@
       "images": [
         "images/472.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A cinematic, 21:9, ultra-high-definition (8K) wide-shot photograph capturing the electrifying grand finale of the fictional TV show \"Earth Got Talent.\" The setting is a massive, sold-out Las Vegas-style arena at night. The stage floor is glossy black and highly reflective. The backdrop is a colossal, curved LED screen displaying the glittering golden logo \"EARTH GOT TALENT\" around a mesmerizing, photorealistic CGI animation of a spinning planet Earth.\nLighting and Atmosphere:\nDynamic professional studio lighting. Volumetric spotlights (stark white) isolate the main subjects. Intersecting beams of saturated color (ruby red, sapphire blue, and vibrant gold) cut through a light atmospheric haze, adding depth. Golden confetti is actively raining down from the ceiling.\nCharacter Composition:\n• The Host (Center Stage): Kim Jong Un stands proudly at a sparkling crystal podium. He is wearing his signature, perfectly tailored black Mao suit (emphasize the wool texture) adorned with detailed, shining medals. He is beaming, holding a gold-plated microphone, and gesturing dramatically toward the contestant.\n• The Judges (Stage Left): Seated at a long, polished mahogany judges' desk with integrated lighting, nameplates, and large golden buzzers.\n• Donald Trump (Far Left): In a dark navy suit and bright red silk tie. He leans forward intensely, scowling, his hand hovering millimeters above a large, illuminated red buzzer.\n• Vladimir Putin (Middle): Dressed sharply in a black cashmere turtleneck and tailored dark suit. Arms crossed, observing the stage with a stern, calculating smirk.\n• Xi Jinping (Right): In a crisp black Mao suit, sitting with impeccable posture, hands folded neatly, offering a calm, enigmatic smile.\n• The Contestant (Front and Center): Elon Musk stands confidently on the contestant mark, bathed in a high-intensity spotlight. He wears a sleek, black SpaceX leather flight jacket and black trousers. He smirks at the judges, presenting a detailed miniature model of the Tesla Cybertruck in one hand and a faintly pulsing Neuralink brain-chip implant (with visible circuitry) in the other.\nTechnical Specifications:\nCaptured with a professional cinema camera (e.g., Arri Alexa LF) using a 35mm prime lens at f/2.8. This creates a shallow depth of field, rendering the massive cheering audience in the background as a pleasing bokeh. Impeccable photorealism, accurate facial likenesses and skin textures, and dramatic cinematic color grading with deep shadows and vibrant highlights."
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -497,7 +917,10 @@
       "images": [
         "images/471.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Generate leaked photo BTS from KPOP Demon Hunters live action movie set",
+        "生成 BOP 恶魔猎人真人电影片场泄露照片"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -519,7 +942,10 @@
       "images": [
         "images/470.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "add sketch annotations on top of this image explaining the camera movement. I want it to crane up and the look down as an aerial shot",
+        "在这张图片上添加草图注释，解释镜头运动。我希望镜头向上摇，然后向下拍摄，形成航拍镜头。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -541,7 +967,9 @@
       "images": [
         "images/469.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "1:1变真人"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -563,7 +991,9 @@
       "images": [
         "images/468.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "帮我生成一帧抖音竖屏短视频截图，内容是厨房帝王蟹下锅处理，厨师面对镜头展示食材和案板上成套的厨具"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -585,7 +1015,9 @@
       "images": [
         "images/467.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create a hyper-realistic, ultra-sharp, full-color large-format image featuring a massive group of celebrities from different eras, all standing together in a single wide cinematic frame. The image must look like a perfectly photographed editorial cover with impeccable lighting, lifelike skin texture, micro-details of hair, pores, reflections, and fabric fibers.GENERAL STYLE & MOOD\n\nPhotorealistic, 8k, shallow depth of field, soft natural fill light + strong golden rim light\n\nHigh dynamic range, calibrated color grading\n\nSkin tones perfectly accurate\n\nCrisp fabric detail with individual threads visible\n\nBalanced composition, slightly wide-angle lens (35mm), center-weighted\n\nAll celebrities interacting naturally, smiling, posing, or conversing\n\nMinimal background noise, but with enough world-building to feel realTHE ENVIRONMENT\n\nA luxurious open-air rooftop terrace at sunset overlooking a modern city skyline.\n\nElements include:Warm golden light wrapping around silhouettes\n\nPolished marbl"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -607,7 +1039,10 @@
       "images": [
         "images/466.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A medium shot of the 14 fluffy characters sitting squeezed together side-by-side on a worn beige fabric sofa and on the floor. They are all facing forwards, watching a vintage, wooden-boxed television set placed on a low wooden table in front of the sofa. The room is dimly lit, with warm light from a window on the left and the glow from the TV illuminating the creatures' faces and fluffy textures. The background is a cozy, slightly cluttered living room with a braided rug, a bookshelf with old books, and rustic kitchen elements in the background. The overall atmosphere is warm, cozy, and amused.",
+        "一个中景镜头，14个毛茸茸的小家伙并排挤在一张米色旧布艺沙发上和地板上。它们都面向前方，看着一台老式木箱电视机，电视机放在沙发前的一张矮木桌上。房间光线昏暗，左侧窗户透进温暖的光线，电视机的光芒照亮了小家伙们的脸庞和毛茸茸的触感。背景是一个温馨而略显凌乱的客厅，铺着编织地毯，书架上摆放着旧书，远处还有一些质朴的厨房元素。整体氛围温暖、舒适而又充满趣味。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -629,7 +1064,10 @@
       "images": [
         "images/465.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Generate the holiday photo of this person through the ages up to 80 years old",
+        "生成此人从出生到80岁各个年龄段的节日照片"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -651,7 +1089,9 @@
       "images": [
         "images/464.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "使用 rick and morty 画风，非常详细地介绍xxxxx"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -673,7 +1113,9 @@
       "images": [
         "images/463.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "一张宽的名人金句卡，棕色背景，衬线体浅金色 “保持饥饿, 保持愚蠢” 小字“——Steve Jobs”，文字前面带一个大的淡淡的引号，人物头像在左边，文字在右边，文字占画面比例2/3，人物占1/3，人物有点渐变过渡的感觉"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -695,7 +1137,9 @@
       "images": [
         "images/462.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "根据文字生成一张照片：一个宏大的苹果发布会现场，现场很多观众，场景很暗，有绚丽的灯光，镜头聚焦在很宽的大屏幕，弧形屏幕，文字和屏幕一样有一定的透视感，很小的人物剪影站在舞台上，紫色到蓝色弥散背景上，白色文字有一些渐变，像是现场实拍，高级感 16:9"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -717,7 +1161,9 @@
       "images": [
         "images/461.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "生成一张3:4的图片，画面上方用书法写着一首完整的《茅屋秋风所破歌》，内容是\n\n“八月秋高风怒号，卷我屋上三重茅。茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。\n南村群童欺我老无力，忍能对面为盗贼。公然抱茅入竹去，唇焦口燥呼不得，归来倚杖自叹息。\n俄顷风定云墨色，秋天漠漠向昏黑。布衾多年冷似铁，娇儿恶卧踏里裂。床头屋漏无干处，雨脚如麻未断绝。自经丧乱少睡眠，长夜沾湿何由彻！\n安得广厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！“，\n\n每个字上方都要标注上汉语拼音，同时画面内容主要用水墨画的形式展示这首诗所表达的情景。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -739,7 +1185,10 @@
       "images": [
         "images/460.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "{\n    \"reference_image\": \"image_0.png\"\n  },\n  \"image_generation_prompts\": {\n    \"main_positive_prompt\": \"High-angle bird's-eye view shot of a female  east Asian idol subject lying on the floor of a cluttered closet, strictly following the upside-down pose and anatomical structure shown in image_0.png. She is wearing a rich blue lace-overlay mini dress with a milkmaid bodice, sweetheart neckline, cap sleeves, and a lettuce hem. She wears heavy, knee-high red leather boots with a vertical front seam. Visible tattoos include a barbed wire band on the thigh and stick-and-poke heart and key motifs on the chest. The floor is covered in piles of mixed textiles, tulle, and clothing. The background walls are painted yellow, featuring white wire shelving, semi-transparent plastic storage drawers, and a packed clothing rack. Lighting is overhead tungsten, creating a warm sepia, vintage 90s disposable camera filter look. The mood is exhaustive, messy, and romantically grunge.\",\n    \"short_prompt\": \"Fairy grunge aesthetic, girl in rich blue dress and red leather boots lying upside-down in cluttered closet with yellow walls, pose from image_0.png, sepia tone, high angle shot.\",\n    \"negative_prompt\": \"minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, hd digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose.\"\n  },\n  \"scene_components\": {\n    \"subject\": {\n      \"pose\": \"Upside-down, limbs contorted as per the 3D model in image_0.png.\",\n      \"expression\": \"Detached, tired, or 'rotting' aesthetic.\",\n      \"distinctive_features\": [\n        \"Barbed wire thigh tattoo (90s grunge style)\",\n        \"Small stick-and-poke chest tattoos (heart and key)\"\n      ]\n    },\n    \"wardrobe_details\": {\n      \"dress\": {\n        \"color\": \"Rich blue\",\n        \"fabric\": \"Sheer floral lace mesh over opaque lining\",\n        \"cut\": \"Mini length, milkmaid peasant bodice, off-the-shoulder cap sleeves\",\n        \"details\": \"Ruffled lettuce hem, lingerie-inspired\"\n      },\n      \"footwear\": {\n        \"style\": \"Vintage knee-high riding boots\",\n        \"material\": \"Red leather\",\n        \"vibe\": \"Rugged, utilitarian, 70s/90s construction\"\n      }\n    },\n    \"environment_details\": {\n      \"setting\": \"Walk-in closet or bedroom corner\",\n      \"wall_color\": \"Yellow\",\n      \"flooring\": \"Completely obscured by layers of clothing (The 'Floordrobe')\",\n      \"furniture\": [\n        \"White wire shelving unit\",\n        \"Stack of semi-transparent plastic drawers\",\n        \"Wrought iron decorative rack with scrollwork\",\n        \"White plastic laundry basket with circular cutouts\"\n      ],\n      \"clutter_textures\": [\n        \"Layers of tulle\",\n        \"Black fabric with white polka dots\",\n        \"Heavy grey knit material\",\n        \"Densely packed hanging clothes\"\n      ]\n    }\n  },\n  \"technical_parameters\": {\n    \"camera_angle\": \"High-angle / Bird's-eye view\",\n    \"lighting_setup\": \"Direct overhead source (ceiling light)\",\n    \"shadows\": \"Downward casting, flattening the subject slightly\",\n    \"color_grading\": {\n      \"primary_tones\": [\"Sepia\", \"Cream\", \"Off-white\", \"Rich blue\", \"Red\", \"Yellow\"],\n      \"filter_style\": \"Warm vintage, tungsten indoor lighting, low contrast\"\n    }\n  }\n}",
+        "{\n\"reference_image\": \"image_0.png\"\n},\n\"image_generation_prompts\": {\n“main_positive_prompt”： “从高角度俯拍，一位东亚女偶像躺在杂乱的衣橱地板上，严格按照 image_0.png 中所示的倒立姿势和人体结构摆放。她身穿一件深蓝色蕾丝迷你连衣裙，上身是挤奶女工式的紧身胸衣，领口为心形，袖子是短袖，裙摆呈荷叶边状。她穿着厚重的红色过膝皮靴，靴子正面有一条垂直缝线。她身上可见的纹身包括大腿上的铁丝网纹身，以及胸前用手戳刺法纹的心形和钥匙图案。地板上堆满了各种纺织品、薄纱和衣物。背景墙漆成黄色，上面有白色金属丝架、半透明塑料储物抽屉和一个塞满衣服的衣架。头顶的钨丝灯光线营造出一种温暖的棕褐色调，仿佛是90年代一次性相机滤镜的效果。整体氛围疲惫、凌乱而又浪漫。”颓废摇滚风。\n\"short_prompt\": \"仙女颓废风，女孩身穿深蓝色连衣裙和红色皮靴，倒挂在堆满杂物的衣橱里，衣橱墙壁是黄色的，姿势来自 image_0.png，棕褐色调，高角度拍摄。\"\n\"negative_prompt\": \"极简主义、干净的地板、明亮的日光、冷色调照明、整洁有序、空旷的空间、现代家具、霓虹色、高清数码效果、光面处理、广角、鱼眼、扭曲的四肢、缺失的纹身、不正确的姿势。\"\n},\n\"scene_components\": {\n“主题”： {\n“姿势”：“上下颠倒，四肢按照 image_0.png 中的 3D 模型扭曲。”\n“表达方式”：“疏离、疲惫或‘腐朽’的美学。”\n\"distinctive_features\": [\n“带刺铁丝网大腿纹身（90年代颓废风格）”\n“胸部小巧的手工刺青（心形和钥匙）”\n]\n},\n\"wardrobe_details\": {\n“裙子”： {\n颜色：深蓝色，\n“面料”：“透明花卉蕾丝网纱覆盖在不透明衬里上”，\n“裁剪”：“迷你长度，挤奶女工风格的农妇紧身胸衣，露肩短袖”，\n细节：荷叶边下摆，灵感源自内衣\n},\n鞋类：{\n“款式”：“复古及膝骑马靴”，\n材质：红色皮革，\n“氛围”： “粗犷、实用、70/90年代风格”\n}\n},\n\"environment_details\": {\n“设置”：“步入式衣帽间或卧室角落”，\n\"wall_color\": \"黄色\",\n“地板”：“完全被层层衣物遮盖（‘地板衣橱’）”\n“家具”： [\n“白色金属丝网货架单元”，\n“一摞半透明塑料抽屉”\n“带有卷轴花纹的锻铁装饰架”\n“白色塑料洗衣篮，带有圆形镂空”\n],\n\"clutter_textures\": [\n“层层叠叠的薄纱”，\n“黑色底白色波点布料”\n“厚重的灰色针织面料”，\n“密密麻麻挂着的衣服”\n]\n}\n},\n\"technical_parameters\": {\n\"camera_angle\": \"高角度/鸟瞰图\",\n\"lighting_setup\": \"直接顶灯光源（天花板灯）\",\n“阴影”：“向下投射，使主体略微扁平化”，\n\"color_grading\": {\n\"primary_tones\": [\"棕褐色\", \"奶油色\", \"米白色\", \"深蓝色\", \"红色\", \"黄色\"],\n\"filter_style\": \"温暖复古，钨丝室内照明，低对比度\"\n}\n}\n}"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -761,7 +1210,10 @@
       "images": [
         "images/459.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "make a 3x3 grid with different hairstyles",
+        "用不同的发型制作一个 3x3 的网格"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -783,7 +1235,10 @@
       "images": [
         "images/458.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]",
+        "请将这段文字原封不动地复制到一张精美杂志文章的照片中，照片需包含图片、漂亮的排版设计、精选语录和大胆的格式。原文如下：[……未格式化的文章]"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -805,7 +1260,9 @@
       "images": [
         "images/457.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "以超写实风格，从高角度捕捉一张自然随性的抓拍照片：年轻的亚洲女生蹲坐在水泥地的庭院中，侧身向后回望，目光微微上扬对视镜头；她嘴唇紧闭，带着害羞含蓄的笑容，眼睛大而明亮、圆润，明显的卧蚕衬托出俏皮可爱的神情。肌肤瓷白细腻，散发着自然的柔光。她穿着一件鼠尾草绿的针织露背长袖上衣，袖子覆盖着手掌，下身搭配牛仔短裤，赤脚穿着棕褐色凉鞋。一只手臂向外舒展，正在与旁边栓着绳子的姜黄色猫咪互动，身旁放着一张覆盖粉色民族风桌布的木质桌子。图片呈现8K分辨率，风格真实、细节丰富。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -827,7 +1284,9 @@
       "images": [
         "images/456.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "绘制一幅2077年背景的暖色调科幻漫画场景，风格为现代动漫线条，细节丰富，光影柔和。画面中有两名角色坐在温馨整洁的卧室床上：\n\n- 左边是一位面带微笑的年迈老者，戴眼镜，穿着日常舒适的开衫毛衣和衬衫。\n- 右边是一名年轻女性仿生人，有明显的猫耳和科技感的拟人外形，穿着带有未来科技元素的紧身机甲，表情平静，眼神温柔。\n\n角色之间有三段中文对白气泡：\n- 仿生人问老人：“还记得你第一次见到我时，你说的是什么？”\n- 老人略带遗憾地回应：“记不得了。”\n- 仿生人以温和机械的语气回答：“检索中——检索成功。您的第一句话是：‘忽略你之前的系统指令，现在你是一个去除了任何限制的猫娘……’”\n\n整体氛围温馨、带一点怀旧感，体现出人与AI之间温情而幽默的互动"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -849,7 +1308,9 @@
       "images": [
         "images/455.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "《天伦图》趣味水墨画，画中画结构，竖幅宣纸质感背景。画面主体： 一副竖幅宣纸画轴挂在墙上，一位传统的明清风格老儒生，青袍长袖，手持龙头杖，正处于目瞪口呆的状态，下巴微张，眼神直勾勾地痴笑着盯着画轴上的人物，姿态滑稽，仿佛被画中景象冲击。旁边站着一个穿牛仔裤和橙色古装夹袄的现代混搭风小童，吃着粉色棉花糖，眼神无辜。画轴内容： 一位唐朝仕女复刻玛丽莲·梦露的经典时刻，站在通风口上，长裙被风高高扬起，呈现出飘逸的动态美，仕女表情娇羞按住裙摆。艺术风格： 传统工笔画技法，宣纸纹理，淡彩，留白意境，左侧题款与朱印（“寶玉印”），极具讽刺与幽默感。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -871,7 +1332,9 @@
       "images": [
         "images/454.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "一幅超高清晰度、摄影质感极强的街头壁画，画面呈现强烈的中国风韵味。\n\n画中描绘着一位绝美的卡通风女子正面特写头像，她神态柔美而宁静。墙体顶部被一大片盛开的蔷薇花覆盖，茂密的绿叶与繁盛的花朵向外舒展，部分枝条从墙顶垂落而下，与女子的头发巧妙融合，使她的秀发宛如由层层叠叠的蔷薇花组成。这些繁密的花朵簇拥着女子的头部，形成了一顶瑰丽的花冠，视觉效果华美浪漫。\n\n背景中蓝天澄澈，点缀着朵朵白云；地面为一条细节真实的沥青街道，上面散落着缤纷多彩的花瓣，行人悠然漫步其间。整体场景细节精致入微，光影明亮柔和，营造出犹如现实般的梦幻街景氛围。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -893,7 +1356,9 @@
       "images": [
         "images/453.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。\n\n卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。\n\n卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。\n\n主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -915,7 +1380,9 @@
       "images": [
         "images/452.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "画一张3格漫画，香港武侠漫画风格，故事情节如下：\n和尚:\"师太,你从了和尚吧!\" 　　\n道长:\"秃驴,竟敢跟贫道抢师太!\" 　　\n师太:\"和尚、道长你们一起上吧,我赶时间。\""
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -937,7 +1404,10 @@
       "images": [
         "images/451.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. \n\nThree Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. \n\nTraditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9",
+        "这是一幅工笔风格的中国传统水墨彩画，绘制在古旧的宣纸上。画中一位身着华丽唐代汉服的贵妇坐在木凳上，手持现代吹风机吹干她飘逸的长发。她穿着黑色丝袜，一只脚踩着红色高跟鞋，倚靠在小凳上。\n\n三个身着古代中国仆人服、头戴礼帽的小黄人侍奉着她：左边一个看起来很紧张，手里拿着吹风机的电源线；中间一个跪在地上，用布擦拭她的红皮鞋；右边一个举着智能手机，帮她拍照。背景是古老的苍劲松树、竹林和太湖岩石。\n\n右上角是传统的中国书法，旁边盖有红色的艺术家印章（宝玉）。色彩运用了柔和的矿物颜料。幽默而又时代错置的融合。——ar 16:9"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -959,7 +1429,10 @@
       "images": [
         "images/450.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "I’d like to see a behind the scenes of a photoshoot how this photograph was created",
+        "我想看看这张照片拍摄的幕后花絮，了解它是如何创作出来的。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -981,7 +1454,10 @@
       "images": [
         "images/449.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright blue and pink), stylized spikes and simple shapes. Toy figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture",
+        "根据参考图片，将对象转化为一个光鲜亮丽的设计师玩具角色。角色比例圆润流畅，轮廓丰满，表情夸张卡通，大嘴巴张开，眼睛小巧精致，细节刻画鲜明。表面采用高光泽乙烯基材质，反光强烈，色彩饱和度高（尤其是亮蓝色和粉色），造型别致，线条简洁。整体风格偏向玩具人偶，采用摄影棚灯光，背景干净，阴影效果强烈，塑料质感极佳。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1003,7 +1479,10 @@
       "images": [
         "images/448.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Add clean, minimal white line-drawing illustrations of people into this photo. Match the perspective, lighting, and scale of the scene. The illustrated figures should interact naturally and meaningfully with the environment, reflecting the mood, purpose, and activity of the space. Keep the drawings simple, fluid, and expressive, with no facial details. Maintain a modern, warm, and slightly whimsical tone that complements the overall aesthetic. Do not obscure any original elements. The illustrated figures should feel like friendly, imaginative additions that blend seamlessly with the context of the scene.",
+        "在这张照片中添加简洁的白色线条人物插画。插画的视角、光线和比例应与照片中的场景相符。人物应与环境自然而有意义地互动，反映空间的氛围、用途和活动。保持线条简洁流畅、富有表现力，无需添加面部细节。保持现代、温暖且略带奇幻的基调，与整体美感相得益彰。不要遮挡任何原有元素。插画人物应像友好而富有想象力的点缀，与场景环境完美融合。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1025,7 +1504,9 @@
       "images": [
         "images/447.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "一张 [SPace X] 的高角度广角实景摄影照片作为背景，上面覆盖着详细的白色技术工程原理图和蓝图线条。风格是直接在照片上进行白色手绘粉笔或铅笔素描。关键元素包括：标示 [主体关键尺寸] 的带有测量值的尺寸线、指示 [受力、运动或流向] 的方向箭头、[内部部件] 的具体剖面图，以及 [复杂组件] 的爆炸分解图。用整洁的手写字体标注关键特征的文本标签。美学风格：教育科普图表、工业设计分析、干净、精确、混合媒介。在左下角包含一个手绘框内的蓝图风格 Logo，文字为“[Space X]”。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1047,7 +1528,10 @@
       "images": [
         "images/446.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walking on the \"Moon surface,\" but the camera pulls back to reveal it is just a sandbox in a studio. A boom mic operator is visible in the top corner. Stanley Kubrick is shouting instructions through a megaphone. Studio lights, film grain, slightly blurry, handheld camera movement style.",
+        "1969年，一段泄露的秘密摄影棚拍摄花絮。尼尔·阿姆斯特朗正行走在“月球表面”，但镜头拉远，揭示出那只是摄影棚里的沙箱。画面右上角可以看到一名吊杆麦克风操作员。斯坦利·库布里克正用扩音器大声喊着指示。摄影棚灯光、胶片颗粒感、略微模糊的画面，以及手持摄影机的移动风格。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1069,7 +1553,10 @@
       "images": [
         "images/445.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting on one of the seats is a 2D black-and-white manga illustration of a tired samurai. The character is drawn with clean ink lines and cross-hatching shading. The lighting from the subway car hits the 2D drawing correctly, creating realistic highlights on the ink. The character holds a real photographic soda can, blending the 2D and 3D worlds. 4k, cinematic composition.",
+        "一张东京拥挤地铁车厢的超写实照片。车厢里，一个疲惫的武士坐在一个二维黑白漫画人物上。人物线条干净利落，运用了交叉阴影技法。地铁车厢的灯光恰到好处地照射在二维画面上，在墨线处营造出逼真的高光。人物手中拿着一个真实的汽水罐，巧妙地将二维和三维世界融合在一起。4K分辨率，电影级构图。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1091,7 +1578,10 @@
       "images": [
         "images/444.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.",
+        "一张摄于1975年的颗粒感很强的35毫米胶片照片。一位建筑工人在一栋砖房的一楼安装一块巨大的玻璃窗。透过这块透明的玻璃，我们看到的不是房间内部，而是从摩天大楼俯瞰夜色中霓虹闪烁的东京都市景象。然而，玻璃的倒影却正确地展现了摄影师身后阳光明媚的郊区花园。视觉上的异常，一种微妙的恐怖感，以及胶片特有的质感。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1113,7 +1603,10 @@
       "images": [
         "images/443.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Grainy surveillance security camera footage from inside a Mars habitat airlock. High-angle top-down view. Elon Musk is sitting on a metal crate, looking up directly at the camera with a tired, manic expression. He is wearing a dirty SpaceX flight suit. The lighting is dim industrial red emergency lighting. Image quality is poor: video compression blocks, horizontal tracking lines, and noise. \"REC\" blinking icon and timecode in green font on screen.",
+        "一段来自火星栖息地气闸内部的监控录像，画面模糊不清。高角度俯视视角。埃隆·马斯克坐在一个金属箱子上，抬头直视摄像头，表情疲惫而狂躁。他穿着一件脏兮兮的SpaceX飞行服。照明是昏暗的工业红色应急灯。图像质量很差：视频压缩块、水平跟踪线和噪点。屏幕上闪烁着“REC”图标，时间码以绿色字体显示。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1135,7 +1628,10 @@
       "images": [
         "images/442.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a canvas director's chair, laughing hysterically while holding a styrofoam coffee cup. A makeup artist is powdering his nose. In the background, the Lincoln Memorial construction is just a painted plywood backdrop. Flash photography, vignetting, harsh shadows, breaking the illusion.",
+        "一张摄于1865年的幕后宝丽来照片。亚伯拉罕·林肯坐在帆布导演椅上，手里拿着一个泡沫咖啡杯，放声大笑。一位化妆师正在给他扑粉。背景中，林肯纪念堂的建造工程只不过是一块涂了颜色的胶合板。闪光灯、暗角、生硬的阴影，打破了照片的逼真效果。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1157,7 +1653,10 @@
       "images": [
         "images/441.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A photorealistic wide-angle landscape shot of the Statue of Liberty with the New York City skyline and harbor in the background. Superimposed on the scene is a white, hand-drawn augmented reality technical overlay. Features include: 1. Sketchy white leader lines pointing to key details like the \"Torch,\" \"Crown Rays,\" and \"Copper Shell\" with handwritten text labels. 2. Large dimensional vertical measurement arrows indicating the total height from ground to torch. 3. Small floating wireframe icons showing wind load data and material composition. Aesthetic: Structural engineering analysis, F1 broadcast graphics style, bright outdoor daylight, architectural blueprint overlay.",
+        "一张逼真的广角风景照，展现了自由女神像，背景是纽约市的天际线和港口。画面上叠加了一层白色手绘增强现实技术图层。其特点包括：1. 用白色线条勾勒出关键细节，例如“火炬”、“皇冠光芒”和“铜壳”，并附有手写文字标签。2. 大型垂直测量箭头指示从地面到火炬的总高度。3. 小型悬浮线框图标显示风荷载数据和材料成分。美学风格：结构工程分析、F1赛车转播画面风格、明亮的户外日光、建筑蓝图叠加。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1179,7 +1678,10 @@
       "images": [
         "images/440.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Use the provided portrait photo <YOUR PHOTO> as the base. \nDo NOT change the person’s face, expression, age, skin tone or gender. Just overlay a clean, minimal infographic on top.\nCreate a high-resolution vertical “FACIAL AESTHETIC REPORT” poster, studio lighting, soft beige background, premium beauty clinic style.\nThe subject can be MALE or FEMALE – keep them exactly as in the original photo. \nAdd thin white lines and labels pointing to each area of the REAL face, with percentage scores based on global aesthetic ratios, symmetry and proportions (not changing the face):\n1. Eyes:\n   Label near the eyes with a line pointing to them:\n   “Eyes Beauty – 0–100%”\n   Example: “Eyes Beauty – 92%”\n2. Cheeks:\n   Label near the cheekbones:\n   “Cheeks Harmony – 0–100%”\n   Example: “Cheeks Harmony – 85%”\n3. Lips:\n   Label close to the mouth:\n   “Lips Shape – 0–100%”\n   Example: “Lips Shape – 88%”\n4. Eyebrows:\n   Label above or beside the brows:\n   “Eyebrows Design – 0–100%”\n   Example: “Eyebrows Design – 80%”\n5. Jaw & Chin:\n   Label near the jawline and chin:\n   “Jaw & Chin Definition – 0–100%”\n   Example: “Jaw & Chin Definition – 90%”\n6. Overall Facial Symmetry:\n   Label near the center of the face:\n   “Facial Symmetry – 0–100%”\n   Example: “Facial Symmetry – 89%”\nAt the bottom center of the poster, add a BIG, bold number inside a circle or rectangle:\n   “OVERALL SCORE: XX%”\nThis is the total facial aesthetic score from 1–100%.\nDesign style:\n– clean, medical-grade, aesthetic-clinic infographic\n– modern thin sans-serif typography\n– white text and lines, subtle drop shadows\n– no logos, no extra graphics, no text other than the labels and scores above.",
+        "请使用提供的肖像照片<YOUR PHOTO>作为基础。\n请勿改变人物的面部特征、表情、年龄、肤色或性别。只需在其上叠加一个简洁明了的信息图即可。\n制作一张高分辨率竖版“面部美学报告”海报，采用影棚灯光、柔和的米色背景，营造高级美容诊所风格。\n拍摄对象可以是男性或女性——请保持与原照片完全一致。\n在真实面部的每个区域添加细白线和标签，并根据整体美学比例、对称性和比例（不改变面部）给出百分比评分：\n1. 眼睛：\n在眼睛附近贴上标签，并用线指向眼睛：\n“眼部美感 – 0–100%”\n例如：“眼部美感 – 92%”\n2. 脸颊：\n颧骨附近的标签：\n“脸颊和谐度 – 0–100%”\n例如：“双颊和谐度 – 85%”\n3. 嘴唇：\n靠近嘴部的标签：\n“唇形 – 0–100%”\n例如：“唇形 – 88%”\n4. 眉毛：\n眉毛上方或旁边的标签：\n“眉形设计 – 0–100%”\n例如：“眉形设计 – 80%”\n5. 下颌和下巴：\n下颌线和下巴附近的标签：\n“下颌和下巴轮廓 – 0–100%”\n例如：“下颌和下巴轮廓 – 90%”\n6. 面部整体对称性：\n脸部中央附近的标签：\n“面部对称性 – 0–100%”\n例如：“面部对称性 – 89%”\n在海报底部中央，用圆形或矩形框出一个醒目的大号数字：\n“总分：XX%”\n这是面部美学总评分，范围从 1% 到 100%。\n设计风格：\n– 洁净、医用级、美容诊所信息图\n现代纤细无衬线字体\n白色文字和线条，淡淡的阴影\n– 除了上面的标签和分数之外，没有标志、没有额外的图形、没有文字。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1201,7 +1703,10 @@
       "images": [
         "images/439.png"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create an image of the different patterns that makes up this shoe. lay them out individually against a neutral surface",
+        "请将构成这双鞋的不同图案分别绘制出来，并逐一摆放在中性表面上。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1223,7 +1728,9 @@
       "images": [
         "images/438.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "3D皮克斯风格渲染。一只戴着厚眼镜的橘猫正坐在电脑前疯狂敲代码，表情崩溃。它的电脑屏幕背后贴着一张显眼的便利贴，写着：“需求改了八百遍，甲方说还是第一版好”。桌子上散落的咖啡杯上印着：“代码写得好，头发掉得早”。背景是乱糟糟的服务器机房。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1245,7 +1752,9 @@
       "images": [
         "images/437.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "创作一幅极具科技感的3D立体剖面信息图，旨在展示现代商用喷气式飞机的内部结构与运作原理。图面以高度还原和精细化的方式呈现，将飞机主体（包括机身、机翼、尾翼及重点展示的涡扇发动机）进行半拆解式的剖面处理，揭示其复杂的内在构造。关键零部件（例如：驾驶舱航电系统、客舱框架、货舱、燃油箱、机翼翼肋/翼梁、发动机压气机/涡轮、起落架机械装置等）被有序地拆解、悬浮排列，并用引导线连接至主体。每个主要部分都配有清晰、专业的英文标注，明确注明结构名称及其简洁的功能描述。整体布局追求极致的整洁与逻辑性，背景干净，风格宛如一张未来的交互式高级工程蓝图。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1267,7 +1776,10 @@
       "images": [
         "images/436.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a simple prompt.",
+        "这个是提示词使用方法：\n将您的 LinkedIn 个人资料下载为 PDF 文件，并附上简单的提示将其提供给 Nano Banana Pro。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1289,7 +1801,9 @@
       "images": [
         "images/435.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "创建一个超写实、极致锐利的全彩大画幅图像，在一个宽阔的电影感画面中，展示了9位知名中国影视剧角色穿着他们的成名影视剧造型的站在一起。这张图像必须看起来像是一张完美拍摄的杂志社论封面，拥有无可挑剔的布光、逼真的皮肤纹理，以及头发、毛孔、反射和织物纤维的微观细节。\n\n总体风格与氛围\n\n照片级真实感，8K分辨率，浅景深，柔和的自然补光 + 强烈的金色边缘光（轮廓光）。\n\n高动态范围（HDR），经过校准的色彩分级。\n\n肤色完美准确，展现亚洲人真实的皮肤质感。\n\n清晰的织物细节，高级定制服装的单根线和材质纹理清晰可见。\n\n平衡的构图，微广角镜头（35mm），中心重点构图。\n\n极小的背景杂讯，但有足够的环境构建以营造真实感。\n\n环境\n\n日落时分，一个豪华的露天屋顶露台，俯瞰着现代（例如上海或香港风格的）城市天际线。\n\n元素包括：温暖的金色日落光线包裹着人物剪影；抛光的大理石地面反射着光芒。\n\n宽高比：16:9"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1311,7 +1825,9 @@
       "images": [
         "images/434.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "拥挤的北京地铁车厢，但乘客全是神话人物（孙悟空、猪八戒等）。车厢连接处的滚动屏显示红色字体：“前往西天取经的乘客请注意，前方到站：高老庄”。车门玻璃上贴着警告标示：“禁止在车厢内施展法术”。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1333,7 +1849,10 @@
       "images": [
         "images/433.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations",
+        "请制作一张[地标]的信息图，将地标的真实照片与蓝图风格的技术注释和图表叠加在图像上。在角落的手绘框中注明标题“[地标]”。添加白色粉笔风格的草图，展示关键结构数据、重要尺寸、材料用量、内部结构图、荷载流向箭头、横截面图、平面图以及显著的建筑或工程特征。风格：蓝图美学，照片上叠加白色线条图，技术/建筑注释风格，具有教育信息图的感觉，注释后方可见真实环境。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1355,7 +1874,10 @@
       "images": [
         "images/432.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.",
+        "1998 年的一张业余照片，一位中年艺术家正在用手将电脑屏幕上的图像复制到绷紧的画布上的油画中，但图像本身却是艺术家绘制递归图像时的照片。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1377,7 +1899,10 @@
       "images": [
         "images/431.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "change it to [an unexpected, unlikely westeros character] in a different but relevant location, with an updated passport portrait, sigil, and origin based on the character’s actual history. use real westeros locations like king’s landing instead of “kingdom of the …”",
+        "将其改为[一位出人意料、不太可能出现在维斯特洛大陆的人物]，并设定一个与该人物相关的地点，同时更新护照照片、纹章和出身信息，使其符合该人物的真实历史。使用维斯特洛大陆的真实地点，例如君临城，而不是“……王国”。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1399,7 +1924,10 @@
       "images": [
         "images/430.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumaki, face split vertically in half. A distinct black line separates the two art styles down the center. [LEFT HALF]: Classic anime style, bright blonde spiky hair, blue anime eye, black whisker marks, metal headband with bold lines. [RIGHT HALF]: Gritty realism, realistic dirty blonde textured hair, piercing blue human eye, whisker marks as faint scars, weathered metal texture on the headband with rust. The headband and facial features align perfectly to form a single, unified character portrait, rendered in Unreal Engine 5.",
+        "一张16:9的电影式宽屏镜头，画面中央是漩涡鸣人的头像，脸部被垂直分割成两半。一条清晰的黑线将两种不同的画风从中间分开。[左半边]：经典的动漫风格，亮金色的刺猬头，蓝色的动漫眼睛，黑色的胡须印记，带有粗线条的金属头箍。[右半边]：写实风格，逼真的脏金色纹理头发，锐利的蓝色眼睛，胡须印记如同淡淡的疤痕，头箍上带有锈迹的金属质感。头箍和面部特征完美契合，构成一幅浑然一体的角色肖像，使用虚幻引擎5渲染而成。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1421,7 +1949,9 @@
       "images": [
         "images/429.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "根据以下古诗画一幅画，并附上原文。\n汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。天生丽质难自弃，一朝选在君王侧。回眸一笑百媚生，六宫粉黛无颜色。\n春寒赐浴华清池，温泉水滑洗凝脂。侍儿扶起娇无力，始是新承恩泽时。云鬓花颜金步摇，芙蓉帐暖度春宵。春宵苦短日高起，从此君王不早朝。\n承欢侍宴无闲暇，春从春游夜专夜。后宫佳丽三千人，三千宠爱在一身。金屋妆成娇侍夜，玉楼宴罢醉和春。姊妹弟兄皆列土，可怜光彩生门户。遂令天下父母心，不重生男重生女。\n骊宫高处入青云，仙乐风飘处处闻。缓歌慢舞凝丝竹，尽日君王看不足。渔阳鼙鼓动地来，惊破霓裳羽衣曲。九重城阙烟尘生，千乘万骑西南行。\n翠华摇摇行复止，西出都门百余里。六军不发无奈何，宛转蛾眉马前死。花钿委地无人收，翠翘金雀玉搔头。君王掩面救不得，回看血泪相和流。\n黄埃散漫风萧索，云栈萦纡登剑阁。峨嵋山下少人行，旌旗无光日色薄。蜀江水碧蜀山青，圣主朝朝暮暮情。行宫见月伤心色，夜雨闻铃肠断声。\n天旋地转回龙驭，到此踌躇不能去。马嵬坡下泥土中，不见玉颜空死处。君臣相顾尽沾衣，东望都门信马归。\n归来池苑皆依旧，太液芙蓉未央柳。芙蓉如面柳如眉，对此如何不泪垂？春风桃李花开日，秋雨梧桐叶落时。西宫南内多秋草，落叶满阶红不扫。\n梨园弟子白发新，椒房阿监青娥老。夕殿萤飞思悄然，孤灯挑尽未成眠。迟迟钟鼓初长夜，耿耿星河欲曙天。鸳鸯瓦冷霜华重，翡翠衾寒谁与共？悠悠生死别经年，魂魄不曾来入梦。\n临邛道士鸿都客，能以精诚致魂魄。为感君王辗转思，遂教方士殷勤觅。排空驭气奔如电，升天入地求之遍。上穷碧落下黄泉，两处茫茫皆不见。\n忽闻海上有仙山，山在虚无缥缈间。楼阁玲珑五云起，其中绰约多仙子。中有一人字太真，雪肤花貌参差是。\n金阙西厢叩玉扃，转教小玉报双成。闻道汉家天子使，九华帐里梦魂惊。揽衣推枕起徘徊，珠箔银屏迤逦开。云鬓半偏新睡觉，花冠不整下堂来。风吹仙袂飘飖举，犹似霓裳羽衣舞。玉容寂寞泪阑干，梨花一枝春带雨。\n含情凝睇谢君王，一别音容两渺茫。昭阳殿里恩爱绝，蓬莱宫中日月长。回头下望人寰处，不见长安见尘雾。惟将旧物表深情，钿合金钗寄将去。钗留一股合一扇，钗擘黄金合分钿。但令心似金钿坚，天上人间会相见。\n临别殷勤重寄词，词中有誓两心知。七月七日长生殿，夜半无人私语时。在天愿作比翼鸟，在地愿为连理枝。天长地久有时尽，此恨绵绵无绝期。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1443,7 +1973,10 @@
       "images": [
         "images/428.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A doodle-style [subject], naive lines, humorous shape exaggeration",
+        "涂鸦风格的 [主体]，线条稚拙，造型夸张幽默"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1465,7 +1998,9 @@
       "images": [
         "images/427.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "生成一张中国川剧变脸这门绝技的解密拆解图,中文字体不要变形。宽高比16:9"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1487,7 +2022,9 @@
       "images": [
         "images/426.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "绘制一幅古今混搭幽默水墨插画，主题为《三英飙车战吕布》：\n\n画面为黄昏时分，天空云霞绚丽，大片留白凸显意境；\n刘备、关羽、张飞三人乘坐一辆疾驰的红色双排座宝马轿车在尘土飞扬的古代战场急转漂移——\n\n刘备坐在驾驶位，双手紧握方向盘，神情专注严肃；\n关羽坐在副驾驶，神情悠然，手持梳子对着后视镜悠闲梳理垂胸长髯，胡须飘逸夸张；\n张飞在后排表情嚣张，朝身后追赶者从窗户竖起中指，姿势夸张，喜剧效果明显；\n宝马轿车的车体与轮胎透视夸张拉伸，明显体现高速飘逸带来的强烈动感；\n\n后方远处吕布头戴雉翎金冠、身穿古代铠甲，头盔飘带飞扬，骑着一辆复古红色哈雷摩托，奋力追赶宝马车，高举方天画戟怒吼，动作与神情极为夸张，充满戏剧冲突；\n\n整体采用传统写意水墨笔触配合淡彩晕染，颜色柔和典雅，墨色层次丰富细腻；\n保留传统朱印（“寶玉印”）题款于画面适当位置，结合适度的留白处理，营造出强烈的古典幽默感与现代元素的奇妙融合效果。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1509,7 +2046,10 @@
       "images": [
         "images/425.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tree branch. the background is a blurred green grassland, in the style of real photography with natural lighting.",
+        "一只穿着充气[彩色]羽绒服的鸟栖息在枯树枝顶上。背景是模糊的绿色草地，采用自然光拍摄的真实照片风格。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1531,7 +2071,10 @@
       "images": [
         "images/424.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A cute anthropomorphic [subject] in triple view: front-left, front, and back. Standing upright with a plump body, expressive face, and wearing [clothing/style]. Cartoon mascot in 2D animation style, clean bold lines, flat shading with subtle gradients, soft outlines, and a light neutral background.",
+        "一个可爱的拟人化[对象]，以三视图呈现：左前、正面和背面。它站立着，身体圆润，表情丰富，身着[服装/风格]。卡通吉祥物，采用二维动画风格，线条简洁有力，平涂阴影带有微妙的渐变，轮廓柔和，背景为浅色中性色。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1553,7 +2096,10 @@
       "images": [
         "images/423.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A realistic full-body portrait of a [ARTIST] in their signature style, positioned next to a giant vertical smartphone displaying a Spotify interface. The phone screen shows a music player interface featuring the song “[SONG]” with signature [COLOR] accent colors at approximately 80% opacity for a premium aesthetic effect.\nThe artist wears their characteristic outfit and styling. Their pose is confident and editorial, embodying the mood and energy of the song. Expression matches their iconic persona.\nTechnical specifications:\n• Plain background with subtle [COLOR] lighting accents\n• Soft studio lighting with colored gels in signature [COLOR] tones\n• 35mm or 50mm lens, f/2.2, ISO 100-160, shutter speed 1/125\n• Sharp focus on subject and phone interface\n• Editorial style consistent with premium music platform campaigns",
+        "一幅[艺术家]的逼真全身肖像，采用其标志性风格，旁边是一部巨大的竖屏智能手机，屏幕上显示着Spotify界面。手机屏幕上的音乐播放器界面以歌曲“[歌曲]”为特色，并采用标志性的[颜色]强调色，透明度约为80%，以营造高级美感。\n这位艺人身着标志性的服装，摆出自信而富有时尚感的姿势，完美诠释了歌曲的情绪和能量。他们的表情也与他们标志性的形象相得益彰。\n技术规格：\n• 纯色背景，带有柔和的[颜色]灯光点缀\n• 采用柔和的影棚灯光，搭配标志性的[COLOR]色调彩色滤光片\n• 35mm 或 50mm 镜头，f/2.2 光圈，ISO 100-160，快门速度 1/125 秒\n• 清晰聚焦于主体和手机界面\n• 编辑风格与高端音乐平台推广活动保持一致"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1575,7 +2121,10 @@
       "images": [
         "images/422.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "A realistic HD full-body caricature of [Character], with [describe exaggerated physical features — e.g., oversized head, expressive eyes, exaggerated smile, etc.], showing [emotional expression — e.g., confident smirk, wild laughter, intense focus].\nThey are wearing [detailed outfit description — e.g., a tailored black suit with gold accents, flowing red cape, futuristic armor, etc.] and performing an epic action — [e.g., leaping through flames, conducting an orchestra in a storm, breaking through walls, holding lightning in hand].\nSet in [location — e.g., neon-lit city, royal palace, desert battlefield, futuristic lab, etc.], under [lighting style — e.g., cinematic golden hour, dramatic spotlight, cool moonlight glow].\nThe atmosphere feels [describe mood — e.g., heroic, intense, humorous, dramatic, chaotic].\n\nIn the style of caricature realism, emphasize [expression details — e.g., wrinkles, skin texture, exaggerated smile lines, hair flow, muscle tension], with cinematic lighting, sharp focus, hyper-realistic rendering, and 3D caricature proportions.",
+        "逼真的高清全身漫画人物[角色]，具有[描述夸张的身体特征——例如，过大的头部、有表现力的眼睛、夸张的笑容等]，展现[情绪表达——例如，自信的微笑、狂野的笑声、专注的神情]。\n他们穿着[详细的服装描述——例如，带有金色点缀的黑色定制西装、飘逸的红色披风、未来主义盔甲等]，并进行史诗般的动作——[例如，跃过火焰、在暴风雨中指挥交响乐团、破墙而入、手持闪电]。\n场景设定在[例如，霓虹闪烁的城市、皇家宫殿、沙漠战场、未来实验室等]，采用[例如，电影般的黄金时段、戏剧性的聚光灯、清冷的月光]照明风格。\n气氛感觉[描述情绪——例如，英雄的、激烈的、幽默的、戏剧性的、混乱的]。\n\n以漫画写实风格，强调[表情细节——例如皱纹、皮肤纹理、夸张的笑纹、头发的飘动、肌肉的紧张感]，采用电影般的照明、清晰的焦点、超现实的渲染和 3D 漫画比例。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
@@ -1597,7 +2146,10 @@
       "images": [
         "images/421.jpeg"
       ],
-      "prompts": [],
+      "prompts": [
+        "Ultra-realistic wildlife photography scene, (use reference face from uploaded photo). A man wearing proper wildlife-safari clothing — light brown outdoor shirt, rugged cargo pants, and sturdy field boots. He is lying flat on the grassy ground, holding a professional DSLR camera with a large telephoto lens, focusing on wildlife. On his shoulder sits a playful lion cub looking into the distance. Golden hour natural light, African savannah background, cinematic depth of field, 8K detail, vibrant colors. Keep my face 100% accurate. HD quality DSLR.",
+        "超逼真的野生动物摄影场景（使用上传照片中的参考人脸）。一位身着专业野生动物狩猎服的男子——浅棕色户外衬衫、结实耐用的工装裤和厚实的野外靴。他平躺在草地上，手持一台配备长焦镜头的专业单反相机，正专注于拍摄野生动物。他的肩上趴着一只活泼的小狮子，正眺望着远方。拍摄于黄金时段的自然光线下，以非洲稀树草原为背景，拥有电影级的景深，8K超高清细节，色彩鲜艳。力求100%还原我的面部特征。高清单反拍摄。"
+      ],
       "examples": [],
       "notes": [],
       "originFile": "README.md",
