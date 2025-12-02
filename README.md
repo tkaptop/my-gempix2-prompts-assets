@@ -5,7 +5,7 @@
 
 🎉 提示词持续更新中。。。
 
-🎉 在线演示地址：https://opennana.com/awesome-prompt-gallery/
+🎉 在线演示地址：https://www.nanobananapro.site/prompts
 
 ## 🆕 项目改造说明
 - 新增 `scripts/generate-dataset.js`，可将仓库内的 Markdown 案例自动解析为结构化的 `data/prompts.json` 数据集，包含来源、图片、提示词、示例、备注及自动生成的分类标签。
@@ -20,7 +20,7 @@
     <!-- 左侧文字单元格 -->
     <td style="width: 60%; padding: 2px; vertical-align: middle; border: none;">
       <p>1、微信公众号：松果先森</p>
-      <p>2、我的X地址：https://x.com/songguoxiansen</p>
+      <p>2、我的X地址：https://x.com/Lee06253046</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </td>
     <!-- 右侧图片单元格 -->
@@ -1605,7 +1605,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 ```
 
 <a id="prompt-438"></a>
-## 案例 438：疯狂的程序喵 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991529211392323991))
+## 案例 438：疯狂的程序喵 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991529211392323991))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/438.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂的程序喵">
@@ -1617,7 +1617,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 ```
 
 <a id="prompt-437"></a>
-## 案例 437：飞机立体剖面信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991542503850516544))
+## 案例 437：飞机立体剖面信息图 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991542503850516544))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/437.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-飞机立体剖面信息图">
@@ -1647,7 +1647,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 ```
 
 <a id="prompt-435"></a>
-## 案例 435：穿着成名的衣服拍合照在上海江滩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991694806201037174))
+## 案例 435：穿着成名的衣服拍合照在上海江滩 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991694806201037174))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/435.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿着成名的衣服拍合照在上海江滩">
@@ -1681,7 +1681,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 ```
 
 <a id="prompt-434"></a>
-## 案例 434：西游记人物坐地铁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991681971529908358))
+## 案例 434：西游记人物坐地铁 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991681971529908358))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/434.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-西游记人物坐地铁">
@@ -1761,7 +1761,7 @@ A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumak
 ```
 
 <a id="prompt-429"></a>
-## 案例 429：长文本古诗画画 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991474296221495538))
+## 案例 429：长文本古诗画画 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991474296221495538))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/429.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-长文本古诗画画">
@@ -1804,7 +1804,7 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 ```
 
 <a id="prompt-427"></a>
-## 案例 427：川剧变脸解密拆解图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991685064569266240))
+## 案例 427：川剧变脸解密拆解图 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1991685064569266240))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/427.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-川剧变脸解密拆解图">
@@ -3041,7 +3041,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-392"></a>
-## 案例 392：正在更衣的女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178658397229294))
+## 案例 392：正在更衣的女生 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178658397229294))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/392.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-正在更衣的女生">
@@ -3190,7 +3190,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-391"></a>
-## 案例 391：咖啡厅室内女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178596581658768))
+## 案例 391：咖啡厅室内女生 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178596581658768))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/391.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-咖啡厅室内女生">
@@ -3337,7 +3337,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-390"></a>
-## 案例 390：彩虹色发型女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178522988343619))
+## 案例 390：彩虹色发型女生 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178522988343619))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/390.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-彩虹色发型女生">
@@ -3486,7 +3486,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-389"></a>
-## 案例 389：双马尾比心女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178453216137391))
+## 案例 389：双马尾比心女生 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178453216137391))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/389.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双马尾比心女生">
@@ -3641,7 +3641,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-388"></a>
-## 案例 388：白色枕头上的睡眼惺忪女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178369262964886))
+## 案例 388：白色枕头上的睡眼惺忪女孩 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178369262964886))
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/388.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-白色枕头上的睡眼惺忪女孩">
 </div>
@@ -3789,7 +3789,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-387"></a>
-## 案例 387：握着复古银色麦克风女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178292276527584))
+## 案例 387：握着复古银色麦克风女生 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1981178292276527584))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/387.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-握着复古银色麦克风女生">
@@ -3938,7 +3938,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-386"></a>
-## 案例 386：淡桃粉色宽松毛绒睡衣女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1982984662747373744))
+## 案例 386：淡桃粉色宽松毛绒睡衣女孩 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1982984662747373744))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/386.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-淡桃粉色宽松毛绒睡衣女孩">
@@ -4087,7 +4087,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-385"></a>
-## 案例 385：一张极具戏剧张力的黑白特写肖像 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1983347050306523506))
+## 案例 385：一张极具戏剧张力的黑白特写肖像 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1983347050306523506))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/385.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张极具戏剧张力的黑白特写肖像">
@@ -4099,7 +4099,7 @@ Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto
 ```
 
 <a id="prompt-384"></a>
-## 案例 384：人和汽车的三视图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1983425570596892858))
+## 案例 384：人和汽车的三视图 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1983425570596892858))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/384.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人和汽车的三视图">
@@ -5219,7 +5219,7 @@ A hyper-realistic 3D digital illustration of a woman with her natural facial fea
 ```
 
 <a id="prompt-349"></a>
-## 案例 349：复古小报童 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972570539006013947))
+## 案例 349：复古小报童 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1972570539006013947))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/349.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古小报童">
@@ -5232,7 +5232,7 @@ A hyper-realistic 3D digital illustration of a woman with her natural facial fea
 
 
 <a id="prompt-348"></a>
-## 案例 348：超级马里奥风格照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1971764229070884990))
+## 案例 348：超级马里奥风格照片 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1971764229070884990))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/348.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超级马里奥风格照片">
@@ -5244,7 +5244,7 @@ A hyper-realistic 3D digital illustration of a woman with her natural facial fea
 ```
 
 <a id="prompt-347"></a>
-## 案例 347：人物和宝可梦 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972311003049415030))
+## 案例 347：人物和宝可梦 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1972311003049415030))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/347.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物和宝可梦">
@@ -5261,7 +5261,7 @@ Create a hyper-realistic editorial portrait of a person, generated from the prov
 ```
 
 <a id="prompt-346"></a>
-## 案例 346：人物和大型耿鬼 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972307026714972370))
+## 案例 346：人物和大型耿鬼 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1972307026714972370))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/346.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物和大型耿鬼">
@@ -5279,7 +5279,7 @@ Hyper-realistic editorial portrait of a person, generated from the provided imag
 
 
 <a id="prompt-345"></a>
-## 案例 345：你抱着幼年版自己的复古风自拍 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1971394542298440073))
+## 案例 345：你抱着幼年版自己的复古风自拍 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1971394542298440073))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/345.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你抱着幼年版自己的复古风自拍">
@@ -5297,7 +5297,7 @@ retro selfies of you holding a baby version of you
 
 
 <a id="prompt-344"></a>
-## 案例 344：中秋月下秋千照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1975198365932769599))
+## 案例 344：中秋月下秋千照片 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1975198365932769599))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/344.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中秋月下秋千照片">
@@ -7155,7 +7155,7 @@ Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size s
 ```
 
 <a id="prompt-300"></a>
-## 案例 300：制作证件照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963602241610551609))
+## 案例 300：制作证件照 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1963602241610551609))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/300.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作证件照">
@@ -7172,7 +7172,7 @@ Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size s
 ```
 
 <a id="prompt-299"></a>
-## 案例 299：制作大头贴 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963248968902840712))
+## 案例 299：制作大头贴 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1963248968902840712))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/299.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作大头贴">
@@ -7185,7 +7185,7 @@ Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size s
 
 
 <a id="prompt-298"></a>
-## 案例 298：手办-ZBrush建模屏显与万代风格包装盒 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1964874262768160975))
+## 案例 298：手办-ZBrush建模屏显与万代风格包装盒 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1964874262768160975))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/298.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手办-ZBrush建模屏显与万代风格包装盒">
@@ -7209,7 +7209,7 @@ NanoBanana手办提示词：
 ```
 
 <a id="prompt-297"></a>
-## 案例 297：制作工作室拍摄肖像照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963962625043169643))
+## 案例 297：制作工作室拍摄肖像照 (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1963962625043169643))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/297.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作工作室拍摄肖像照">
@@ -7222,7 +7222,7 @@ NanoBanana手办提示词：
 
 
 <a id="prompt-296"></a>
-## 案例 296：手办-高级包装带打印机（擎天柱） (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1964874809130783108))
+## 案例 296：手办-高级包装带打印机（擎天柱） (来源 [@songguoxiansen](https://x.com/Lee06253046/status/1964874809130783108))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/296.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手办-高级包装带打印机（擎天柱）">
@@ -8617,7 +8617,7 @@ A colorful handcrafted sculpture of [insert subject], made from semi-transparent
 ```
 
 <a id="prompt-245"></a>
-## 案例 245：Kiro卡通幽灵 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
+## 案例 245：Kiro卡通幽灵 (来源 [@松果先森](https://x.com/Lee06253046/status/1945032571114402108))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/245.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Kiro卡通幽灵">
@@ -8766,7 +8766,7 @@ Retexture the image attached based on the JSON below
 ```
 
 <a id="prompt-241"></a>
-## 案例 241：9格Q版风格贴纸 (来源 [@松果先森](https://x.com/songguoxiansen/status/1950726378342801853))
+## 案例 241：9格Q版风格贴纸 (来源 [@松果先森](https://x.com/Lee06253046/status/1950726378342801853))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/241.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9格Q版风格贴纸">
@@ -8969,7 +8969,7 @@ Create a hyper-realistic 3D rendering of balloon letters forming the word [WOW].
 ```
 
 <a id="prompt-230"></a>
-## 案例 230：可爱的卡通灵魂 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
+## 案例 230：可爱的卡通灵魂 (来源 [@松果先森](https://x.com/Lee06253046/status/1945032571114402108))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/230.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的卡通灵魂">
