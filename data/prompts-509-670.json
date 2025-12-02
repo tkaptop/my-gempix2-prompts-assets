@@ -1,0 +1,3572 @@
+{
+  "generatedAt": "2025-12-02T06:20:58.893Z",
+  "total": 162,
+  "rangeStart": 509,
+  "rangeEnd": 670,
+  "items": [
+    {
+      "id": 670,
+      "slug": "prompt-670",
+      "title": "年轻女子对着镜子自拍旁边是朱迪",
+      "source": {
+        "name": "@awesome_visuals",
+        "url": "https://x.com/awesome_visuals/status/1995071645002747918"
+      },
+      "images": [
+        "images/670.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位年轻女子在镜前自拍，身旁是动画角色朱迪，画面充满俏皮与梦幻的互动感。",
+        "en": "A young woman takes a selfie in front of a mirror, with the animated character Judy by her side, creating a playful and dreamy interaction."
+      },
+      "tags": [],
+      "coverImage": "images/670.jpeg"
+    },
+    {
+      "id": 669,
+      "slug": "prompt-669",
+      "title": "女子在迪士尼商店里对着镜子自拍",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1995230929158320332"
+      },
+      "images": [
+        "images/669.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位年轻女子在迪士尼商店的镜前自拍，周围环绕着可爱的玩偶，脸上洋溢着快乐的笑容。",
+        "en": "A young woman takes a selfie in front of a mirror at a Disney store, surrounded by adorable plush toys, with a joyful smile on her face."
+      },
+      "tags": [],
+      "coverImage": "images/669.jpeg"
+    },
+    {
+      "id": 668,
+      "slug": "prompt-668",
+      "title": "城市俯视等距3D卡通微缩场景",
+      "source": {
+        "name": "@PavolRusnak",
+        "url": "https://x.com/PavolRusnak/status/1995165498774802607"
+      },
+      "images": [
+        "images/668.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "俯瞰视角下的等距3D卡通城市微缩场景，色彩明快，建筑错落有致，充满童趣与想象力。",
+        "en": "A vibrant isometric 3D cartoon miniature city scene from a bird's-eye view, featuring whimsical architecture and playful details."
+      },
+      "tags": [],
+      "coverImage": "images/668.jpeg"
+    },
+    {
+      "id": 667,
+      "slug": "prompt-667",
+      "title": "超写实风格真实和卡通分离效果",
+      "source": {
+        "name": "@ZaraIrahh",
+        "url": "https://x.com/ZaraIrahh/status/1995304550610407807"
+      },
+      "images": [
+        "images/667.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超写实风格下，真实人物与卡通角色被巧妙地分离呈现，形成虚实交织的视觉奇观。",
+        "en": "A hyper-realistic style masterfully separates a real person from a cartoon character, creating a visually stunning blend of reality and fantasy."
+      },
+      "tags": [],
+      "coverImage": "images/667.jpeg"
+    },
+    {
+      "id": 666,
+      "slug": "prompt-666",
+      "title": "极近距离的自拍照",
+      "source": {
+        "name": "@IamEmily2050",
+        "url": "https://x.com/IamEmily2050/status/1995065474749730989"
+      },
+      "images": [
+        "images/666.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "极近距离自拍，细腻捕捉面部细节与情绪，展现独特个性与真实质感。",
+        "en": "An extreme close-up selfie, capturing intricate facial details and raw emotion with striking intimacy."
+      },
+      "tags": [],
+      "coverImage": "images/666.jpeg"
+    },
+    {
+      "id": 665,
+      "slug": "prompt-665",
+      "title": "外卖员的写真照",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1995385148792263095"
+      },
+      "images": [
+        "images/665.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一名外卖员在雨中骑行，黄色雨衣与城市霓虹交相辉映，展现平凡岗位的动人瞬间。",
+        "en": "A delivery rider pedals through the rain, his yellow raincoat glowing under neon city lights, capturing a poignant moment of everyday dedication."
+      },
+      "tags": [],
+      "coverImage": "images/665.jpeg"
+    },
+    {
+      "id": 664,
+      "slug": "prompt-664",
+      "title": "多图风格参考",
+      "source": {
+        "name": "@op7418",
+        "url": "https://x.com/op7418/status/1995337868181717248"
+      },
+      "images": [
+        "images/664.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "多图风格参考案例，通过精选图像组合激发创意，为生成独特视觉作品提供多样化的风格灵感与构图指引。",
+        "en": "A multi-image style reference case that sparks creativity through curated visual combinations, offering diverse stylistic inspiration and compositional guidance for generating unique artwork."
+      },
+      "tags": [],
+      "coverImage": "images/664.jpeg"
+    },
+    {
+      "id": 663,
+      "slug": "prompt-663",
+      "title": "哆啦A梦讲课",
+      "source": {
+        "name": "@oran_ge",
+        "url": "https://x.com/oran_ge/status/1995075703084339500"
+      },
+      "images": [
+        "images/663.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "哆啦A梦站在黑板前，用神奇道具生动讲解科学原理，学生们听得入迷。",
+        "en": "Doraemon stands before a blackboard, using magical gadgets to vividly explain scientific principles, captivating his students."
+      },
+      "tags": [],
+      "coverImage": "images/663.jpeg"
+    },
+    {
+      "id": 662,
+      "slug": "prompt-662",
+      "title": "城市地标做成的蛋糕",
+      "source": {
+        "name": "@lxfater",
+        "url": "https://x.com/lxfater/status/1995341321343815694"
+      },
+      "images": [
+        "images/662.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "城市地标被制作成精致的翻糖蛋糕，建筑细节栩栩如生，在柔光下展现甜蜜与宏伟的奇妙融合。",
+        "en": "Urban landmarks recreated as exquisite fondant cakes, with architectural details so lifelike they blend sweetness and grandeur under soft lighting."
+      },
+      "tags": [],
+      "coverImage": "images/662.jpeg"
+    },
+    {
+      "id": 661,
+      "slug": "prompt-661",
+      "title": "根据经纬度生成的航拍图像",
+      "source": {
+        "name": "@KusoPhoto",
+        "url": "https://x.com/KusoPhoto/status/1995251500973785166"
+      },
+      "images": [
+        "images/661.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "基于精确经纬度坐标生成的航拍视角图像，呈现独特的地形地貌与光影层次。",
+        "en": "Aerial imagery generated from precise latitude and longitude coordinates, revealing unique terrain and layered lighting."
+      },
+      "tags": [],
+      "coverImage": "images/661.jpeg"
+    },
+    {
+      "id": 660,
+      "slug": "prompt-660",
+      "title": "现代前卫的女生特写",
+      "source": {
+        "name": "@rovvmut_",
+        "url": "https://x.com/rovvmut_/status/1995146612885410093"
+      },
+      "images": [
+        "images/660.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "现代前卫的女性特写，以赛博朋克美学呈现，霓虹光影与未来感妆容交织，展现强烈的个性与科技感。",
+        "en": "A modern avant-garde female close-up, rendered in cyberpunk aesthetics with neon lighting and futuristic makeup, exuding strong personality and technological edge."
+      },
+      "tags": [],
+      "coverImage": "images/660.jpeg"
+    },
+    {
+      "id": 659,
+      "slug": "prompt-659",
+      "title": "年轻女性的超近特写肖像",
+      "source": {
+        "name": "@Just_sharon7",
+        "url": "https://x.com/Just_sharon7/status/1995108671026803004"
+      },
+      "images": [
+        "images/659.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "年轻女性的超近特写肖像，细腻捕捉面部细节与情感，柔和光线突显肌肤质感，眼神深邃动人。",
+        "en": "An ultra-close-up portrait of a young woman, capturing intricate facial details and emotion, with soft lighting highlighting skin texture and deep, expressive eyes."
+      },
+      "tags": [],
+      "coverImage": "images/659.jpeg"
+    },
+    {
+      "id": 658,
+      "slug": "prompt-658",
+      "title": "3x3大头贴风格拼贴画",
+      "source": {
+        "name": "@KusoPhoto",
+        "url": "https://x.com/KusoPhoto/status/1995336530286797271"
+      },
+      "images": [
+        "images/658.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "3x3大头贴风格拼贴画，九宫格布局呈现多样表情与风格，充满趣味与个性，适合社交媒体分享。",
+        "en": "A 3x3 photo booth style collage, featuring diverse expressions and styles in a nine-grid layout, full of fun and personality, perfect for social media sharing."
+      },
+      "tags": [],
+      "coverImage": "images/658.jpeg"
+    },
+    {
+      "id": 657,
+      "slug": "prompt-657",
+      "title": "身着西装的女子摆出嫌犯照姿势",
+      "source": {
+        "name": "@xmiiru_",
+        "url": "https://x.com/xmiiru_/status/1995344587750072496"
+      },
+      "images": [
+        "images/657.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位身着干练西装的女子，模仿嫌犯照姿势站立，眼神锐利，营造出神秘而强势的氛围。",
+        "en": "A woman in a sharp suit strikes a mugshot pose, her intense gaze creating an aura of mystery and power."
+      },
+      "tags": [],
+      "coverImage": "images/657.jpeg"
+    },
+    {
+      "id": 656,
+      "slug": "prompt-656",
+      "title": "女人的自拍照",
+      "source": {
+        "name": "@YaseenK7212",
+        "url": "https://x.com/YaseenK7212/status/1994815950856552898"
+      },
+      "images": [
+        "images/656.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位女性在柔和光线下自拍，表情自然，背景虚化，展现自信与日常之美。",
+        "en": "A woman takes a selfie in soft light, with a natural expression and blurred background, capturing confidence and everyday beauty."
+      },
+      "tags": [],
+      "coverImage": "images/656.jpeg"
+    },
+    {
+      "id": 655,
+      "slug": "prompt-655",
+      "title": "Google DeepMind进行一次物品整齐排列展示",
+      "source": {
+        "name": "@NanoBanana",
+        "url": "https://x.com/NanoBanana/status/1993311207714177251"
+      },
+      "images": [
+        "images/655.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "Google DeepMind 展示其AI系统将物品整齐排列的场景，体现了算法对物理世界的精确理解与控制。",
+        "en": "Google DeepMind demonstrates its AI system neatly arranging objects, showcasing precise algorithmic understanding and control of the physical world."
+      },
+      "tags": [],
+      "coverImage": "images/655.jpeg"
+    },
+    {
+      "id": 654,
+      "slug": "prompt-654",
+      "title": "人手拿着一颗巨大的竖式药丸的特写镜头",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://x.com/ShreyaYadav___/status/1995145004269068406"
+      },
+      "images": [
+        "images/654.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "人手特写，紧握一颗巨大的竖式药丸，质感细腻，光影对比强烈，充满超现实与科技感。",
+        "en": "A close-up of a hand holding a giant vertical pill, with detailed texture and strong light contrast, evoking a surreal and technological feel."
+      },
+      "tags": [],
+      "coverImage": "images/654.jpeg"
+    },
+    {
+      "id": 653,
+      "slug": "prompt-653",
+      "title": "超写实的旅行广告",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1994840773855203512"
+      },
+      "images": [
+        "images/653.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超写实旅行广告，展现壮丽自然风光与沉浸式体验，细节丰富，光影动人，激发探索世界的渴望。",
+        "en": "A hyper-realistic travel ad showcasing breathtaking natural landscapes and immersive experiences, with intricate details and captivating lighting that ignites the desire to explore the world."
+      },
+      "tags": [],
+      "coverImage": "images/653.jpeg"
+    },
+    {
+      "id": 652,
+      "slug": "prompt-652",
+      "title": "人物的电影级逼真图像",
+      "source": {
+        "name": "@rovvmut_",
+        "url": "https://x.com/rovvmut_/status/1995087450788573215"
+      },
+      "images": [
+        "images/652.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "电影级逼真人物肖像，细腻光影与情感表达，展现戏剧张力与深度叙事感。",
+        "en": "Cinematic photorealistic portrait with dramatic lighting and emotional depth, capturing a compelling narrative moment."
+      },
+      "tags": [],
+      "coverImage": "images/652.jpeg"
+    },
+    {
+      "id": 651,
+      "slug": "prompt-651",
+      "title": "抹茶女孩",
+      "source": {
+        "name": "@egeberkina",
+        "url": "https://x.com/egeberkina/status/1995069549805187087"
+      },
+      "images": [
+        "images/651.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位身着和服的少女，在樱花树下优雅地制作抹茶，画面充满宁静的日式美学与春日氛围。",
+        "en": "A girl in a kimono gracefully prepares matcha under cherry blossoms, evoking serene Japanese aesthetics and spring ambiance."
+      },
+      "tags": [],
+      "coverImage": "images/651.jpeg"
+    },
+    {
+      "id": 650,
+      "slug": "prompt-650",
+      "title": "头部的空腔内正站着迷你版自己",
+      "source": {
+        "name": "@madpencil_",
+        "url": "https://x.com/madpencil_/status/1994891011861221665"
+      },
+      "images": [
+        "images/650.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一个迷你版的自己站在头部的空腔内，象征内心世界的探索与自我对话，充满超现实艺术感。",
+        "en": "A miniature version of oneself stands inside the head's cavity, symbolizing inner exploration and self-dialogue with surreal artistic appeal."
+      },
+      "tags": [],
+      "coverImage": "images/650.jpeg"
+    },
+    {
+      "id": 649,
+      "slug": "prompt-649",
+      "title": "一张超逼真的8K人像",
+      "source": {
+        "name": "@kingofdairyque",
+        "url": "https://x.com/kingofdairyque/status/1995092464193933467"
+      },
+      "images": [
+        "images/649.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张超逼真的8K人像，捕捉细腻的皮肤纹理与生动的眼神，仿佛真人跃然眼前。",
+        "en": "An ultra-realistic 8K portrait that captures intricate skin textures and lifelike eyes, as if the subject were truly present."
+      },
+      "tags": [],
+      "coverImage": "images/649.jpeg"
+    },
+    {
+      "id": 648,
+      "slug": "prompt-648",
+      "title": "电影感十足的照片",
+      "source": {
+        "name": "@azed_ai",
+        "url": "https://x.com/azed_ai/status/1994767576963207277"
+      },
+      "images": [
+        "images/648.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "电影感十足的照片，运用光影与构图营造戏剧张力，仿佛每一帧都诉说着故事，充满情绪与氛围感。",
+        "en": "A cinematic photo that uses light, shadow, and composition to create dramatic tension, with each frame telling a story full of mood and atmosphere."
+      },
+      "tags": [],
+      "coverImage": "images/648.jpeg"
+    },
+    {
+      "id": 647,
+      "slug": "prompt-647",
+      "title": "漂浮在空中的3D爆炸装配图",
+      "source": {
+        "name": "@HBCoop_",
+        "url": "https://x.com/HBCoop_/status/1994822441793671485"
+      },
+      "images": [
+        "images/647.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "漂浮在空中的3D爆炸装配图，零件悬浮分解，展现精密机械的内部结构与动态美感。",
+        "en": "A 3D exploded assembly diagram floating in mid-air, with parts suspended in decomposition, revealing the intricate internal structure and dynamic beauty of precision machinery."
+      },
+      "tags": [],
+      "coverImage": "images/647.jpeg"
+    },
+    {
+      "id": 646,
+      "slug": "prompt-646",
+      "title": "年轻女子坐在购物车里",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1994870610410021018"
+      },
+      "images": [
+        "images/646.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位年轻女子坐在购物车里，露出俏皮笑容，背景是超市货架，营造出轻松有趣的日常氛围。",
+        "en": "A young woman sits playfully in a shopping cart, smiling brightly against supermarket shelves, capturing a lighthearted moment of everyday fun."
+      },
+      "tags": [],
+      "coverImage": "images/646.jpeg"
+    },
+    {
+      "id": 645,
+      "slug": "prompt-645",
+      "title": "一张脸六种情绪",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://x.com/ShreyaYadav___/status/1995052291981005278"
+      },
+      "images": [
+        "images/645.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张人脸同时呈现六种鲜明情绪，通过光影与色彩分割，展现复杂内心世界的视觉艺术。",
+        "en": "A single face simultaneously displays six distinct emotions, segmented by light and color, creating a visual exploration of complex inner worlds."
+      },
+      "tags": [],
+      "coverImage": "images/645.jpeg"
+    },
+    {
+      "id": 644,
+      "slug": "prompt-644",
+      "title": "极具收藏价值的国际象棋棋子",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1994777464631951499"
+      },
+      "images": [
+        "images/644.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "极具收藏价值的国际象棋棋子，采用稀有材质精雕细琢，细节丰富，散发着古典与艺术交融的独特魅力。",
+        "en": "Exquisitely crafted chess pieces of rare materials, rich in detail, embody a unique blend of classical artistry and timeless collectible value."
+      },
+      "tags": [],
+      "coverImage": "images/644.jpeg"
+    },
+    {
+      "id": 643,
+      "slug": "prompt-643",
+      "title": "现代矢量海报肖像",
+      "source": {
+        "name": "@john_my07",
+        "url": "https://x.com/john_my07/status/1994989154669932989"
+      },
+      "images": [
+        "images/643.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "现代矢量风格肖像海报，以简洁的几何形状和鲜明色彩构建人物轮廓，充满艺术感与视觉冲击力。",
+        "en": "A modern vector-style portrait poster, using clean geometric shapes and bold colors to create a striking artistic silhouette with visual impact."
+      },
+      "tags": [],
+      "coverImage": "images/643.jpeg"
+    },
+    {
+      "id": 642,
+      "slug": "prompt-642",
+      "title": "黑板艺术作品-海賊女帝",
+      "source": {
+        "name": "@IamEmily2050",
+        "url": "https://x.com/IamEmily2050/status/1994624635300974734"
+      },
+      "images": [
+        "images/642.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "黑板粉笔绘制的海贼女帝波雅·汉库克，细腻线条与光影交织，展现其高傲与魅力。",
+        "en": "Chalk art of Pirate Empress Boa Hancock on a blackboard, with delicate lines and shading capturing her pride and allure."
+      },
+      "tags": [],
+      "coverImage": "images/642.jpeg"
+    },
+    {
+      "id": 641,
+      "slug": "prompt-641",
+      "title": "路飞教室艺术",
+      "source": {
+        "name": "@yanhua1010",
+        "url": "https://x.com/yanhua1010/status/1995044071803371880"
+      },
+      "images": [
+        "images/641.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "路飞在教室中展现艺术天赋，阳光洒在画板上，充满少年热血与创意的动漫场景。",
+        "en": "Luffy displays artistic talent in a classroom, with sunlight streaming onto the drawing board, creating an anime scene full of youthful passion and creativity."
+      },
+      "tags": [],
+      "coverImage": "images/641.jpeg"
+    },
+    {
+      "id": 640,
+      "slug": "prompt-640",
+      "title": "3x3网格构图进行拍摄照片",
+      "source": {
+        "name": "@MonetizeXWithAb",
+        "url": "https://x.com/MonetizeXWithAb/status/1994781646361694398"
+      },
+      "images": [
+        "images/640.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "采用3x3网格构图拍摄，将画面分为九等份，通过线条交点突出主体，营造平衡而富有张力的视觉体验。",
+        "en": "Shot using a 3x3 grid composition, the frame is divided into nine equal parts, highlighting the subject at intersecting lines to create a balanced and dynamic visual experience."
+      },
+      "tags": [],
+      "coverImage": "images/640.jpeg"
+    },
+    {
+      "id": 639,
+      "slug": "prompt-639",
+      "title": "身穿露肩白色针织上衣",
+      "source": {
+        "name": "@kingofdairyque",
+        "url": "https://x.com/kingofdairyque/status/1995046473835467038"
+      },
+      "images": [
+        "images/639.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "身穿露肩白色针织上衣，展现优雅与性感并存的气质，简约设计凸显女性柔美线条。",
+        "en": "Wearing an off-shoulder white knit top, exuding an elegant and sensual vibe, with minimalist design highlighting feminine curves."
+      },
+      "tags": [],
+      "coverImage": "images/639.jpeg"
+    },
+    {
+      "id": 638,
+      "slug": "prompt-638",
+      "title": "可爱偶像特写肖像",
+      "source": {
+        "name": "@so_ainsight",
+        "url": "https://x.com/so_ainsight/status/1995018306433290701"
+      },
+      "images": [
+        "images/638.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位可爱的偶像少女，特写镜头捕捉她清澈的眼眸和甜美笑容，柔光下皮肤细腻，充满青春活力。",
+        "en": "A close-up portrait of a cute idol girl, capturing her clear eyes and sweet smile under soft light, with delicate skin radiating youthful charm."
+      },
+      "tags": [],
+      "coverImage": "images/638.jpeg"
+    },
+    {
+      "id": 637,
+      "slug": "prompt-637",
+      "title": "肤色白皙的美丽女性沐浴在晨光中",
+      "source": {
+        "name": "@xmiiru_",
+        "url": "https://x.com/xmiiru_/status/1995078053165146326"
+      },
+      "images": [
+        "images/637.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "晨光轻抚，白皙肌肤的女性在柔和光晕中静立，发丝微扬，尽显宁静优雅之美。",
+        "en": "A fair-skinned woman bathed in morning light, standing serenely with softly glowing hair, embodying tranquil elegance."
+      },
+      "tags": [],
+      "coverImage": "images/637.jpeg"
+    },
+    {
+      "id": 636,
+      "slug": "prompt-636",
+      "title": "3D立体书插画",
+      "source": {
+        "name": "@azed_ai",
+        "url": "https://x.com/azed_ai/status/1995084424489422885"
+      },
+      "images": [
+        "images/636.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一本3D立体书展开，展现奇幻森林场景，动物与植物跃然纸上，充满童趣与立体纵深感。",
+        "en": "A 3D pop-up book unfolds to reveal a magical forest scene, with animals and plants springing to life, full of whimsy and dimensional depth."
+      },
+      "tags": [],
+      "coverImage": "images/636.jpeg"
+    },
+    {
+      "id": 635,
+      "slug": "prompt-635",
+      "title": "根据古诗画一幅画",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991472285258248349"
+      },
+      "images": [
+        "images/635.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "以古诗意境为灵感，用现代笔触描绘古典韵味，画面充满诗意与想象空间。",
+        "en": "Inspired by classical poetry, this image blends ancient charm with modern brushstrokes, evoking poetic imagination."
+      },
+      "tags": [],
+      "coverImage": "images/635.jpeg"
+    },
+    {
+      "id": 634,
+      "slug": "prompt-634",
+      "title": "水墨画风格与写实摄影的结合",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991529000519496037"
+      },
+      "images": [
+        "images/634.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将传统水墨的飘逸笔触与现代写实摄影完美融合，创造出虚实相生、意境深远的视觉艺术。",
+        "en": "A seamless fusion of traditional ink wash brushstrokes and modern realistic photography, creating ethereal and profound visual art."
+      },
+      "tags": [],
+      "coverImage": "images/634.jpeg"
+    },
+    {
+      "id": 633,
+      "slug": "prompt-633",
+      "title": "深夜放毒是对减肥最大的不尊重",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991530558992859379"
+      },
+      "images": [
+        "images/633.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "深夜美食特写，金黄炸鸡与拉丝芝士在暖光下诱人垂涎，搭配幽默文案，直击减肥者的心理防线。",
+        "en": "A tempting close-up of golden fried chicken and stretchy cheese under warm light, paired with witty copy that playfully challenges dieters' willpower."
+      },
+      "tags": [],
+      "coverImage": "images/633.jpeg"
+    },
+    {
+      "id": 632,
+      "slug": "prompt-632",
+      "title": "日式居酒屋狗狗烤串",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991533617403818429"
+      },
+      "images": [
+        "images/632.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一只可爱的柴犬在温馨的日式居酒屋里，正专注地烤着香气四溢的鸡肉串，画面充满烟火气与趣味。",
+        "en": "An adorable Shiba Inu intently grilling savory chicken skewers in a cozy Japanese izakaya, capturing a heartwarming blend of culinary charm and whimsy."
+      },
+      "tags": [],
+      "coverImage": "images/632.jpeg"
+    },
+    {
+      "id": 631,
+      "slug": "prompt-631",
+      "title": "根据古诗画一幅画",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991471244081074652"
+      },
+      "images": [
+        "images/631.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "根据古诗意境创作一幅画，将文字的诗意转化为视觉艺术，展现古典文学与绘画的完美融合。",
+        "en": "Create a painting inspired by ancient poetry, transforming the poetic essence into visual art that blends classical literature with artistic expression."
+      },
+      "tags": [],
+      "coverImage": "images/631.jpeg"
+    },
+    {
+      "id": 630,
+      "slug": "prompt-630",
+      "title": "疯狂动物城的大型毛绒角色帽子",
+      "source": {
+        "name": "@kingofdairyque",
+        "url": "https://x.com/kingofdairyque/status/1994745605621780533"
+      },
+      "images": [
+        "images/630.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "疯狂动物城角色化身温暖毛绒帽，朱迪兔耳与尼克狐脸造型生动，冬日街头最吸睛的可爱配饰。",
+        "en": "Zootopia character plush hats with Judy's bunny ears and Nick's fox face, bringing playful charm to winter streets as the coziest accessory."
+      },
+      "tags": [],
+      "coverImage": "images/630.jpeg"
+    },
+    {
+      "id": 629,
+      "slug": "prompt-629",
+      "title": "一张图片生成9个不同景别的镜头",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994783047825473774"
+      },
+      "images": [
+        "images/629.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张图片生成九个不同景别镜头，从全景到特写，展现多视角叙事魅力。",
+        "en": "One image generates nine shots with varied framings, from wide to close-up, showcasing multi-perspective storytelling."
+      },
+      "tags": [],
+      "coverImage": "images/629.jpeg"
+    },
+    {
+      "id": 628,
+      "slug": "prompt-628",
+      "title": "第一人称视角牵手照片",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994691557338013951"
+      },
+      "images": [
+        "images/628.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "第一人称视角的牵手特写，温暖阳光洒在交叠的手上，背景虚化，传递出亲密与陪伴的细腻情感。",
+        "en": "A first-person perspective close-up of interlocked hands, with warm sunlight casting gentle shadows, conveying intimacy and companionship through a softly blurred background."
+      },
+      "tags": [],
+      "coverImage": "images/628.jpeg"
+    },
+    {
+      "id": 627,
+      "slug": "prompt-627",
+      "title": "MacBook Pro 笔记本电脑拆解",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994671420480356417"
+      },
+      "images": [
+        "images/627.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "MacBook Pro 精密拆解，展现内部精密结构与组件细节，科技感十足。",
+        "en": "A precise teardown of the MacBook Pro, revealing its intricate internal structure and component details with a strong technological aesthetic."
+      },
+      "tags": [],
+      "coverImage": "images/627.jpeg"
+    },
+    {
+      "id": 626,
+      "slug": "prompt-626",
+      "title": "黑白水墨画风格-孤舟蓑笠翁",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994949753524609418"
+      },
+      "images": [
+        "images/626.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "黑白水墨画描绘孤舟蓑笠翁，简约笔触勾勒出江雪独钓的东方意境，展现传统水墨的留白之美。",
+        "en": "A black-and-white ink wash painting depicts a solitary fisherman in a boat, using minimalist brushstrokes to capture the serene Eastern aesthetic of fishing in snowy solitude."
+      },
+      "tags": [],
+      "coverImage": "images/626.jpeg"
+    },
+    {
+      "id": 625,
+      "slug": "prompt-625",
+      "title": "在人物周围添加糖果怪兽",
+      "source": {
+        "name": "@AI_GIRL_DESIGN",
+        "url": "https://x.com/AI_GIRL_DESIGN/status/1993243344932413597"
+      },
+      "images": [
+        "images/625.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "为人物形象注入奇幻糖果怪兽元素，营造出甜蜜又怪诞的超现实视觉风格。",
+        "en": "Inject whimsical candy monsters around characters, creating a surreal visual style that is both sweet and bizarre."
+      },
+      "tags": [],
+      "coverImage": "images/625.jpeg"
+    },
+    {
+      "id": 624,
+      "slug": "prompt-624",
+      "title": "手绘美颜科普图",
+      "source": {
+        "name": "@cnyzgkc",
+        "url": "https://x.com/cnyzgkc/status/1994954677579125124"
+      },
+      "images": [
+        "images/624.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "手绘风格的美颜科普图，以生动插画解析护肤步骤与成分功效，兼具知识性与视觉美感。",
+        "en": "A hand-drawn beauty science illustration that vividly explains skincare steps and ingredient efficacy, combining educational value with visual appeal."
+      },
+      "tags": [],
+      "coverImage": "images/624.jpeg"
+    },
+    {
+      "id": 623,
+      "slug": "prompt-623",
+      "title": "对作品进行评价",
+      "source": {
+        "name": "@SSSS_CRYPTOMAN",
+        "url": "https://x.com/SSSS_CRYPTOMAN/status/1994613956007039007"
+      },
+      "images": [
+        "images/623.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "这幅作品通过巧妙的构图与细腻的笔触，传递出深邃的情感与独特的艺术视角，令人沉浸其中。",
+        "en": "This work conveys profound emotion and a unique artistic perspective through skillful composition and delicate brushwork, immersing the viewer in its depth."
+      },
+      "tags": [],
+      "coverImage": "images/623.jpeg"
+    },
+    {
+      "id": 622,
+      "slug": "prompt-622",
+      "title": "自信成熟女性室内电影肖像",
+      "source": {
+        "name": "@ZaraIrahh",
+        "url": "https://x.com/ZaraIrahh/status/1994586672504181025"
+      },
+      "images": [
+        "images/622.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位自信成熟的女性在室内柔和光线下凝视镜头，电影感肖像捕捉其优雅气质与深邃情感。",
+        "en": "A confident mature woman gazes into the camera under soft indoor lighting, with cinematic portrait capturing her elegant poise and profound emotion."
+      },
+      "tags": [],
+      "coverImage": "images/622.jpeg"
+    },
+    {
+      "id": 621,
+      "slug": "prompt-621",
+      "title": "一只手拿着上传图片中的产品",
+      "source": {
+        "name": "@egeberkina",
+        "url": "https://x.com/egeberkina/status/1994380091241922920"
+      },
+      "images": [
+        "images/621.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一只手优雅地展示产品，突出其细节与质感，营造真实可信的视觉体验。",
+        "en": "A hand elegantly presenting the product, highlighting its details and texture for an authentic visual experience."
+      },
+      "tags": [],
+      "coverImage": "images/621.jpeg"
+    },
+    {
+      "id": 620,
+      "slug": "prompt-620",
+      "title": "超写实性感大嘴人物肖像",
+      "source": {
+        "name": "@YaseenK7212",
+        "url": "https://x.com/YaseenK7212/status/1994634660459024649"
+      },
+      "images": [
+        "images/620.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超写实肖像，聚焦性感饱满的嘴唇，细腻光影与肌肤质感，展现强烈视觉冲击力与情绪张力。",
+        "en": "A hyper-realistic portrait focusing on sensual, full lips, with exquisite lighting and skin texture, conveying intense visual impact and emotional depth."
+      },
+      "tags": [],
+      "coverImage": "images/620.jpeg"
+    },
+    {
+      "id": 619,
+      "slug": "prompt-619",
+      "title": "90年代电影质感的逼真香港复古肖像照",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://x.com/ShreyaYadav___/status/1994430035554603247"
+      },
+      "images": [
+        "images/619.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张充满90年代电影质感的逼真肖像照，捕捉香港复古街头的怀旧氛围与人物故事感。",
+        "en": "A realistic portrait with 90s cinematic texture, capturing the nostalgic atmosphere and storytelling of retro Hong Kong streets."
+      },
+      "tags": [],
+      "coverImage": "images/619.jpeg"
+    },
+    {
+      "id": 618,
+      "slug": "prompt-618",
+      "title": "四幅时尚生活场景组成的拼贴画",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1994168239442510308"
+      },
+      "images": [
+        "images/618.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "四幅时尚生活场景拼贴画，融合都市休闲、咖啡时光、街头漫步与居家惬意，展现现代生活的多元魅力。",
+        "en": "A collage of four fashionable lifestyle scenes, blending urban leisure, coffee moments, street strolls, and cozy home life, showcasing the diverse charm of modern living."
+      },
+      "tags": [],
+      "coverImage": "images/618.jpeg"
+    },
+    {
+      "id": 617,
+      "slug": "prompt-617",
+      "title": "四幅时尚生活场景组成的连贯拼贴画",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1994166992719299026"
+      },
+      "images": [
+        "images/617.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "四幅时尚生活场景拼贴画，展现从晨间咖啡到夜晚派对的连贯日常，色彩明快，风格现代。",
+        "en": "A cohesive collage of four fashion lifestyle scenes, depicting a seamless day from morning coffee to evening party, with vibrant colors and modern style."
+      },
+      "tags": [],
+      "coverImage": "images/617.jpeg"
+    },
+    {
+      "id": 616,
+      "slug": "prompt-616",
+      "title": "女生背对着观众坐在编织沙发上",
+      "source": {
+        "name": "@chatgptpaglu",
+        "url": "https://x.com/chatgptpaglu/status/1994689429487734995"
+      },
+      "images": [
+        "images/616.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位女生背对观众，安静地坐在编织沙发上，柔和光线营造出温暖而私密的氛围。",
+        "en": "A girl sits with her back to the viewer on a woven sofa, soft light creating a warm and intimate atmosphere."
+      },
+      "tags": [],
+      "coverImage": "images/616.jpeg"
+    },
+    {
+      "id": 615,
+      "slug": "prompt-615",
+      "title": "人和机器人的温馨时刻",
+      "source": {
+        "name": "@Samann_ai",
+        "url": "https://x.com/Samann_ai/status/1994444395525832898"
+      },
+      "images": [
+        "images/615.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位老人与机器人并肩坐在公园长椅上，夕阳余晖洒落，机器人正递上一杯热茶，画面温暖而充满未来感。",
+        "en": "An elderly man sits with a robot on a park bench at sunset, as the robot gently offers a cup of tea, capturing a heartwarming moment between humanity and technology."
+      },
+      "tags": [],
+      "coverImage": "images/615.jpeg"
+    },
+    {
+      "id": 614,
+      "slug": "prompt-614",
+      "title": "一幅赛博武士的详细技术图解",
+      "source": {
+        "name": "@LudovicCreator",
+        "url": "https://x.com/LudovicCreator/status/1994390935019360466"
+      },
+      "images": [
+        "images/614.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅赛博武士的详细技术图解，展现其机械结构与能量核心，充满未来科技感与精密细节。",
+        "en": "A detailed technical illustration of a cyber samurai, showcasing its mechanical structure and energy core, filled with futuristic technology and intricate details."
+      },
+      "tags": [],
+      "coverImage": "images/614.jpeg"
+    },
+    {
+      "id": 613,
+      "slug": "prompt-613",
+      "title": "女子坐在地板上准备喝可乐",
+      "source": {
+        "name": "@lexx_aura",
+        "url": "https://x.com/lexx_aura/status/1994446756978020701"
+      },
+      "images": [
+        "images/613.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一名年轻女子放松地坐在地板上，手持一瓶冰镇可乐，准备享受清凉一刻。",
+        "en": "A young woman sits relaxed on the floor, holding a chilled Coke bottle, ready to enjoy a refreshing moment."
+      },
+      "tags": [],
+      "coverImage": "images/613.jpeg"
+    },
+    {
+      "id": 612,
+      "slug": "prompt-612",
+      "title": "一个男人被相框套娃了",
+      "source": {
+        "name": "@maxescu",
+        "url": "https://x.com/maxescu/status/1994420399497490915"
+      },
+      "images": [
+        "images/612.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一个男人被层层嵌套的相框包围，形成视觉上的无限循环，充满超现实与趣味感。",
+        "en": "A man is trapped within a series of nested picture frames, creating a surreal and playful visual loop."
+      },
+      "tags": [],
+      "coverImage": "images/612.jpeg"
+    },
+    {
+      "id": 611,
+      "slug": "prompt-611",
+      "title": "一幅充满活力的混合媒介杰作",
+      "source": {
+        "name": "@ecommartinez",
+        "url": "https://x.com/ecommartinez/status/1994126063656644727"
+      },
+      "images": [
+        "images/611.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅充满活力的混合媒介杰作，融合了大胆的色彩、丰富的纹理和动态的构图，展现出独特的艺术张力与视觉冲击。",
+        "en": "A vibrant mixed-media masterpiece, blending bold colors, rich textures, and dynamic composition to create unique artistic tension and visual impact."
+      },
+      "tags": [],
+      "coverImage": "images/611.jpeg"
+    },
+    {
+      "id": 610,
+      "slug": "prompt-610",
+      "title": "一位自信优雅的年轻女子",
+      "source": {
+        "name": "@lexx_aura",
+        "url": "https://x.com/lexx_aura/status/1994397944209142213"
+      },
+      "images": [
+        "images/610.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位自信优雅的年轻女子，身着简约时装，在都市街角从容而立，眼神坚定而柔和，展现独立现代的女性魅力。",
+        "en": "A confident and elegant young woman stands poised at a city corner in minimalist fashion, her gaze both resolute and gentle, embodying modern feminine independence."
+      },
+      "tags": [],
+      "coverImage": "images/610.jpeg"
+    },
+    {
+      "id": 609,
+      "slug": "prompt-609",
+      "title": "年轻女性的时尚自拍肖像",
+      "source": {
+        "name": "@IqraSaifiii",
+        "url": "https://x.com/IqraSaifiii/status/1994521805076451818"
+      },
+      "images": [
+        "images/609.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位年轻女性在柔和光线下自拍，展现时尚自信的肖像，背景虚化突出人物魅力。",
+        "en": "A young woman's stylish selfie portrait with soft lighting, capturing confident fashion vibes against a blurred background."
+      },
+      "tags": [],
+      "coverImage": "images/609.jpeg"
+    },
+    {
+      "id": 608,
+      "slug": "prompt-608",
+      "title": "一群活泼时尚的年轻人",
+      "source": {
+        "name": "@Just_sharon7",
+        "url": "https://x.com/Just_sharon7/status/1994375017971564779"
+      },
+      "images": [
+        "images/608.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一群充满活力的时尚青年，在都市街头展现着自信与个性，捕捉年轻一代的潮流态度。",
+        "en": "A group of vibrant and stylish young people exuding confidence and individuality on city streets, capturing the trendy spirit of the new generation."
+      },
+      "tags": [],
+      "coverImage": "images/608.jpeg"
+    },
+    {
+      "id": 607,
+      "slug": "prompt-607",
+      "title": "9种照片专业打光效果",
+      "source": {
+        "name": "@MonetizeXWithAb",
+        "url": "https://x.com/MonetizeXWithAb/status/1994419258789663115"
+      },
+      "images": [
+        "images/607.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "9种专业摄影打光效果，从柔光到戏剧性光影，助你轻松掌握光影艺术，提升照片质感。",
+        "en": "9 professional photo lighting effects, from soft light to dramatic shadows, helping you master the art of light and enhance image quality effortlessly."
+      },
+      "tags": [],
+      "coverImage": "images/607.jpeg"
+    },
+    {
+      "id": 606,
+      "slug": "prompt-606",
+      "title": "超逼真街景人像",
+      "source": {
+        "name": "@lexx_aura",
+        "url": "https://x.com/lexx_aura/status/1994351098509861265"
+      },
+      "images": [
+        "images/606.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超逼真街景人像，捕捉都市生活的瞬间，光影交错中展现人物细腻情感与真实质感。",
+        "en": "A hyper-realistic street portrait that captures a fleeting urban moment, revealing subtle emotions and authentic textures through masterful interplay of light and shadow."
+      },
+      "tags": [],
+      "coverImage": "images/606.jpeg"
+    },
+    {
+      "id": 605,
+      "slug": "prompt-605",
+      "title": "海滩写真拍摄",
+      "source": {
+        "name": "@IqraSaifiii",
+        "url": "https://x.com/IqraSaifiii/status/1994478187133432308"
+      },
+      "images": [
+        "images/605.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "阳光下的金色沙滩，模特身着飘逸长裙，海风轻拂发丝，捕捉自然灵动的海边瞬间。",
+        "en": "Golden sands under sunlight, a model in a flowing dress with hair gently blown by the sea breeze, capturing a natural and dynamic beach moment."
+      },
+      "tags": [],
+      "coverImage": "images/605.jpeg"
+    },
+    {
+      "id": 604,
+      "slug": "prompt-604",
+      "title": "夜间拖影快门曝光",
+      "source": {
+        "name": "@oggii_0",
+        "url": "https://x.com/oggii_0/status/1994424983477715007"
+      },
+      "images": [
+        "images/604.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "夜间快门拖影曝光，捕捉城市光影流动的瞬间，营造出梦幻而充满动感的视觉效果。",
+        "en": "Nighttime motion blur with slow shutter exposure, capturing the flow of urban lights to create a dreamy and dynamic visual effect."
+      },
+      "tags": [],
+      "coverImage": "images/604.jpeg"
+    },
+    {
+      "id": 603,
+      "slug": "prompt-603",
+      "title": "一张韩国流行明星的抓拍照片",
+      "source": {
+        "name": "@minchoi",
+        "url": "https://x.com/minchoi/status/1994544802902503470"
+      },
+      "images": [
+        "images/603.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张韩国流行明星的街头抓拍，自然光影下展现随性魅力与时尚感，充满生活气息的瞬间。",
+        "en": "A candid street shot of a K-pop star, capturing effortless charm and style in natural light, a slice of authentic life."
+      },
+      "tags": [],
+      "coverImage": "images/603.jpeg"
+    },
+    {
+      "id": 602,
+      "slug": "prompt-602",
+      "title": "戴口罩的妹子比了个耶",
+      "source": {
+        "name": "@IqraSaifiii",
+        "url": "https://x.com/IqraSaifiii/status/1994544453655433705"
+      },
+      "images": [
+        "images/602.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "戴着口罩的年轻女孩，俏皮地对着镜头比出胜利手势，眼神明亮充满活力。",
+        "en": "A young girl wearing a mask playfully flashes a victory sign at the camera, her bright eyes radiating cheerful energy."
+      },
+      "tags": [],
+      "coverImage": "images/602.jpeg"
+    },
+    {
+      "id": 601,
+      "slug": "prompt-601",
+      "title": "专业工作室摄影照片",
+      "source": {
+        "name": "@lexx_aura",
+        "url": "https://x.com/lexx_aura/status/1994090956916969536"
+      },
+      "images": [
+        "images/601.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "专业工作室摄影，展现精致光影与高级质感，适用于人像、产品及商业拍摄，呈现专业级视觉效果。",
+        "en": "Professional studio photography showcasing refined lighting and premium texture, ideal for portraits, products, and commercial shoots with high-end visual impact."
+      },
+      "tags": [],
+      "coverImage": "images/601.jpeg"
+    },
+    {
+      "id": 600,
+      "slug": "prompt-600",
+      "title": "和疯狂动物城中的角色自拍",
+      "source": {
+        "name": "@xmiiru_",
+        "url": "https://x.com/xmiiru_/status/1994360357100368334"
+      },
+      "images": [
+        "images/600.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "与《疯狂动物城》的朱迪和尼克在繁华的动物都市自拍，画面充满活力与欢乐，仿佛置身于动画世界。",
+        "en": "A vibrant selfie with Judy Hopps and Nick Wilde in the bustling city of Zootopia, capturing the joy and energy of the animated world."
+      },
+      "tags": [],
+      "coverImage": "images/600.jpeg"
+    },
+    {
+      "id": 599,
+      "slug": "prompt-599",
+      "title": "女生双手比出一个心形",
+      "source": {
+        "name": "@SDT_side",
+        "url": "https://x.com/SDT_side/status/1994133786632806832"
+      },
+      "images": [
+        "images/599.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位女生用双手比出心形手势，背景柔和，传递出温暖与爱意。",
+        "en": "A girl forms a heart shape with her hands against a soft background, conveying warmth and affection."
+      },
+      "tags": [],
+      "coverImage": "images/599.jpeg"
+    },
+    {
+      "id": 598,
+      "slug": "prompt-598",
+      "title": "宝丽来照片讲述故事",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1993752534637531605"
+      },
+      "images": [
+        "images/598.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张复古宝丽来照片，定格了温馨的日常瞬间，褪色的色彩与边框仿佛在轻声诉说着一段私人的故事。",
+        "en": "A vintage Polaroid photo captures a warm, everyday moment, with faded colors and a frame that quietly whispers a personal story."
+      },
+      "tags": [],
+      "coverImage": "images/598.jpeg"
+    },
+    {
+      "id": 597,
+      "slug": "prompt-597",
+      "title": "宝丽来照片讲述故事",
+      "source": {
+        "name": "@umesh_ai",
+        "url": "https://x.com/umesh_ai/status/1993247403995283687"
+      },
+      "images": [
+        "images/597.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "宝丽来照片的复古色调与独特质感，将瞬间定格为充满故事感的视觉叙事，唤起温暖回忆。",
+        "en": "The retro tones and unique texture of Polaroid photos freeze moments into visual narratives full of storytelling, evoking warm memories."
+      },
+      "tags": [],
+      "coverImage": "images/597.jpeg"
+    },
+    {
+      "id": 596,
+      "slug": "prompt-596",
+      "title": "3X3女子肖像照拼贴画",
+      "source": {
+        "name": "@craftian_keskin",
+        "url": "https://x.com/craftian_keskin/status/1994110561101979793"
+      },
+      "images": [
+        "images/596.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "九张女性肖像照以3x3网格排列，展现多样表情与光影，形成富有张力的视觉拼贴。",
+        "en": "A 3x3 grid collage of female portraits, capturing diverse expressions and lighting to create a compelling visual narrative."
+      },
+      "tags": [],
+      "coverImage": "images/596.jpeg"
+    },
+    {
+      "id": 595,
+      "slug": "prompt-595",
+      "title": "四幅女子时尚生活场景拼贴画",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1994166422251950451"
+      },
+      "images": [
+        "images/595.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "四幅拼贴画展现都市女性的多元时尚生活，从咖啡馆阅读到街头漫步，呈现优雅与活力的视觉叙事。",
+        "en": "A four-panel collage depicting urban women's fashionable lifestyles, from café reading to street strolls, showcasing elegant and dynamic visual storytelling."
+      },
+      "tags": [],
+      "coverImage": "images/595.jpeg"
+    },
+    {
+      "id": 594,
+      "slug": "prompt-594",
+      "title": "模切线图转3D产品可视化",
+      "source": {
+        "name": "@_MehdiSharifi_",
+        "url": "https://x.com/_MehdiSharifi_/status/1994022879051014312"
+      },
+      "images": [
+        "images/594.png"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将平面模切线图转化为生动的3D产品可视化，精准呈现结构细节与立体质感，助力设计沟通与决策。",
+        "en": "Transforming 2D die-cut line drawings into vivid 3D product visualizations, accurately showcasing structural details and texture to enhance design communication and decision-making."
+      },
+      "tags": [],
+      "coverImage": "images/594.png"
+    },
+    {
+      "id": 593,
+      "slug": "prompt-593",
+      "title": "模切线变为现实",
+      "source": {
+        "name": "@Salmaaboukarr",
+        "url": "https://x.com/Salmaaboukarr/status/1994017531699278056"
+      },
+      "images": [
+        "images/593.png"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "模切线从平面设计稿中跃然而出，化为真实立体的三维形态，展现从概念到现实的创意转化过程。",
+        "en": "Die-cut lines leap from the flat design, transforming into tangible 3D forms that visualize the creative journey from concept to reality."
+      },
+      "tags": [],
+      "coverImage": "images/593.png"
+    },
+    {
+      "id": 592,
+      "slug": "prompt-592",
+      "title": "城市俯视等距3D卡通微缩场景",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1993995980405100598"
+      },
+      "images": [
+        "images/592.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "俯瞰视角下的等距3D卡通城市微缩场景，充满活力与细节，仿佛一个精致的立体模型世界。",
+        "en": "An isometric 3D cartoon miniature city scene from a bird's-eye view, bursting with vibrant life and intricate details like a charming diorama."
+      },
+      "tags": [],
+      "coverImage": "images/592.jpeg"
+    },
+    {
+      "id": 591,
+      "slug": "prompt-591",
+      "title": "真人转3D漫画",
+      "source": {
+        "name": "@azed_ai",
+        "url": "https://x.com/azed_ai/status/1994360708637794410"
+      },
+      "images": [
+        "images/591.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将真人照片转化为3D漫画风格，保留人物特征的同时增添动漫质感，实现从现实到虚拟的趣味转变。",
+        "en": "Transform real-life photos into 3D cartoon style, retaining personal features while adding anime texture for a fun shift from reality to virtuality."
+      },
+      "tags": [],
+      "coverImage": "images/591.jpeg"
+    },
+    {
+      "id": 590,
+      "slug": "prompt-590",
+      "title": "虚构的英语电影海报-回忆之味",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994276578084413877"
+      },
+      "images": [
+        "images/590.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅虚构的英语电影海报，以复古色调和模糊的餐桌场景，唤起关于家庭与逝去时光的深刻情感与味觉记忆。",
+        "en": "A fictional English movie poster in vintage tones, featuring a blurred dining scene that evokes deep emotions and taste memories of family and bygone times."
+      },
+      "tags": [],
+      "coverImage": "images/590.jpeg"
+    },
+    {
+      "id": 589,
+      "slug": "prompt-589",
+      "title": "卡哇伊波普艺术",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994239610713678137"
+      },
+      "images": [
+        "images/589.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "卡哇伊波普艺术融合了可爱元素与大胆色彩，以扁平化设计呈现充满活力的流行文化场景，风格鲜明有趣。",
+        "en": "Kawaii Pop Art blends cute elements with bold colors, presenting vibrant pop culture scenes in a flat design style that is distinctive and playful."
+      },
+      "tags": [],
+      "coverImage": "images/589.jpeg"
+    },
+    {
+      "id": 588,
+      "slug": "prompt-588",
+      "title": "金属霓虹手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994226726692683849"
+      },
+      "images": [
+        "images/588.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "金属质感与霓虹光影交织的创意手账，充满未来科技感与个性表达。",
+        "en": "A creative notebook blending metallic textures with neon glow, exuding futuristic tech vibes and personal expression."
+      },
+      "tags": [],
+      "coverImage": "images/588.jpeg"
+    },
+    {
+      "id": 587,
+      "slug": "prompt-587",
+      "title": "iPhone 16 Pro Max拆解",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994602402276938242"
+      },
+      "images": [
+        "images/587.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "iPhone 16 Pro Max 内部结构深度解析，高清拆解图清晰展示精密元器件布局与创新设计细节。",
+        "en": "An in-depth look inside the iPhone 16 Pro Max, with high-resolution teardown images revealing the intricate layout of components and innovative design details."
+      },
+      "tags": [],
+      "coverImage": "images/587.jpeg"
+    },
+    {
+      "id": 586,
+      "slug": "prompt-586",
+      "title": "清新蓝色手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994227033141100662"
+      },
+      "images": [
+        "images/586.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "清新蓝色手账，点缀简约手绘与文字，营造出宁静而富有创意的个人记录空间。",
+        "en": "A fresh blue notebook with minimalist hand-drawn elements and text, creating a serene and creative space for personal reflection."
+      },
+      "tags": [],
+      "coverImage": "images/586.jpeg"
+    },
+    {
+      "id": 585,
+      "slug": "prompt-585",
+      "title": "相机拆解",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994604456969998397"
+      },
+      "images": [
+        "images/585.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "精密相机内部结构拆解图，齿轮、镜片与机械组件在白色背景上精确排列，展现工业美学与科技细节。",
+        "en": "Exploded view of camera mechanism with precisely arranged gears, lenses and components on white background, revealing industrial aesthetics and technological details."
+      },
+      "tags": [],
+      "coverImage": "images/585.jpeg"
+    },
+    {
+      "id": 584,
+      "slug": "prompt-584",
+      "title": "复古动漫幻想",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994240266866446621"
+      },
+      "images": [
+        "images/584.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "复古动漫风格下的奇幻世界，柔和色调与怀旧笔触交织，营造出既梦幻又充满故事感的视觉氛围。",
+        "en": "A fantasy world in retro anime style, where soft hues and nostalgic brushstrokes blend to create a dreamy, story-rich visual atmosphere."
+      },
+      "tags": [],
+      "coverImage": "images/584.jpeg"
+    },
+    {
+      "id": 583,
+      "slug": "prompt-583",
+      "title": "东方武侠史诗海报-剑影红颜",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994278346474311838"
+      },
+      "images": [
+        "images/583.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "东方武侠史诗海报，剑光与红颜交织，水墨意境中尽显江湖侠骨与柔情。",
+        "en": "An epic wuxia poster where sword gleams meet a beauty's grace, blending ink-wash artistry with martial valor and tender passion."
+      },
+      "tags": [],
+      "coverImage": "images/583.jpeg"
+    },
+    {
+      "id": 582,
+      "slug": "prompt-582",
+      "title": "奇幻冒险喜剧海报-寻龙秘境",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994279390579183827"
+      },
+      "images": [
+        "images/582.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "奇幻冒险喜剧海报《寻龙秘境》，描绘了主角们误入神秘龙族领地，在危机与笑料中展开一场意外连连的寻宝之旅。",
+        "en": "Fantasy adventure comedy poster 'Dragon's Hidden Realm', depicting protagonists stumbling into a mysterious dragon territory, embarking on a treasure hunt filled with unexpected dangers and hilarious mishaps."
+      },
+      "tags": [],
+      "coverImage": "images/582.jpeg"
+    },
+    {
+      "id": 581,
+      "slug": "prompt-581",
+      "title": "职业西装风手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1994309283488444523"
+      },
+      "images": [
+        "images/581.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "职业西装风手账，以简约线条和商务色调呈现，融合日程规划与时尚元素，展现高效专业的现代办公美学。",
+        "en": "A professional suit-style notebook, featuring minimalist lines and business tones, blending schedule planning with fashion elements to showcase efficient and modern office aesthetics."
+      },
+      "tags": [],
+      "coverImage": "images/581.jpeg"
+    },
+    {
+      "id": 580,
+      "slug": "prompt-580",
+      "title": "鱼眼镜头下的日本女子比心",
+      "source": {
+        "name": "@xmiiru_",
+        "url": "https://x.com/xmiiru_/status/1994036974961705057"
+      },
+      "images": [
+        "images/580.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "鱼眼镜头下，日本女子俏皮比心，画面充满夸张的视觉张力和青春活力。",
+        "en": "A Japanese girl playfully makes a heart gesture under a fisheye lens, creating an exaggerated visual tension full of youthful energy."
+      },
+      "tags": [],
+      "coverImage": "images/580.jpeg"
+    },
+    {
+      "id": 579,
+      "slug": "prompt-579",
+      "title": "年轻女子侧坐在街机凳上",
+      "source": {
+        "name": "@awesome_visuals",
+        "url": "https://x.com/awesome_visuals/status/1994104753966686476"
+      },
+      "images": [
+        "images/579.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位年轻女子侧坐在复古街机凳上，霓虹灯光映照着她的侧影，营造出怀旧又充满活力的氛围。",
+        "en": "A young woman sits sideways on a retro arcade stool, her silhouette illuminated by neon lights, creating a nostalgic yet vibrant atmosphere."
+      },
+      "tags": [],
+      "coverImage": "images/579.jpeg"
+    },
+    {
+      "id": 578,
+      "slug": "prompt-578",
+      "title": "油泼面宫格漫画图",
+      "source": {
+        "name": "@hellokaton",
+        "url": "https://x.com/hellokaton/status/1991668144080056423"
+      },
+      "images": [
+        "images/578.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "油泼面宫格漫画图，以九宫格形式生动展现油泼面制作过程，画面充满动感与食欲，风格鲜明有趣。",
+        "en": "A dynamic comic-style grid illustration vividly depicting the process of making oil-splashed noodles, full of energy and appetite appeal in a distinctive style."
+      },
+      "tags": [],
+      "coverImage": "images/578.jpeg"
+    },
+    {
+      "id": 577,
+      "slug": "prompt-577",
+      "title": "皮克斯风格3D动画场景",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1994139903513317767"
+      },
+      "images": [
+        "images/577.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "皮克斯风格3D动画场景，充满温暖光影与生动角色，营造出梦幻般的童话世界，细节丰富情感饱满。",
+        "en": "A Pixar-style 3D animation scene with warm lighting, vibrant characters, and rich details, creating an enchanting fairy-tale world full of emotion."
+      },
+      "tags": [],
+      "coverImage": "images/577.jpeg"
+    },
+    {
+      "id": 576,
+      "slug": "prompt-576",
+      "title": "皮克斯风格3D动画场景",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1994142229695217837"
+      },
+      "images": [
+        "images/576.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "皮克斯风格3D动画场景，色彩明亮温暖，角色造型圆润可爱，充满童趣与想象力，仿佛置身于梦幻的动画世界。",
+        "en": "A Pixar-style 3D animation scene with bright, warm colors, featuring adorable rounded characters, brimming with childlike wonder and imagination, as if stepping into a dreamy animated world."
+      },
+      "tags": [],
+      "coverImage": "images/576.jpeg"
+    },
+    {
+      "id": 575,
+      "slug": "prompt-575",
+      "title": "极繁主义波普艺术图层",
+      "source": {
+        "name": "@awesome_visuals",
+        "url": "https://x.com/awesome_visuals/status/1993609750051766767"
+      },
+      "images": [
+        "images/575.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "极繁主义波普艺术图层，以饱和色彩、重复图案和商业图像拼贴，创造出充满活力且视觉密集的当代艺术作品。",
+        "en": "Maximalist pop art layers, featuring saturated colors, repetitive patterns, and commercial image collages, create a vibrant and visually dense contemporary artwork."
+      },
+      "tags": [],
+      "coverImage": "images/575.jpeg"
+    },
+    {
+      "id": 574,
+      "slug": "prompt-574",
+      "title": "掌上游戏机的精美3D渲染图",
+      "source": {
+        "name": "@egeberkina",
+        "url": "https://x.com/egeberkina/status/1993592049430650957"
+      },
+      "images": [
+        "images/574.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一款复古掌上游戏机的精美3D渲染图，细节丰富，质感逼真，充满怀旧科技美感。",
+        "en": "An exquisite 3D render of a retro handheld console, featuring rich details, realistic textures, and nostalgic tech aesthetics."
+      },
+      "tags": [],
+      "coverImage": "images/574.jpeg"
+    },
+    {
+      "id": 573,
+      "slug": "prompt-573",
+      "title": "身着白色针织上衣的阳光女孩",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993870488955961747"
+      },
+      "images": [
+        "images/573.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位身着白色针织上衣的女孩，在阳光下展露温暖笑容，画面柔和明亮，充满青春气息。",
+        "en": "A girl in a white knit top smiles warmly in the sunlight, creating a soft and bright scene filled with youthful energy."
+      },
+      "tags": [],
+      "coverImage": "images/573.jpeg"
+    },
+    {
+      "id": 572,
+      "slug": "prompt-572",
+      "title": "奶油水彩手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993885921599693092"
+      },
+      "images": [
+        "images/572.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "奶油色调的水彩手账，柔和笔触与温暖色彩交织，营造出治愈而充满灵感的创作氛围。",
+        "en": "A creamy watercolor journal with soft brushstrokes and warm hues, evoking a soothing and inspiring creative atmosphere."
+      },
+      "tags": [],
+      "coverImage": "images/572.jpeg"
+    },
+    {
+      "id": 571,
+      "slug": "prompt-571",
+      "title": "早朝了开个视频会议先",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993126993135902996"
+      },
+      "images": [
+        "images/571.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "身着龙袍的皇帝在龙椅上打开笔记本电脑，与文武百官进行远程视频早朝，古典与现代的幽默碰撞。",
+        "en": "An emperor in dragon robe opens a laptop on his throne, holding a remote video morning court with officials, a humorous blend of ancient and modern."
+      },
+      "tags": [],
+      "coverImage": "images/571.jpeg"
+    },
+    {
+      "id": 570,
+      "slug": "prompt-570",
+      "title": "游戏角色试图从电视屏幕爬到客厅",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991801077092733297"
+      },
+      "images": [
+        "images/570.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "游戏角色正从电视屏幕中奋力爬出，试图进入客厅，画面充满奇幻与紧张感。",
+        "en": "A video game character struggles to climb out of the TV screen into the living room, creating a surreal and tense scene."
+      },
+      "tags": [],
+      "coverImage": "images/570.jpeg"
+    },
+    {
+      "id": 569,
+      "slug": "prompt-569",
+      "title": "泛黄旧报纸手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993959563251593223"
+      },
+      "images": [
+        "images/569.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "泛黄旧报纸手账，复古质感与手写文字交织，承载时光记忆的创意拼贴艺术。",
+        "en": "A vintage newspaper journal with yellowed pages, blending retro texture and handwritten notes into a creative collage of timeless memories."
+      },
+      "tags": [],
+      "coverImage": "images/569.jpeg"
+    },
+    {
+      "id": 568,
+      "slug": "prompt-568",
+      "title": "金毛直播",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991796627062079575"
+      },
+      "images": [
+        "images/568.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一只可爱的金毛犬坐在电脑前，戴着耳机，仿佛正在认真地进行网络直播，画面温馨又有趣。",
+        "en": "An adorable Golden Retriever sits in front of a computer wearing headphones, as if seriously hosting a live stream, creating a warm and amusing scene."
+      },
+      "tags": [],
+      "coverImage": "images/568.jpeg"
+    },
+    {
+      "id": 567,
+      "slug": "prompt-567",
+      "title": "你好地球人",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991800151204307071"
+      },
+      "images": [
+        "images/567.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一个外星人站在飞碟旁，友好地向地球挥手，背景是璀璨的星空和蓝色星球，充满科幻与好奇的氛围。",
+        "en": "An alien stands beside a flying saucer, waving friendly towards Earth against a backdrop of a starry sky and the blue planet, evoking a sense of sci-fi wonder and curiosity."
+      },
+      "tags": [],
+      "coverImage": "images/567.jpeg"
+    },
+    {
+      "id": 566,
+      "slug": "prompt-566",
+      "title": "李小龙与尤达大师以武会友",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991801077092733297"
+      },
+      "images": [
+        "images/566.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "李小龙与尤达大师在竹林中对决，东西方武学智慧碰撞，光影交错间展现力量与哲思的融合。",
+        "en": "Bruce Lee duels Master Yoda in a bamboo forest, where Eastern and Western martial arts wisdom collide, blending power and philosophy in dynamic light."
+      },
+      "tags": [],
+      "coverImage": "images/566.jpeg"
+    },
+    {
+      "id": 565,
+      "slug": "prompt-565",
+      "title": "明星合照的幕后花絮",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1992456465173692800"
+      },
+      "images": [
+        "images/565.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "明星们在闪光灯后放松的瞬间，捕捉到镜头外的真实互动与欢笑，展现聚光灯下的另一面。",
+        "en": "A candid behind-the-scenes moment captures stars relaxing and sharing genuine laughter away from the flashbulbs, revealing the unscripted side of fame."
+      },
+      "tags": [],
+      "coverImage": "images/565.jpeg"
+    },
+    {
+      "id": 564,
+      "slug": "prompt-564",
+      "title": "马里奥路易吉给碧奇公主修理厨房",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991807393538478513"
+      },
+      "images": [
+        "images/564.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "马里奥和路易吉化身水管工，在碧奇公主的厨房里专注修理，充满童趣与怀旧色彩。",
+        "en": "Mario and Luigi as plumbers, intently fixing Peach's kitchen with playful nostalgia and vibrant charm."
+      },
+      "tags": [],
+      "coverImage": "images/564.jpeg"
+    },
+    {
+      "id": 563,
+      "slug": "prompt-563",
+      "title": "西游记师徒四人组成了一个摇滚乐队",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993235709914915307"
+      },
+      "images": [
+        "images/563.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "西游记师徒四人化身摇滚乐队，悟空主唱、八戒贝斯、沙僧鼓手、唐僧键盘，在火焰山舞台激情开唱。",
+        "en": "The Journey to the West quartet transforms into a rock band, with Wukong on vocals, Bajie on bass, Sha Seng on drums, and Tang Seng on keyboards, performing passionately on the Flaming Mountain stage."
+      },
+      "tags": [],
+      "coverImage": "images/563.jpeg"
+    },
+    {
+      "id": 562,
+      "slug": "prompt-562",
+      "title": "涂鸦记号笔手账",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993958314179482074"
+      },
+      "images": [
+        "images/562.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "涂鸦风格的彩色记号笔手账，充满自由随性的笔触与活力色彩，展现创意与个性的视觉记录。",
+        "en": "A doodle-style notebook with vibrant marker strokes, showcasing creative and personalized visual journaling in a free-spirited aesthetic."
+      },
+      "tags": [],
+      "coverImage": "images/562.jpeg"
+    },
+    {
+      "id": 561,
+      "slug": "prompt-561",
+      "title": "国家一级摆烂许可证",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991813589078778313"
+      },
+      "images": [
+        "images/561.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张幽默的“国家一级摆烂许可证”图片，以复古证件风格呈现，搭配慵懒熊猫或葛优躺卡通形象，传达出以官方口吻认证的休闲态度。",
+        "en": "A humorous 'National First-Class Slacking License' image in a vintage document style, featuring a lazy panda or reclining cartoon character, humorously certifying a state-approved leisurely attitude."
+      },
+      "tags": [],
+      "coverImage": "images/561.jpeg"
+    },
+    {
+      "id": 560,
+      "slug": "prompt-560",
+      "title": "未经他人苦莫劝他人善",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991828940290224493"
+      },
+      "images": [
+        "images/560.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一位疲惫的工人坐在昏暗的楼梯间，光影交错中透出生活的沉重与孤独，传递出‘未经他人苦，莫劝他人善’的深刻共鸣。",
+        "en": "A weary worker sits in a dimly lit stairwell, where interplay of light and shadow conveys the weight and solitude of life, echoing the profound sentiment: 'Do not judge until you have walked in their shoes.'"
+      },
+      "tags": [],
+      "coverImage": "images/560.jpeg"
+    },
+    {
+      "id": 559,
+      "slug": "prompt-559",
+      "title": "月亮不睡我不睡",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991871219600400445"
+      },
+      "images": [
+        "images/559.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "深夜独坐窗边，月光如水倾泻，咖啡与书本相伴，静谧中透着一丝清醒的浪漫。",
+        "en": "Sitting alone by the window late at night, moonlight pours like water, accompanied by coffee and books, a quiet yet awake romantic moment."
+      },
+      "tags": [],
+      "coverImage": "images/559.jpeg"
+    },
+    {
+      "id": 558,
+      "slug": "prompt-558",
+      "title": "宇航员坐在弯弯的月亮边钓星星",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991875496817070245"
+      },
+      "images": [
+        "images/558.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "宇航员悠闲地坐在弯月边缘，手持钓竿垂向星空，仿佛在垂钓闪烁的星辰，画面充满童话般的想象力与宁静感。",
+        "en": "An astronaut sits casually on the crescent moon's edge, fishing rod in hand, casting a line toward the starry sky as if angling for twinkling stars, creating a whimsical and serene scene."
+      },
+      "tags": [],
+      "coverImage": "images/558.jpeg"
+    },
+    {
+      "id": 557,
+      "slug": "prompt-557",
+      "title": "职业生涯地图图片",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1992766727126704259"
+      },
+      "images": [
+        "images/557.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张创意职业生涯地图，以手绘路线图形式展现职业发展路径，包含关键节点与未来目标，风格清新且富有启发性。",
+        "en": "A creative career map illustrated as a hand-drawn roadmap, showcasing key milestones and future goals in a fresh and inspiring visual style."
+      },
+      "tags": [],
+      "coverImage": "images/557.jpeg"
+    },
+    {
+      "id": 556,
+      "slug": "prompt-556",
+      "title": "女子一只手夸张地伸向镜头",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993134542618566911"
+      },
+      "images": [
+        "images/556.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "女子一只手夸张地伸向镜头，充满戏剧张力的特写，仿佛要冲破画面，极具视觉冲击力。",
+        "en": "A woman's hand dramatically reaches toward the lens in an exaggerated close-up, creating a visually striking and immersive perspective."
+      },
+      "tags": [],
+      "coverImage": "images/556.jpeg"
+    },
+    {
+      "id": 555,
+      "slug": "prompt-555",
+      "title": "在复仇者大厦跟死侍合个影",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1993222622986092722"
+      },
+      "images": [
+        "images/555.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "在复仇者大厦的顶层露台，与穿着标志性红色战衣的死侍轻松合影，背景是繁华的纽约天际线。",
+        "en": "Snap a casual selfie with Deadpool in his iconic red suit on the Avengers Tower rooftop, with the bustling New York City skyline in the background."
+      },
+      "tags": [],
+      "coverImage": "images/555.jpeg"
+    },
+    {
+      "id": 554,
+      "slug": "prompt-554",
+      "title": "粉红色的星之卡吐泡泡",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991795708308189668"
+      },
+      "images": [
+        "images/554.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "粉红色的星之卡比在梦幻场景中吹出晶莹的泡泡，画面充满童趣与魔法感。",
+        "en": "A pink Kirby blows shimmering bubbles in a dreamy scene, filled with whimsy and magical charm."
+      },
+      "tags": [],
+      "coverImage": "images/554.jpeg"
+    },
+    {
+      "id": 553,
+      "slug": "prompt-553",
+      "title": "马斯克教爱因斯坦拍照",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1991805840685453495"
+      },
+      "images": [
+        "images/553.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "马斯克指导爱因斯坦使用智能手机拍照，两人在实验室背景中互动，呈现超现实又幽默的跨时代科技碰撞。",
+        "en": "Elon Musk teaches Einstein how to take photos with a smartphone, their interaction in a lab setting creates a surreal and humorous clash of eras and technologies."
+      },
+      "tags": [],
+      "coverImage": "images/553.jpeg"
+    },
+    {
+      "id": 552,
+      "slug": "prompt-552",
+      "title": "超现实主义日式水墨画",
+      "source": {
+        "name": "@Preda2005",
+        "url": "https://x.com/Preda2005/status/1992472259127283888"
+      },
+      "images": [
+        "images/552.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超现实主义日式水墨画，融合传统笔触与奇幻元素，在墨色晕染间展现梦境般的东方意境。",
+        "en": "A surreal Japanese ink wash painting blending traditional brushstrokes with fantastical elements, revealing dreamlike Eastern imagery within ink washes."
+      },
+      "tags": [],
+      "coverImage": "images/552.jpeg"
+    },
+    {
+      "id": 551,
+      "slug": "prompt-551",
+      "title": "现代芝加哥河滨清明上河图风格",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1992469131438719122"
+      },
+      "images": [
+        "images/551.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "现代芝加哥河畔建筑群以《清明上河图》的细腻笔触与全景构图呈现，古典水墨意境中融入都市天际线的流光溢彩。",
+        "en": "A modern Chicago riverside scene rendered in the intricate, panoramic style of 'Along the River During the Qingming Festival', where classical ink wash aesthetics meet the glowing skyline."
+      },
+      "tags": [],
+      "coverImage": "images/551.jpeg"
+    },
+    {
+      "id": 550,
+      "slug": "prompt-550",
+      "title": "手绘风格的时尚风格概念分解图",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1992877077570453712"
+      },
+      "images": [
+        "images/550.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "手绘风格时尚分解图，以创意线条和色块解构服装设计，展现前卫概念与结构细节。",
+        "en": "A hand-drawn fashion deconstruction diagram, using creative lines and color blocks to break down avant-garde garment concepts and structural details."
+      },
+      "tags": [],
+      "coverImage": "images/550.jpeg"
+    },
+    {
+      "id": 549,
+      "slug": "prompt-549",
+      "title": "LINE风格半身Q版表情包",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993042754008686712"
+      },
+      "images": [
+        "images/549.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "LINE风格半身Q版表情包，以简洁线条和可爱造型展现丰富情感，适合日常聊天使用。",
+        "en": "A LINE-style half-body chibi emoji, featuring simple lines and adorable designs that express a wide range of emotions, perfect for daily messaging."
+      },
+      "tags": [],
+      "coverImage": "images/549.jpeg"
+    },
+    {
+      "id": 548,
+      "slug": "prompt-548",
+      "title": "仿真绣苏绣表情包",
+      "source": {
+        "name": "@TaXue2025",
+        "url": "https://x.com/TaXue2025/status/1993542832930668942"
+      },
+      "images": [
+        "images/548.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "仿真苏绣技艺呈现的趣味表情包，将传统刺绣的细腻质感与现代网络文化巧妙融合，生动又别致。",
+        "en": "Expressive emojis crafted with realistic Su embroidery techniques, blending traditional intricate needlework with modern internet culture in a vivid and unique way."
+      },
+      "tags": [],
+      "coverImage": "images/548.jpeg"
+    },
+    {
+      "id": 547,
+      "slug": "prompt-547",
+      "title": "手绘日历插画",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993754650336428422"
+      },
+      "images": [
+        "images/547.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "手绘日历插画，以温暖笔触描绘季节流转，将日常日期化为艺术画面，为生活增添诗意与纪念感。",
+        "en": "A hand-drawn calendar illustration captures the flow of seasons with warm strokes, turning dates into artistic scenes that add poetry and memory to daily life."
+      },
+      "tags": [],
+      "coverImage": "images/547.jpeg"
+    },
+    {
+      "id": 546,
+      "slug": "prompt-546",
+      "title": "把文章变成卡通信息图",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993567848564686926"
+      },
+      "images": [
+        "images/546.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将枯燥文章转化为生动卡通信息图，用趣味插画和简洁文字传递核心信息，让知识一目了然。",
+        "en": "Transform lengthy articles into engaging cartoon infographics, using playful illustrations and concise text to deliver key messages clearly and memorably."
+      },
+      "tags": [],
+      "coverImage": "images/546.jpeg"
+    },
+    {
+      "id": 545,
+      "slug": "prompt-545",
+      "title": "将文章变成黑板报",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993192263334183370"
+      },
+      "images": [
+        "images/545.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将文章内容转化为创意黑板报，粉笔字迹与插画结合，呈现复古又生动的视觉笔记。",
+        "en": "Transform articles into creative chalkboard designs, blending handwritten text with illustrations for a retro and lively visual note."
+      },
+      "tags": [],
+      "coverImage": "images/545.jpeg"
+    },
+    {
+      "id": 544,
+      "slug": "prompt-544",
+      "title": "根据所提供的内容制作信息图",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993192263334183370"
+      },
+      "images": [
+        "images/544.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将复杂内容转化为清晰直观的信息图，通过视觉设计提升信息传达效率与吸引力。",
+        "en": "Transform complex content into clear and intuitive infographics, enhancing information delivery efficiency and appeal through visual design."
+      },
+      "tags": [],
+      "coverImage": "images/544.jpeg"
+    },
+    {
+      "id": 543,
+      "slug": "prompt-543",
+      "title": "城市动态天气卡片",
+      "source": {
+        "name": "@dotey",
+        "url": "https://x.com/dotey/status/1993729800922341810"
+      },
+      "images": [
+        "images/543.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "城市天气卡片动态展示，实时数据与精美插画结合，直观呈现阴晴雨雪与温度变化。",
+        "en": "Dynamic urban weather cards blend real-time data with elegant illustrations, vividly displaying conditions from sun to snow and temperature shifts."
+      },
+      "tags": [],
+      "coverImage": "images/543.jpeg"
+    },
+    {
+      "id": 542,
+      "slug": "prompt-542",
+      "title": "服装设计手稿",
+      "source": {
+        "name": "@ZHO_ZHO_ZHO",
+        "url": "https://x.com/ZHO_ZHO_ZHO/status/1993686622257442922"
+      },
+      "images": [
+        "images/542.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "服装设计手稿，展现创意构思与流畅线条，融合时尚元素与结构细节，呈现未来感十足的成衣雏形。",
+        "en": "Fashion design sketches showcasing creative concepts with fluid lines, blending trendy elements and structural details into futuristic garment prototypes."
+      },
+      "tags": [],
+      "coverImage": "images/542.jpeg"
+    },
+    {
+      "id": 541,
+      "slug": "prompt-541",
+      "title": "高细节的3D信息图海报",
+      "source": {
+        "name": "@cnyzgkc",
+        "url": "https://x.com/cnyzgkc/status/1994003408207139013"
+      },
+      "images": [
+        "images/541.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "高细节3D信息图海报，以立体几何元素和渐变色彩呈现复杂数据，兼具视觉冲击力与科技感。",
+        "en": "A highly detailed 3D infographic poster featuring geometric elements and gradient colors to visualize complex data with striking visual impact and a futuristic aesthetic."
+      },
+      "tags": [],
+      "coverImage": "images/541.jpeg"
+    },
+    {
+      "id": 540,
+      "slug": "prompt-540",
+      "title": "物品拆解图",
+      "source": {
+        "name": "@PandaTalk8",
+        "url": "https://x.com/PandaTalk8/status/1993645881254658229"
+      },
+      "images": [
+        "images/540.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张精细的物品拆解图，展示内部结构与零件排列，充满工业美学与解构魅力。",
+        "en": "A detailed exploded-view diagram revealing internal components and mechanical arrangement, blending industrial aesthetics with deconstructive appeal."
+      },
+      "tags": [],
+      "coverImage": "images/540.jpeg"
+    },
+    {
+      "id": 539,
+      "slug": "prompt-539",
+      "title": "根据歌词生成电影般的图像",
+      "source": {
+        "name": "@jamesyeung18",
+        "url": "https://x.com/jamesyeung18/status/1992490800710578615"
+      },
+      "images": [
+        "images/539.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将歌词转化为电影级视觉画面，用AI捕捉旋律中的情感与故事，生成充满氛围感的艺术图像。",
+        "en": "Transform song lyrics into cinematic visuals, using AI to capture the emotion and narrative within melodies, creating atmospheric artistic imagery."
+      },
+      "tags": [],
+      "coverImage": "images/539.jpeg"
+    },
+    {
+      "id": 538,
+      "slug": "prompt-538",
+      "title": "创作一个电影分镜脚本",
+      "source": {
+        "name": "@jamesyeung18",
+        "url": "https://x.com/jamesyeung18/status/1992597408128045462"
+      },
+      "images": [
+        "images/538.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "用AI创作电影分镜脚本，将文字想象转化为视觉画面，为你的故事构建动态的视觉蓝图。",
+        "en": "Create cinematic storyboard scripts with AI, transforming text ideas into visual frames to build a dynamic blueprint for your story."
+      },
+      "tags": [],
+      "coverImage": "images/538.jpeg"
+    },
+    {
+      "id": 537,
+      "slug": "prompt-537",
+      "title": "风格学习",
+      "source": {
+        "name": "@sundyme",
+        "url": "https://x.com/sundyme/status/1992753783731064990"
+      },
+      "images": [
+        "images/537.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "通过AI学习并融合多种艺术风格，将经典元素与现代创意结合，生成独特而富有表现力的视觉作品。",
+        "en": "AI learns and blends multiple artistic styles, merging classic elements with modern creativity to produce unique and expressive visual works."
+      },
+      "tags": [],
+      "coverImage": "images/537.jpeg"
+    },
+    {
+      "id": 536,
+      "slug": "prompt-536",
+      "title": "食物制作成的超写实3D写实图",
+      "source": {
+        "name": "@Kerroudjm",
+        "url": "https://x.com/Kerroudjm/status/1993044556242166220"
+      },
+      "images": [
+        "images/536.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "超写实3D渲染的美食图像，质感细腻逼真，仿佛能闻到香气，展现食物制作的精湛艺术。",
+        "en": "Hyper-realistic 3D rendered food images with exquisite texture and lifelike details, capturing the artistry of culinary creation."
+      },
+      "tags": [],
+      "coverImage": "images/536.jpeg"
+    },
+    {
+      "id": 535,
+      "slug": "prompt-535",
+      "title": "将paper转换成教授白板的图片",
+      "source": {
+        "name": "@skirano",
+        "url": "https://x.com/skirano/status/1991527921316773931"
+      },
+      "images": [
+        "images/535.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将学术论文内容转化为教授白板上的清晰图示，展现知识从文本到视觉的生动转换过程。",
+        "en": "Transforming academic paper content into clear diagrams on a professor's whiteboard, illustrating the dynamic conversion of knowledge from text to visual form."
+      },
+      "tags": [],
+      "coverImage": "images/535.jpeg"
+    },
+    {
+      "id": 534,
+      "slug": "prompt-534",
+      "title": "四季变化信息图",
+      "source": {
+        "name": "@jacalulu",
+        "url": "https://x.com/jacalulu/status/1991547184731549946"
+      },
+      "images": [
+        "images/534.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅动态信息图，以环形时间轴展现四季更迭，配以色彩渐变与自然元素图标，清晰传达气候与物候变化。",
+        "en": "A dynamic infographic illustrating seasonal transitions through a circular timeline, featuring color gradients and nature icons to visualize climate and phenological changes."
+      },
+      "tags": [],
+      "coverImage": "images/534.jpeg"
+    },
+    {
+      "id": 533,
+      "slug": "prompt-533",
+      "title": "烤面包流程图",
+      "source": {
+        "name": "@emollick",
+        "url": "https://x.com/emollick/status/1991549167773376978"
+      },
+      "images": [
+        "images/533.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张简洁的烤面包流程图，以扁平插画风格呈现从切片、烘烤到涂抹黄油的完整步骤，色彩温暖明快。",
+        "en": "A concise toast-making flowchart in flat illustration style, depicting the complete process from slicing and toasting to buttering, with warm and vibrant colors."
+      },
+      "tags": [],
+      "coverImage": "images/533.jpeg"
+    },
+    {
+      "id": 532,
+      "slug": "prompt-532",
+      "title": "Markdown转换为信息图",
+      "source": {
+        "name": "@tobi",
+        "url": "https://x.com/tobi/status/1991706720750694601"
+      },
+      "images": [
+        "images/532.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将Markdown文档一键转换为清晰美观的信息图，让结构化数据以视觉化形式生动呈现。",
+        "en": "Transform Markdown documents into clear, visually engaging infographics with a single click, bringing structured data to life."
+      },
+      "tags": [],
+      "coverImage": "images/532.jpeg"
+    },
+    {
+      "id": 531,
+      "slug": "prompt-531",
+      "title": "让人做出Emoji的表情",
+      "source": {
+        "name": "@umesh_ai",
+        "url": "https://x.com/umesh_ai/status/1992849169602818431"
+      },
+      "images": [
+        "images/531.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张充满趣味的人物特写，捕捉到人们做出夸张Emoji表情的瞬间，展现生动情绪与创意互动。",
+        "en": "A fun close-up portrait capturing people making exaggerated emoji expressions, showcasing vivid emotions and creative interaction."
+      },
+      "tags": [],
+      "coverImage": "images/531.jpeg"
+    },
+    {
+      "id": 530,
+      "slug": "prompt-530",
+      "title": "长平之战信息图",
+      "source": {
+        "name": "@imxiaohu",
+        "url": "https://x.com/imxiaohu/status/1993154201699160066"
+      },
+      "images": [
+        "images/530.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "长平之战信息图，以简洁的视觉元素呈现战役关键数据、双方布阵与历史影响，一目了然。",
+        "en": "An infographic of the Battle of Changping, visually presenting key data, troop deployments, and historical impact with clear graphics."
+      },
+      "tags": [],
+      "coverImage": "images/530.jpeg"
+    },
+    {
+      "id": 529,
+      "slug": "prompt-529",
+      "title": "识字小报元提示词",
+      "source": {
+        "name": "@lxfater",
+        "url": "https://x.com/lxfater/status/1993238777033105634"
+      },
+      "images": [
+        "images/529.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "识字小报元提示词：用AI生成趣味识字海报，将汉字与生动图像结合，激发儿童学习兴趣。",
+        "en": "Literacy Poster Meta Prompts: Use AI to create engaging literacy posters that combine Chinese characters with vivid imagery, sparking children's learning interest."
+      },
+      "tags": [],
+      "coverImage": "images/529.jpeg"
+    },
+    {
+      "id": 528,
+      "slug": "prompt-528",
+      "title": "大幅油画肖像",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://x.com/ShreyaYadav___/status/1993331098005520856"
+      },
+      "images": [
+        "images/528.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅充满张力的大幅油画肖像，笔触粗犷有力，色彩浓郁饱满，生动捕捉人物深邃情感与独特气质。",
+        "en": "A large-scale oil portrait with bold, expressive brushstrokes and rich colors, vividly capturing the subject's deep emotion and unique character."
+      },
+      "tags": [],
+      "coverImage": "images/528.jpeg"
+    },
+    {
+      "id": 527,
+      "slug": "prompt-527",
+      "title": "我的世界神秘时代信息卡",
+      "source": {
+        "name": "@manateelazycat",
+        "url": "https://x.com/manateelazycat/status/1993248526479114602"
+      },
+      "images": [
+        "images/527.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张《我的世界》神秘时代模组的信息卡，展示着魔法符文与古代知识，在像素方块世界中散发着神秘光芒。",
+        "en": "A Mystcraft information card from Minecraft, glowing with magical runes and ancient knowledge within its pixelated block world."
+      },
+      "tags": [],
+      "coverImage": "images/527.jpeg"
+    },
+    {
+      "id": 526,
+      "slug": "prompt-526",
+      "title": "流年运势图",
+      "source": {
+        "name": "@MindfulReturn",
+        "url": "https://x.com/MindfulReturn/status/1993101356857729434"
+      },
+      "images": [
+        "images/526.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一幅融合传统水墨与现代设计的流年运势图，以抽象线条与星象符号交织，展现时光流转与命运起伏的深邃意境。",
+        "en": "A fusion of traditional ink wash and modern design, this fortune chart intertwines abstract lines with astrological symbols, capturing the profound flow of time and destiny."
+      },
+      "tags": [],
+      "coverImage": "images/526.jpeg"
+    },
+    {
+      "id": 525,
+      "slug": "prompt-525",
+      "title": "Labubu和迪丽热巴高端时尚跨页大片",
+      "source": {
+        "name": "@LufzzLiz",
+        "url": "https://x.com/LufzzLiz/status/1993449671445139756"
+      },
+      "images": [
+        "images/525.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "Labubu与迪丽热巴惊艳同框，演绎时尚与潮玩的跨界碰撞，高级质感大片展现独特艺术张力。",
+        "en": "Labubu and Dilraba stun together in a high-fashion editorial, blending urban vinyl art with celebrity glamour in a visually striking crossover."
+      },
+      "tags": [],
+      "coverImage": "images/525.jpeg"
+    },
+    {
+      "id": 524,
+      "slug": "prompt-524",
+      "title": "风格化的3D人物漫画",
+      "source": {
+        "name": "@rovvmut_",
+        "url": "https://x.com/rovvmut_/status/1993255617855729818"
+      },
+      "images": [
+        "images/524.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "风格化的3D人物漫画，以夸张的卡通造型和鲜艳色彩呈现，充满活力与幽默感，适合游戏角色或动画设计。",
+        "en": "A stylized 3D character comic with exaggerated cartoon forms and vibrant colors, full of energy and humor, ideal for game characters or animation design."
+      },
+      "tags": [],
+      "coverImage": "images/524.jpeg"
+    },
+    {
+      "id": 523,
+      "slug": "prompt-523",
+      "title": "一张年轻女性的逼真特写自拍照",
+      "source": {
+        "name": "@xmiiru_",
+        "url": "https://x.com/xmiiru_/status/1993206753236787443"
+      },
+      "images": [
+        "images/523.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张年轻女性的逼真特写自拍照，眼神清澈柔和，自然光线下肌肤纹理细腻，展现真实而动人的瞬间。",
+        "en": "A realistic close-up selfie of a young woman, with clear gentle eyes and delicate skin texture under natural light, capturing an authentic and touching moment."
+      },
+      "tags": [],
+      "coverImage": "images/523.jpeg"
+    },
+    {
+      "id": 522,
+      "slug": "prompt-522",
+      "title": "衣橱拆解与风格分析",
+      "source": {
+        "name": "@IamEmily2050",
+        "url": "https://x.com/IamEmily2050/status/1993194975169781882"
+      },
+      "images": [
+        "images/522.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "通过拆解衣橱单品，分析个人风格与穿搭逻辑，构建更高效、更具表达力的日常着装体系。",
+        "en": "Deconstruct your wardrobe to analyze personal style and outfit logic, building a more efficient and expressive daily dressing system."
+      },
+      "tags": [],
+      "coverImage": "images/522.jpeg"
+    },
+    {
+      "id": 521,
+      "slug": "prompt-521",
+      "title": "绘制地标的手绘等距示意图",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1993026620274131247"
+      },
+      "images": [
+        "images/521.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "手绘等距示意图，以独特视角展现地标建筑的立体结构，线条生动且充满设计感。",
+        "en": "A hand-drawn isometric diagram showcasing the three-dimensional structure of a landmark with dynamic lines and artistic flair."
+      },
+      "tags": [],
+      "coverImage": "images/521.jpeg"
+    },
+    {
+      "id": 520,
+      "slug": "prompt-520",
+      "title": "龙珠卡牌",
+      "source": {
+        "name": "@servasyy",
+        "url": "https://x.com/servasyy/status/1993337294477218061"
+      },
+      "images": [
+        "images/520.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "一张充满动感的《龙珠》主题卡牌，角色能量爆发，卡面设计华丽，极具收藏价值。",
+        "en": "A dynamic Dragon Ball-themed card featuring a character in explosive action, with intricate and collectible card art."
+      },
+      "tags": [],
+      "coverImage": "images/520.jpeg"
+    },
+    {
+      "id": 519,
+      "slug": "prompt-519",
+      "title": "高端工作室照片",
+      "source": {
+        "name": "@MayorKingAI",
+        "url": "https://x.com/MayorKingAI/status/1993040352987824579"
+      },
+      "images": [
+        "images/519.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "专业摄影棚内，模特身着简约时装，在柔和光线与纯色背景前展现优雅姿态，呈现高端商业质感。",
+        "en": "A model in minimalist fashion poses gracefully under soft studio lighting against a clean backdrop, exuding premium commercial aesthetic."
+      },
+      "tags": [],
+      "coverImage": "images/519.jpeg"
+    },
+    {
+      "id": 518,
+      "slug": "prompt-518",
+      "title": "极简主义鸡尾酒摄影",
+      "source": {
+        "name": "@egeberkina",
+        "url": "https://x.com/egeberkina/status/1992950387616485874"
+      },
+      "images": [
+        "images/518.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "极简构图下，一杯清澈鸡尾酒置于纯白背景，冰块折射光线，营造出宁静而高级的视觉氛围。",
+        "en": "A clear cocktail on a pure white background, with ice cubes refracting light, creating a serene and sophisticated minimalist composition."
+      },
+      "tags": [],
+      "coverImage": "images/518.jpeg"
+    },
+    {
+      "id": 517,
+      "slug": "prompt-517",
+      "title": "动漫转真人",
+      "source": {
+        "name": "@gizakdag",
+        "url": "https://x.com/gizakdag/status/1993010965752037832"
+      },
+      "images": [
+        "images/517.png"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将经典动漫角色通过AI技术转化为逼真的真人形象，展现独特的视觉魅力与艺术再创造。",
+        "en": "Transforming classic anime characters into realistic human portraits through AI technology, showcasing unique visual appeal and artistic reinterpretation."
+      },
+      "tags": [],
+      "coverImage": "images/517.png"
+    },
+    {
+      "id": 516,
+      "slug": "prompt-516",
+      "title": "配料合成食材",
+      "source": {
+        "name": "@servasyy",
+        "url": "https://x.com/servasyy/status/1992968777013850371"
+      },
+      "images": [
+        "images/516.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "将多种配料进行数字化合成，创造出富有想象力的未来食材，展现科技与美食的奇妙融合。",
+        "en": "Digitally synthesizing various ingredients to create imaginative future foods, showcasing the fascinating fusion of technology and cuisine."
+      },
+      "tags": [],
+      "coverImage": "images/516.jpeg"
+    },
+    {
+      "id": 515,
+      "slug": "prompt-515",
+      "title": "担担面高级海报",
+      "source": {
+        "name": "@berryxia_ai",
+        "url": "https://x.com/berryxia_ai/status/1992989895850430908"
+      },
+      "images": [
+        "images/515.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "担担面海报以高级暗调呈现，红油与花生碎在光影下质感诱人，搭配极简中文书法，展现川味小吃的精致美学。",
+        "en": "A premium poster for Dan Dan Noodles, featuring glossy chili oil and crushed peanuts in moody lighting, paired with minimalist calligraphy, elevating street food to gourmet art."
+      },
+      "tags": [],
+      "coverImage": "images/515.jpeg"
+    },
+    {
+      "id": 514,
+      "slug": "prompt-514",
+      "title": "复刻图片提示词",
+      "source": {
+        "name": "@Jackywine",
+        "url": "https://x.com/Jackywine/status/1993110891404116143"
+      },
+      "images": [
+        "images/514.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "通过精准的提示词复刻经典图像风格，展现AI绘画对细节与氛围的还原能力，实现创意再现。",
+        "en": "Recreate iconic image styles with precise prompts, showcasing AI's ability to restore details and atmosphere for creative reproduction."
+      },
+      "tags": [],
+      "coverImage": "images/514.jpeg"
+    },
+    {
+      "id": 513,
+      "slug": "prompt-513",
+      "title": "labubu风格动态",
+      "source": {
+        "name": "@berryxia_ai",
+        "url": "https://x.com/berryxia_ai/status/1992980014841925773"
+      },
+      "images": [
+        "images/513.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "Labubu风格的动态角色，夸张表情与灵动姿态，充满童趣与奇幻色彩，展现独特艺术魅力。",
+        "en": "Dynamic Labubu-style character with exaggerated expressions and lively poses, full of whimsy and fantasy, showcasing unique artistic charm."
+      },
+      "tags": [],
+      "coverImage": "images/513.jpeg"
+    },
+    {
+      "id": 512,
+      "slug": "prompt-512",
+      "title": "高清杂志跨页",
+      "source": {
+        "name": "@LufzzLiz",
+        "url": "https://x.com/LufzzLiz/status/1992985009540698359"
+      },
+      "images": [
+        "images/512.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "高清杂志跨页设计，展现时尚大片质感，融合现代排版与视觉冲击力，适合高端品牌展示。",
+        "en": "A high-definition magazine spread showcasing fashion editorial quality, blending modern typography with visual impact, ideal for premium brand presentation."
+      },
+      "tags": [],
+      "coverImage": "images/512.jpeg"
+    },
+    {
+      "id": 511,
+      "slug": "prompt-511",
+      "title": "最后的晚餐",
+      "source": {
+        "name": "@CharaspowerAI",
+        "url": "https://x.com/CharaspowerAI/status/1993065781362672074"
+      },
+      "images": [
+        "images/511.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "达芬奇名画《最后的晚餐》的现代AI重绘，融合赛博朋克光影与未来主义细节，呈现科技与信仰的碰撞。",
+        "en": "A cyberpunk reinterpretation of Da Vinci's 'The Last Supper', blending neon-lit futurism with classical composition in an AI-generated vision."
+      },
+      "tags": [],
+      "coverImage": "images/511.jpeg"
+    },
+    {
+      "id": 510,
+      "slug": "prompt-510",
+      "title": "宫崎骏的角色走进最后的晚餐",
+      "source": {
+        "name": "@0xbisc",
+        "url": "https://x.com/0xbisc/status/1993295676281913633"
+      },
+      "images": [
+        "images/510.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "宫崎骏动画中的经典角色齐聚一堂，以《最后的晚餐》构图呈现，奇幻与古典艺术交织出宁静而神秘的氛围。",
+        "en": "Hayao Miyazaki's iconic characters gather in a serene, mystical reinterpretation of 'The Last Supper', blending fantasy with classical artistry."
+      },
+      "tags": [],
+      "coverImage": "images/510.jpeg"
+    },
+    {
+      "id": 509,
+      "slug": "prompt-509",
+      "title": "记忆宫殿学习英语",
+      "source": {
+        "name": "@lxfater",
+        "url": "https://x.com/lxfater/status/1992984573551276147"
+      },
+      "images": [
+        "images/509.jpeg"
+      ],
+      "prompts": [],
+      "examples": [],
+      "notes": [],
+      "originFile": "README.md",
+      "description": {
+        "zh": "通过构建视觉化的记忆宫殿，将英语单词与生动场景关联，让学习过程如探索奇幻世界般高效有趣。",
+        "en": "Associate English vocabulary with vivid scenes by constructing a visual memory palace, making learning as efficient and engaging as exploring a fantasy world."
+      },
+      "tags": [],
+      "coverImage": "images/509.jpeg"
+    }
+  ]
+}
