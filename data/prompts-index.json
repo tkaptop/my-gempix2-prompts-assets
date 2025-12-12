@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "total": 807,
+  "generatedAt": "2025-12-12T04:15:59.122Z",
+  "chunks": [
+    {
+      "file": "prompts-chunk-1.json",
+      "startId": 1,
+      "endId": 400,
+      "count": 400
+    },
+    {
+      "file": "prompts-chunk-2.json",
+      "startId": 401,
+      "endId": 820,
+      "count": 400
+    },
+    {
+      "file": "prompts-chunk-3.json",
+      "startId": 821,
+      "endId": 827,
+      "count": 7
+    }
+  ]
+}
