@@ -25,7 +25,7 @@
     </td>
     <!-- 右侧图片单元格 -->
     <td>
-      <img src="./images/wechat.jpg" style="width: 300px; height: auto; margin: 0;">
+      <img src="./wechat.png" style="width: 300px; height: auto; margin: 0;">
     </td>
   </tr>
 </table>
