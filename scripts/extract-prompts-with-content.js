@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const START_ID = 681;
-const END_ID = 827;
+const START_ID = 828;
+const END_ID = 988;
 const SOURCE_README = '/tmp/gpt4o-image-prompts/README.md';
-const OUTPUT_FILE = path.join(__dirname, '../data/prompts-681-827.json');
+const OUTPUT_FILE = path.join(__dirname, '../data/prompts-828-988.json');
 
 const readme = fs.readFileSync(SOURCE_README, 'utf-8');
 
